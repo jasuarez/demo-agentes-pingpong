@@ -1,0 +1,2921 @@
+##############################################################
+## java -server -Xmx256m pingpong.jatlite.ClienteyServidorLoad 20  
+##                                                            
+## Por jota (jue dic 16 10:04:52 CET 2004)                                    
+##############################################################
+
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong1
+(reconnect-agent :host null :port 5501 :sender pong1 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong2
+(reconnect-agent :host null :port 5502 :sender pong2 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong3
+(reconnect-agent :host null :port 5503 :sender pong3 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong4
+(reconnect-agent :host null :port 5504 :sender pong4 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong5
+(reconnect-agent :host null :port 5505 :sender pong5 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong6
+(reconnect-agent :host null :port 5506 :sender pong6 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong7
+(reconnect-agent :host null :port 5507 :sender pong7 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong8
+(reconnect-agent :host null :port 5508 :sender pong8 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong9
+(reconnect-agent :host null :port 5509 :sender pong9 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong10
+(reconnect-agent :host null :port 5510 :sender pong10 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong11
+(reconnect-agent :host null :port 5511 :sender pong11 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Initialization success
+Client Enrutador running
+Start to register
+Register accepted
+Before
+Start to connect as pong12
+(reconnect-agent :host null :port 5512 :sender pong12 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Initialization success
+Client Enrutador running
+Start to register
+Register accepted
+Before
+Start to connect as pong13
+(reconnect-agent :host null :port 5513 :sender pong13 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Initialization success
+Client Enrutador running
+Start to register
+Register accepted
+Before
+Start to connect as pong14
+(reconnect-agent :host null :port 5514 :sender pong14 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong15
+(reconnect-agent :host null :port 5515 :sender pong15 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong16
+(reconnect-agent :host null :port 5516 :sender pong16 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong17
+(reconnect-agent :host null :port 5517 :sender pong17 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong18
+(reconnect-agent :host null :port 5518 :sender pong18 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong19
+(reconnect-agent :host null :port 5519 :sender pong19 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong20
+(reconnect-agent :host null :port 5520 :sender pong20 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+20|Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping1
+(reconnect-agent :host null :port 5601 :sender ping1 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Sending message
+Sending success
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping2
+(reconnect-agent :host null :port 5602 :sender ping2 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Start to register
+Register accepted
+Before
+Start to connect as ping3
+(reconnect-agent :host null :port 5603 :sender ping3 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Sending message
+Sending success
+Initialization success
+PING1> El valor es 87666
+Sending message
+Sending success
+Start to register
+Register accepted
+Before
+Start to connect as ping4
+(reconnect-agent :host null :port 5604 :sender ping4 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+PING2> El valor es -52558
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping5
+(reconnect-agent :host null :port 5605 :sender ping5 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Sending message
+Sending success
+PING3> El valor es 239862
+Sending message
+Sending success
+PING1> El valor es 193536
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING4> El valor es 242816
+Sending message
+Sending success
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping6
+(reconnect-agent :host null :port 5606 :sender ping6 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Sending message
+Sending success
+PING2> El valor es 101075
+Sending message
+Sending success
+PING5> El valor es 160198
+Sending message
+Sending success
+Initialization success
+Sending message
+Sending success
+PING3> El valor es -64398
+Sending message
+Sending success
+Start to register
+Register accepted
+Before
+Start to connect as ping7
+(reconnect-agent :host null :port 5607 :sender ping7 :receiver Enrutador :password jhc)
+PING1> El valor es -27145
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping8
+(reconnect-agent :host null :port 5608 :sender ping8 :receiver Enrutador :password jhc)
+PING4> El valor es 102189
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+PING6> El valor es -24297
+Sending message
+Sending success
+PING2> El valor es -309737
+Sending message
+Sending success
+Sending message
+Sending success
+PING5> El valor es -24780
+Sending message
+Sending success
+Initialization success
+PING3> El valor es 310372
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Register accepted
+Before
+Start to connect as ping9
+Sending message
+Sending success
+PING1> El valor es 130753
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+(reconnect-agent :host null :port 5609 :sender ping9 :receiver Enrutador :password jhc)
+PING7> El valor es 89814
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+PING4> El valor es 148807
+Sending message
+Sending success
+PING8> El valor es -123569
+Sending message
+Sending success
+PING6> El valor es 10199
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> El valor es -20559
+Sending message
+Sending success
+PING5> El valor es -25413
+Sending message
+Sending success
+Sending message
+Sending success
+Initialization success
+Start to register
+PING3> El valor es 288235
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping10
+Sending message
+Sending success
+Sending message
+Sending success
+(reconnect-agent :host null :port 5610 :sender ping10 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+PING1> El valor es -72138
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Client Enrutador running
+PING7> El valor es -2383
+Sending message
+Sending success
+PING8> El valor es -17713
+Sending message
+Sending success
+PING6> El valor es 141596
+Sending message
+Sending success
+PING9> El valor es -182736
+Sending message
+Sending success
+PING4> El valor es -76831
+Sending message
+Sending success
+PING2> El valor es -239547
+Sending message
+Sending success
+Sending message
+Sending success
+Initialization success
+Sending message
+Sending success
+PING5> El valor es 345720
+Sending message
+Sending success
+PING3> El valor es 180045
+Sending message
+Sending success
+Start to register
+Register accepted
+Before
+Start to connect as ping11
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es 83513
+Sending message
+Sending success
+(reconnect-agent :host null :port 5611 :sender ping11 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping12
+(reconnect-agent :host null :port 5612 :sender ping12 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+PING4> El valor es 1209
+Sending message
+Sending success
+PING8> El valor es -216819
+Sending message
+Sending success
+PING9> El valor es 274414
+Sending message
+Sending success
+PING10> El valor es 287557
+Sending message
+Sending success
+PING6> El valor es 323551
+Sending message
+Sending success
+PING2> El valor es 85658
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es 218248
+Sending message
+Sending success
+PING5> El valor es -89992
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING3> El valor es -6943
+Sending message
+Sending success
+PING1> El valor es 395663
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Initialization success
+Sending message
+Sending success
+Start to register
+PING11> El valor es -178162
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping13
+(reconnect-agent :host null :port 5613 :sender ping13 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+PING12> El valor es 40707
+Sending message
+Sending success
+PING8> El valor es 142738
+Sending message
+Sending success
+PING4> El valor es 73068
+Sending message
+Sending success
+PING2> El valor es -192115
+Sending message
+Sending success
+PING6> El valor es 161463
+Sending message
+Sending success
+PING9> El valor es 150456
+Sending message
+Sending success
+PING10> El valor es 100092
+Sending message
+Sending success
+Sending message
+Sending success
+PING5> El valor es -382
+Sending message
+Sending success
+PING7> El valor es 194405
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Initialization success
+Sending message
+Sending success
+PING1> El valor es -266660
+Sending message
+Sending success
+Start to register
+Register accepted
+Before
+Start to connect as ping14
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+(reconnect-agent :host null :port 5614 :sender ping14 :receiver Enrutador :password jhc)
+PING3> El valor es -196172
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+PING13> El valor es -162354
+Sending message
+Sending success
+PING12> El valor es 25820
+Sending message
+Sending success
+PING6> El valor es -1770
+Sending message
+Sending success
+PING8> El valor es 218140
+Sending message
+Sending success
+PING9> El valor es -48221
+Sending message
+Sending success
+PING10> El valor es 166358
+Sending message
+Sending success
+PING11> El valor es -14430
+Sending message
+Sending success
+PING2> El valor es -128604
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING5> El valor es 255263
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es 27217
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es -21193
+Sending message
+Sending success
+Initialization success
+PING4> El valor es 80683
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+PING3> El valor es 221650
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping15
+PING14> El valor es -188187
+Sending message
+Sending success
+PING13> El valor es 135338
+Sending message
+Sending success
+PING12> El valor es 276458
+Sending message
+Sending success
+PING9> El valor es 366847
+Sending message
+Sending success
+Sending message
+Sending success
+PING8> El valor es -70381
+Sending message
+Sending success
+(reconnect-agent :host null :port 5615 :sender ping15 :receiver Enrutador :password jhc)
+PING10> El valor es 133270
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+PING11> El valor es -131566
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING5> El valor es 115919
+Sending message
+Sending success
+PING6> El valor es -74476
+Sending message
+Sending success
+PING2> El valor es -162677
+Sending message
+Sending success
+Client Enrutador running
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es 6888
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING3> El valor es -9642
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING4> El valor es -2731
+Sending message
+Sending success
+PING9> El valor es -200328
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es -138134
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING8> El valor es -162473
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Initialization success
+PING13> El valor es 166580
+Sending message
+Sending success
+Start to register
+Register accepted
+Before
+Start to connect as ping16
+(reconnect-agent :host null :port 5616 :sender ping16 :receiver Enrutador :password jhc)
+PING5> El valor es 405420
+Sending message
+Sending success
+PING14> El valor es 144738
+Sending message
+Sending success
+PING11> El valor es 299481
+Sending message
+Sending success
+PING10> El valor es -77006
+Sending message
+Sending success
+PING7> El valor es 15374
+Sending message
+Sending success
+PING6> El valor es 74570
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+PING15> El valor es 259084
+Sending message
+Sending success
+PING2> El valor es -19590
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es 310537
+Sending message
+Sending success
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+PING3> El valor es -160176
+Sending message
+Sending success
+PING4> El valor es 120986
+Sending message
+Sending success
+Sending message
+Sending success
+PING9> El valor es -286811
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es 56295
+Sending message
+Sending success
+PING13> El valor es 231017
+Sending message
+Sending success
+PING8> El valor es -74774
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+PING6> El valor es 307684
+Sending message
+Sending success
+PING5> El valor es 426367
+Sending message
+Sending success
+PING14> El valor es 419776
+Sending message
+Sending success
+Sending message
+Sending success
+PING11> El valor es -123203
+Sending message
+Sending success
+PING10> El valor es -602307
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping17
+PING16> El valor es -124289
+Sending message
+Sending success
+PING15> El valor es 100611
+Sending message
+Sending success
+(reconnect-agent :host null :port 5617 :sender ping17 :receiver Enrutador :password jhc)
+PING7> El valor es -118990
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> El valor es -82346
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Sending message
+Sending success
+PING3> El valor es -282104
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es 73315
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es 364899
+Sending message
+Sending success
+PING9> El valor es -75848
+Sending message
+Sending success
+PING8> El valor es 417587
+Sending message
+Sending success
+PING13> El valor es 99127
+Sending message
+Sending success
+PING4> El valor es 181185
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING5> El valor es -422355
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING10> El valor es -337372
+Sending message
+Sending success
+PING11> El valor es 453873
+Sending message
+Sending success
+Sending message
+Sending success
+PING16> El valor es 240011
+Sending message
+Sending success
+PING15> El valor es 196865
+Sending message
+Sending success
+Sending message
+PING6> El valor es 64932
+Sending success
+Sending message
+Sending success
+PING14> El valor es -401810
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> El valor es -269370
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es -509511
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es 335798
+Sending message
+Sending success
+PING8> El valor es 308719
+Sending message
+Sending success
+PING4> El valor es 307590
+Sending message
+Sending success
+PING3> El valor es 201400
+Sending message
+Sending success
+PING13> El valor es -223530
+Sending message
+Sending success
+PING12> El valor es 135447
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING5> El valor es 197844
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING11> El valor es 119356
+Sending message
+Sending success
+PING16> El valor es -199108
+Sending message
+Sending success
+PING9> El valor es -113053
+Sending message
+Sending success
+PING6> El valor es -257827
+Sending message
+Sending success
+Sending message
+Sending success
+PING15> El valor es 177937
+Sending message
+Sending success
+Initialization success
+PING14> El valor es 168427
+Sending message
+Sending success
+PING17> El valor es 221314
+Sending message
+Sending success
+PING10> El valor es -459107
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es -72854
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Register accepted
+Before
+Start to connect as ping18
+PING11> El valor es 7809
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es 110739
+Sending message
+Sending success
+PING9> El valor es -252542
+Sending message
+Sending success
+PING5> El valor es -184019
+Sending message
+Sending success
+PING8> El valor es 258224
+Sending message
+Sending success
+PING6> El valor es 665627
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> El valor es 34174
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es 19978
+Sending message
+Sending success
+PING15> El valor es -55371
+Sending message
+Sending success
+PING3> El valor es 153316
+Sending message
+Sending success
+PING13> El valor es -38634
+Sending message
+Sending success
+Sending message
+Sending success
+(reconnect-agent :host null :port 5618 :sender ping18 :receiver Enrutador :password jhc)
+PING7> El valor es 54126
+Sending message
+Sending success
+PING14> El valor es 112782
+Sending message
+Sending success
+PING4> El valor es -37610
+Sending message
+Sending success
+PING10> El valor es 219081
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Client Enrutador running
+PING17> El valor es 226268
+Sending message
+Sending success
+PING16> El valor es 66121
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Initialization success
+Start to register
+PING11> El valor es 129733
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping19
+PING9> El valor es -319041
+Sending message
+Sending success
+PING5> El valor es 14532
+Sending message
+Sending success
+PING12> El valor es -174858
+Sending message
+Sending success
+PING8> El valor es 221194
+Sending message
+Sending success
+PING6> El valor es 387279
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> El valor es -139365
+Sending message
+Sending success
+PING1> El valor es 189681
+Sending message
+Sending success
+Sending message
+Sending success
+PING15> El valor es -168335
+Sending message
+Sending success
+PING3> El valor es -217909
+Sending message
+Sending success
+PING13> El valor es 63570
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es 114441
+Sending message
+Sending success
+PING4> El valor es 378203
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING10> El valor es -168894
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING14> El valor es 272412
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING17> El valor es -219778
+Sending message
+Sending success
+PING18> El valor es -244610
+Sending message
+Sending success
+PING16> El valor es -628806
+Sending message
+Sending success
+PING11> El valor es -55292
+Sending message
+Sending success
+PING12> El valor es -16654
+Sending message
+Sending success
+PING6> El valor es -235073
+Sending message
+Sending success
+PING5> El valor es -331174
+Sending message
+Sending success
+PING8> El valor es 323922
+Sending message
+Sending success
+PING2> El valor es -17237
+Sending message
+Sending success
+PING1> El valor es 40456
+Sending message
+Sending success
+(reconnect-agent :host null :port 5619 :sender ping19 :receiver Enrutador :password jhc)
+PING15> El valor es 254149
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Sending message
+Sending success
+PING3> El valor es -329795
+Sending message
+Sending success
+PING13> El valor es 494724
+Sending message
+Sending success
+PING9> El valor es 472164
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es 352411
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Initialization success
+PING10> El valor es -297541
+Sending message
+Sending success
+PING4> El valor es 402674
+Sending message
+Sending success
+Sending message
+Sending success
+PING17> El valor es -301093
+Sending message
+Sending success
+PING18> El valor es 429739
+Sending message
+Sending success
+Sending message
+Sending success
+PING14> El valor es -746026
+Sending message
+Sending success
+PING8> El valor es 208912
+Sending message
+Sending success
+PING12> El valor es -128456
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING16> El valor es -542118
+Sending message
+Sending success
+PING2> El valor es -107724
+Sending message
+Sending success
+PING11> El valor es 464475
+Sending message
+Sending success
+PING15> El valor es -202316
+Sending message
+Sending success
+PING3> El valor es 291211
+Sending message
+Sending success
+PING13> El valor es 93258
+Sending message
+Sending success
+PING9> El valor es -399040
+Sending message
+Sending success
+PING6> El valor es 934118
+Sending message
+Sending success
+PING5> El valor es 399596
+Sending message
+Sending success
+PING1> El valor es -180887
+Sending message
+Sending success
+PING7> El valor es -200184
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Register accepted
+Before
+Start to connect as ping20
+PING10> El valor es 347424
+Sending message
+Sending success
+PING4> El valor es 552533
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING18> El valor es -433168
+Sending message
+Sending success
+PING19> El valor es -204221
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING8> El valor es 131958
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+(reconnect-agent :host null :port 5620 :sender ping20 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+PING17> El valor es -6523
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+PING11> El valor es 97322
+PING11> Inicio de la medida
+Sending message
+Sending success
+PING14> El valor es -23009
+Sending message
+Sending success
+PING9> El valor es 412604
+PING9> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es -80730
+PING1> Inicio de la medida
+Sending message
+Sending success
+PING2> El valor es 297987
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es -501773
+PING7> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING16> El valor es 126139
+Sending message
+Sending success
+PING6> El valor es 357598
+PING6> Inicio de la medida
+Sending message
+Sending success
+PING5> El valor es -343053
+Sending message
+Sending success
+PING13> El valor es -202377
+Sending message
+Sending success
+Todos los agentes iniciados
+20-PING4> El valor es -498156
+PING4> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING18> El valor es -363329
+PING18> Inicio de la medida
+Sending message
+Sending success
+PING19> El valor es 166138
+PING19> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING8> El valor es 136896
+PING8> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING10> El valor es 251903
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING15> El valor es 236005
+Sending message
+Sending success
+PING11> El valor es 90801
+Sending message
+Sending success
+PING20> El valor es 151423
+Sending message
+Sending success
+PING3> El valor es 151918
+Sending message
+Sending success
+PING12> El valor es -125792
+PING12> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING17> El valor es 166257
+PING17> Inicio de la medida
+Sending message
+Sending success
+PING6> El valor es 45050
+Sending message
+Sending success
+PING1> El valor es -414708
+Sending message
+Sending success
+PING2> El valor es -50514
+PING2> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es 136278
+Sending message
+Sending success
+PING14> El valor es 622710
+PING14> Inicio de la medida
+Sending message
+Sending success
+PING9> El valor es -176466
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING16> El valor es 173771
+PING16> Inicio de la medida
+Sending message
+Sending success
+PING5> El valor es -98384
+PING5> Inicio de la medida
+Sending message
+Sending success
+PING13> El valor es -125933
+PING13> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING4> El valor es 12889
+Sending message
+Sending success
+Sending message
+Sending success
+20-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING8> El valor es 349096
+Sending message
+Sending success
+PING18> El valor es 8195
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING11> El valor es 229339
+Sending message
+Sending success
+PING15> El valor es -247501
+PING15> Inicio de la medida
+Sending message
+Sending success
+PING20> El valor es 198021
+PING20> Inicio de la medida
+Sending message
+Sending success
+PING3> El valor es 358707
+PING3> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es -500294
+Sending message
+Sending success
+PING10> El valor es 95468
+PING10> Inicio de la medida
+Sending message
+Sending success
+Sending message
+PING17> El valor es -33230
+Sending message
+Sending success
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING19> El valor es 148740
+Sending message
+Sending success
+PING2> El valor es 41356
+Sending message
+Sending success
+PING1> El valor es 283145
+Sending message
+Sending success
+PING7> El valor es -107971
+Sending message
+Sending success
+PING14> El valor es -549153
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING16> El valor es 2970
+Sending message
+Sending success
+PING6> El valor es 117235
+Sending message
+Sending success
+PING5> El valor es -206518
+Sending message
+Sending success
+Sending message
+Sending success
+PING4> El valor es -332049
+Sending message
+Sending success
+PING9> El valor es -3830
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING13> El valor es 247780
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING8> El valor es 134875
+Sending message
+Sending success
+20-Sending message
+Sending success
+Sending message
+Sending success
+PING11> El valor es 382449
+Sending message
+Sending success
+PING18> El valor es 277948
+Sending message
+Sending success
+PING15> El valor es -151342
+Sending message
+Sending success
+Sending message
+Sending success
+PING20> El valor es 157081
+Sending message
+Sending success
+PING3> El valor es 293169
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es 126218
+Sending message
+Sending success
+PING2> El valor es -659760
+Sending message
+Sending success
+PING1> El valor es 606782
+Sending message
+Sending success
+PING7> El valor es -657727
+Sending message
+Sending success
+PING14> El valor es -326331
+Sending message
+Sending success
+PING10> El valor es -73117
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING17> El valor es -23594
+Sending message
+Sending success
+PING16> El valor es 324451
+Sending message
+Sending success
+PING6> El valor es -208890
+Sending message
+Sending success
+Sending message
+Sending success
+PING9> El valor es -73101
+Sending message
+Sending success
+Sending message
+Sending success
+PING4> El valor es -169483
+Sending message
+Sending success
+Sending message
+Sending success
+PING13> El valor es -207483
+Sending message
+Sending success
+PING5> El valor es -129660
+Sending message
+Sending success
+PING18> El valor es -72972
+Sending message
+Sending success
+PING15> El valor es 382433
+Sending message
+Sending success
+PING3> El valor es 22097
+Sending message
+Sending success
+20-PING11> El valor es 297083
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING19> El valor es 653735
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING6> El valor es -285296
+Sending message
+Sending success
+PING16> El valor es 386664
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING14> El valor es -247423
+Sending message
+Sending success
+Sending message
+Sending success
+PING9> El valor es -12151
+Sending message
+Sending success
+PING17> El valor es -312153
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> El valor es -56770
+Sending message
+Sending success
+PING1> El valor es -209700
+Sending message
+Sending success
+PING13> El valor es 44909
+Sending message
+Sending success
+PING20> El valor es -5391
+Sending message
+Sending success
+PING7> El valor es 16287
+Sending message
+Sending success
+PING8> El valor es 702868
+Sending message
+Sending success
+PING4> El valor es -101565
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING18> El valor es -206596
+Sending message
+Sending success
+PING12> El valor es 474179
+Sending message
+Sending success
+PING15> El valor es 237
+Sending message
+Sending success
+PING5> El valor es 225043
+Sending message
+Sending success
+PING3> El valor es 179339
+Sending message
+Sending success
+PING10> El valor es 250145
+Sending message
+Sending success
+Sending message
+Sending success
+PING19> El valor es -302095
+Sending message
+Sending success
+20-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING11> El valor es 84993
+Sending message
+Sending success
+PING6> El valor es 6665
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING9> El valor es -413258
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> El valor es -407597
+Sending message
+Sending success
+PING1> El valor es 139293
+Sending message
+Sending success
+PING7> El valor es -308093
+Sending message
+Sending success
+PING4> El valor es 533816
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es -298683
+Sending message
+Sending success
+PING18> El valor es 133593
+Sending message
+Sending success
+PING15> El valor es 110425
+Sending message
+Sending success
+PING5> El valor es 221173
+Sending message
+Sending success
+PING20> El valor es 780370
+Sending message
+Sending success
+PING3> El valor es 410716
+Sending message
+Sending success
+PING8> El valor es -292074
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING10> El valor es -406156
+Sending message
+Sending success
+PING11> El valor es 395943
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING19> El valor es -72229
+Sending message
+Sending success
+20-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING6> El valor es 58313
+Sending message
+Sending success
+PING16> El valor es 42253
+Sending message
+Sending success
+PING14> El valor es 404829
+Sending message
+Sending success
+PING7> El valor es -16749
+Sending message
+Sending success
+PING17> El valor es 298540
+Sending message
+Sending success
+Sending message
+Sending success
+PING9> El valor es 86092
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es -460293
+Sending message
+Sending success
+Sending message
+Sending success
+PING15> El valor es 430352
+Sending message
+Sending success
+PING20> El valor es -199523
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es -272800
+Sending message
+Sending success
+PING13> El valor es -436336
+Sending message
+Sending success
+PING2> El valor es 194730
+Sending message
+Sending success
+PING5> El valor es -528310
+Sending message
+Sending success
+PING3> El valor es 33015
+Sending message
+Sending success
+PING4> El valor es 151008
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING18> El valor es 884907
+Sending message
+Sending success
+PING10> El valor es -256621
+Sending message
+Sending success
+PING8> El valor es -199822
+Sending message
+Sending success
+PING11> El valor es -98453
+Sending message
+Sending success
+PING19> El valor es 393399
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+20-PING7> El valor es 214078
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es -123992
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING15> El valor es -49575
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING16> El valor es 554565
+Sending message
+Sending success
+PING6> El valor es -66687
+Sending message
+Sending success
+PING20> El valor es -302653
+Sending message
+Sending success
+PING5> El valor es -158220
+Sending message
+Sending success
+PING14> El valor es -47318
+Sending message
+Sending success
+PING17> El valor es -30360
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es 276475
+Sending message
+Sending success
+PING2> El valor es 424742
+Sending message
+Sending success
+Sending message
+Sending success
+PING3> El valor es -164740
+Sending message
+Sending success
+PING4> El valor es 29105
+Sending message
+Sending success
+PING10> El valor es 118305
+Sending message
+Sending success
+PING9> El valor es 39366
+Sending message
+Sending success
+PING18> El valor es 127382
+Sending message
+Sending success
+Sending message
+Sending success
+PING13> El valor es -35904
+Sending message
+Sending success
+PING19> El valor es -225319
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es 79148
+Sending message
+Sending success
+PING8> El valor es 96021
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING15> El valor es 751833
+Sending message
+Sending success
+PING11> El valor es -279335
+Sending message
+Sending success
+20-PING16> El valor es -579779
+Sending message
+Sending success
+PING6> El valor es 379921
+Sending message
+Sending success
+PING5> El valor es -101242
+Sending message
+Sending success
+PING14> El valor es -24559
+Sending message
+Sending success
+Sending message
+Sending success
+PING17> El valor es -171437
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es 164341
+Sending message
+Sending success
+PING2> El valor es 176961
+Sending message
+Sending success
+PING1> El valor es -160723
+Sending message
+Sending success
+PING20> El valor es -435269
+Sending message
+Sending success
+PING10> El valor es -303958
+Sending message
+Sending success
+PING4> El valor es 227620
+Sending message
+Sending success
+PING3> El valor es 509014
+Sending message
+Sending success
+PING9> El valor es -196799
+Sending message
+Sending success
+PING18> El valor es -39398
+Sending message
+Sending success
+Sending message
+Sending success
+PING13> El valor es -156837
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING19> El valor es 487235
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es 388328
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING11> El valor es -373221
+Sending message
+Sending success
+PING15> El valor es 188444
+Sending message
+Sending success
+PING5> El valor es 460567
+Sending message
+Sending success
+PING6> El valor es -70965
+Sending message
+Sending success
+Sending message
+Sending success
+PING14> El valor es 217091
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING8> El valor es -35328
+Sending message
+Sending success
+PING12> El valor es -342503
+Sending message
+Sending success
+Sending message
+Sending success
+20-PING1> El valor es 93235
+Sending message
+Sending success
+PING10> El valor es -312653
+Sending message
+Sending success
+PING4> El valor es 85745
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING18> El valor es -201664
+Sending message
+Sending success
+PING9> El valor es 247354
+Sending message
+Sending success
+PING13> El valor es -74299
+Sending message
+Sending success
+PING20> El valor es -51852
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING3> El valor es 371172
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> El valor es 369169
+Sending message
+Sending success
+PING16> El valor es -147477
+Sending message
+Sending success
+Sending message
+Sending success
+PING17> El valor es 218104
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es -45037
+PING7> Fin de la medida
+
+@PING7,4341
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING6> El valor es -117863
+PING6> Fin de la medida
+
+@PING6,4382
+Sending message
+Sending success
+PING19> El valor es -484989
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING14> El valor es 166876
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es -248184
+Sending message
+Sending success
+PING11> El valor es -26188
+PING11> Fin de la medida
+
+@PING11,4674
+Sending message
+Sending success
+PING15> El valor es 227786
+Sending message
+Sending success
+PING5> El valor es 49121
+Sending message
+Sending success
+PING10> El valor es 525465
+Sending message
+Sending success
+PING4> El valor es -534647
+PING4> Fin de la medida
+
+@PING4,4463
+Sending message
+Sending success
+PING8> El valor es 239161
+Sending message
+Sending success
+16-PING18> El valor es -435399
+PING18> Fin de la medida
+
+@PING18,4467
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING9> El valor es 19057
+PING9> Fin de la medida
+
+@PING9,4723
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es -215713
+PING1> Fin de la medida
+
+@PING1,4702
+Sending message
+Sending success
+PING13> El valor es 49047
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> El valor es 136343
+Sending message
+Sending success
+PING20> El valor es -60910
+Sending message
+Sending success
+PING7> El valor es 190852
+Sending message
+Sending success
+PING3> El valor es -37507
+Sending message
+Sending success
+PING17> El valor es -100026
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING16> El valor es -299027
+Sending message
+Sending success
+PING19> El valor es 644162
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es 346633
+PING12> Fin de la medida
+
+@PING12,4603
+Sending message
+Sending success
+PING5> El valor es -119900
+PING5> Fin de la medida
+
+@PING5,4467
+Sending message
+Sending success
+PING6> El valor es 331928
+Sending message
+Sending success
+PING15> El valor es -56092
+PING15> Fin de la medida
+
+@PING15,4265
+Sending message
+Sending success
+Sending message
+Sending success
+PING10> El valor es -83422
+Sending message
+Sending success
+PING14> El valor es -212503
+Sending message
+Sending success
+Sending message
+PING18> El valor es -46931
+Sending message
+Sending success
+Sending success
+Sending message
+Sending success
+PING9> El valor es -307780
+Sending message
+Sending success
+PING11> El valor es 319631
+Sending message
+Sending success
+PING13> El valor es 440221
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING4> El valor es 24164
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+10-Sending message
+Sending success
+Sending message
+Sending success
+PING1> El valor es -122010
+Sending message
+Sending success
+PING2> El valor es -310548
+PING2> Fin de la medida
+
+@PING2,4780
+Sending message
+Sending success
+PING20> El valor es 125307
+Sending message
+Sending success
+PING3> El valor es 101387
+PING3> Fin de la medida
+
+@PING3,4472
+Sending message
+Sending success
+PING17> El valor es 50646
+Sending message
+Sending success
+Sending message
+Sending success
+PING8> El valor es -113627
+Sending message
+Sending success
+Sending message
+Sending success
+PING16> El valor es 79683
+Sending message
+Sending success
+PING19> El valor es -49396
+PING19> Fin de la medida
+
+@PING19,5091
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> El valor es -116423
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> El valor es 25937
+Sending message
+Sending success
+PING15> El valor es 16691
+Sending message
+Sending success
+Sending message
+Sending success
+PING6> El valor es -158991
+Sending message
+Sending success
+PING5> El valor es -72523
+Sending message
+Sending success
+PING10> El valor es -570071
+PING10> Fin de la medida
+
+@PING10,4673
+Sending message
+Sending success
+PING14> El valor es 508302
+PING14> Fin de la medida
+
+@PING14,4995
+Sending message
+Sending success
+Sending message
+Sending success
+PING18> El valor es 352400
+Sending message
+Sending success
+PING9> El valor es -392150
+Sending message
+Sending success
+PING11> El valor es 187551
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING13> El valor es 246966
+PING13> Fin de la medida
+
+@PING13,4997
+Sending message
+Sending success
+PING4> El valor es 165507
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> El valor es -69764
+Sending message
+Sending success
+Sending message
+Sending success
+PING20> El valor es -211346
+PING20> Fin de la medida
+
+@PING20,4905
+Sending message
+Sending success
+Sending message
+Sending success
+PING17> El valor es -240536
+PING17> Fin de la medida
+
+@PING17,5286
+Sending message
+Sending success
+Sending message
+Sending success
+2-PING1> El valor es 332659
+Sending message
+Sending success
+PING19> El valor es 42775
+Sending message
+Sending success
+PING7> El valor es 833793
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING15> El valor es 33199
+Sending message
+Sending success
+PING12> El valor es 340805
+Sending message
+Sending success
+Sending message
+Sending success
+PING3> El valor es -374872
+Sending message
+Sending success
+PING8> El valor es -35682
+PING8> Fin de la medida
+
+@PING8,5620
+Sending message
+Sending success
+PING14> El valor es -272740
+Sending message
+Sending success
+Sending message
+Sending success
+PING18> El valor es 136657
+Sending message
+Sending success
+PING11> El valor es 300087
+Sending message
+Sending success
+Sending message
+Sending success
+PING9> El valor es -383961
+Sending message
+Sending success
+Sending message
+Sending success
+PING6> El valor es 110429
+Sending message
+Sending success
+PING13> El valor es -330008
+Sending message
+Sending success
+PING5> El valor es -97967
+Sending message
+Sending success
+PING4> El valor es 461013
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING16> El valor es 386136
+PING16> Fin de la medida
+
+@PING16,5516
+Sending message
+Sending success
+PING2> El valor es 600821
+PING17> El valor es 40102
+Sending message
+Sending success
+PING10> El valor es -405759
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING19> El valor es -70454
+PING20> El valor es -419829
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+0
+Fin de las pruebas
+Sending message
+Sending success

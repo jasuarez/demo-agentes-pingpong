@@ -1,0 +1,2863 @@
+##############################################################
+## java -server -Xmx256m pingpong.jatlite.Cliente 50          
+##                                                            
+## Por jota (mié dic 22 12:03:46 CET 2004)                                    
+##############################################################
+
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping1
+(reconnect-agent :host null :port 5601 :sender ping1 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Sending message
+Sending success
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping2
+(reconnect-agent :host null :port 5602 :sender ping2 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping3
+(reconnect-agent :host null :port 5603 :sender ping3 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping4
+(reconnect-agent :host null :port 5604 :sender ping4 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping5
+(reconnect-agent :host null :port 5605 :sender ping5 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping6
+(reconnect-agent :host null :port 5606 :sender ping6 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping7
+(reconnect-agent :host null :port 5607 :sender ping7 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping8
+Sending message
+Sending success
+(reconnect-agent :host null :port 5608 :sender ping8 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping9
+(reconnect-agent :host null :port 5609 :sender ping9 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping10
+(reconnect-agent :host null :port 5610 :sender ping10 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping11
+Sending message
+Sending success
+(reconnect-agent :host null :port 5611 :sender ping11 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping12
+(reconnect-agent :host null :port 5612 :sender ping12 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping13
+(reconnect-agent :host null :port 5613 :sender ping13 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping14
+Sending message
+Sending success
+(reconnect-agent :host null :port 5614 :sender ping14 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping15
+Sending message
+Sending success
+(reconnect-agent :host null :port 5615 :sender ping15 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping16
+(reconnect-agent :host null :port 5616 :sender ping16 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping17
+(reconnect-agent :host null :port 5617 :sender ping17 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping18
+(reconnect-agent :host null :port 5618 :sender ping18 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping19
+(reconnect-agent :host null :port 5619 :sender ping19 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping20
+(reconnect-agent :host null :port 5620 :sender ping20 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping21
+(reconnect-agent :host null :port 5621 :sender ping21 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping22
+(reconnect-agent :host null :port 5622 :sender ping22 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping23
+Sending message
+Sending success
+(reconnect-agent :host null :port 5623 :sender ping23 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping24
+Sending message
+Sending success
+(reconnect-agent :host null :port 5624 :sender ping24 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping25
+Sending message
+Sending success
+(reconnect-agent :host null :port 5625 :sender ping25 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping26
+(reconnect-agent :host null :port 5626 :sender ping26 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping27
+Sending message
+Sending success
+(reconnect-agent :host null :port 5627 :sender ping27 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping28
+Sending message
+Sending success
+Sending message
+Sending success
+(reconnect-agent :host null :port 5628 :sender ping28 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping29
+(reconnect-agent :host null :port 5629 :sender ping29 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping30
+(reconnect-agent :host null :port 5630 :sender ping30 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping31
+Sending message
+Sending success
+(reconnect-agent :host null :port 5631 :sender ping31 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping32
+(reconnect-agent :host null :port 5632 :sender ping32 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping33
+Sending message
+Sending success
+(reconnect-agent :host null :port 5633 :sender ping33 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping34
+Sending message
+Sending success
+Sending message
+Sending success
+(reconnect-agent :host null :port 5634 :sender ping34 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping35
+(reconnect-agent :host null :port 5635 :sender ping35 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping36
+Sending message
+Sending success
+(reconnect-agent :host null :port 5636 :sender ping36 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping37
+Sending message
+Sending success
+(reconnect-agent :host null :port 5637 :sender ping37 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping38
+(reconnect-agent :host null :port 5638 :sender ping38 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping39
+Sending message
+Sending success
+(reconnect-agent :host null :port 5639 :sender ping39 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping40
+Sending message
+Sending success
+(reconnect-agent :host null :port 5640 :sender ping40 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping41
+Sending message
+Sending success
+(reconnect-agent :host null :port 5641 :sender ping41 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping42
+Sending message
+Sending success
+(reconnect-agent :host null :port 5642 :sender ping42 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping43
+Sending message
+Sending success
+(reconnect-agent :host null :port 5643 :sender ping43 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping44
+Sending message
+Sending success
+(reconnect-agent :host null :port 5644 :sender ping44 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping45
+Sending message
+Sending success
+(reconnect-agent :host null :port 5645 :sender ping45 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping46
+Sending message
+Sending success
+Sending message
+Sending success
+(reconnect-agent :host null :port 5646 :sender ping46 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping47
+Sending message
+Sending success
+Sending message
+Sending success
+(reconnect-agent :host null :port 5647 :sender ping47 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping48
+Sending message
+Sending success
+Sending message
+Sending success
+(reconnect-agent :host null :port 5648 :sender ping48 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping49
+(reconnect-agent :host null :port 5649 :sender ping49 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Initialization success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Start to register
+Sending message
+Sending success
+Sending message
+Sending success
+Register accepted
+Before
+Start to connect as ping50
+Sending message
+Sending success
+(reconnect-agent :host null :port 5650 :sender ping50 :receiver Enrutador :password jhc)
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Connection established
+Enrutador started
+after
+Sending message
+Sending success
+Client Enrutador running
+Todos los agentes iniciados
+50-PING12> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING3> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING23> Inicio de la medida
+Sending message
+Sending success
+PING32> Inicio de la medida
+Sending message
+Sending success
+PING41> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING13> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING4> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING24> Inicio de la medida
+Sending message
+Sending success
+PING14> Inicio de la medida
+Sending message
+Sending success
+PING42> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING33> Inicio de la medida
+Sending message
+Sending success
+PING5> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING25> Inicio de la medida
+Sending message
+Sending success
+PING15> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING43> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING34> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING6> Inicio de la medida
+Sending message
+Sending success
+PING16> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING44> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING26> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING35> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING17> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING27> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING36> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING46> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING18> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING8> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING28> Inicio de la medida
+Sending message
+Sending success
+PING45> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING37> Inicio de la medida
+Sending message
+Sending success
+PING47> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING19> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING9> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING29> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING38> Inicio de la medida
+Sending message
+Sending success
+PING48> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING20> Inicio de la medida
+Sending message
+Sending success
+50-Sending message
+Sending success
+PING30> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING39> Inicio de la medida
+Sending message
+Sending success
+PING21> Inicio de la medida
+Sending message
+Sending success
+PING49> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING31> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+PING40> Inicio de la medida
+Sending message
+Sending success
+PING22> Inicio de la medida
+Sending message
+Sending success
+PING50> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING10> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING11> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+50-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+50-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+50-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending message
+Sending success
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+50-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+50-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING12> Fin de la medida
+
+@PING12,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING3> Fin de la medida
+
+@PING3,3009
+Sending message
+Sending message
+Sending success
+Sending success
+PING23> Fin de la medida
+
+@PING23,3009
+Sending message
+Sending success
+PING32> Fin de la medida
+
+@PING32,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING41> Fin de la medida
+
+@PING41,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING13> Fin de la medida
+
+@PING13,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING4> Fin de la medida
+
+@PING4,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING1> Fin de la medida
+
+@PING1,3101
+Sending message
+Sending success
+PING24> Fin de la medida
+
+@PING24,3009
+Sending message
+Sending success
+PING14> Fin de la medida
+
+@PING14,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING42> Fin de la medida
+
+@PING42,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING33> Fin de la medida
+
+@PING33,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING5> Fin de la medida
+
+@PING5,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING25> Fin de la medida
+
+@PING25,3009
+Sending message
+Sending success
+PING15> Fin de la medida
+
+@PING15,3009
+Sending message
+Sending success
+PING43> Fin de la medida
+
+@PING43,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING34> Fin de la medida
+
+@PING34,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING6> Fin de la medida
+
+@PING6,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING16> Fin de la medida
+
+@PING16,3009
+Sending message
+Sending success
+PING44> Fin de la medida
+
+@PING44,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING26> Fin de la medida
+
+@PING26,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING35> Fin de la medida
+
+@PING35,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING7> Fin de la medida
+
+@PING7,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING17> Fin de la medida
+
+@PING17,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING27> Fin de la medida
+
+@PING27,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING36> Fin de la medida
+
+@PING36,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING46> Fin de la medida
+
+@PING46,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING18> Fin de la medida
+
+@PING18,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING8> Fin de la medida
+
+@PING8,3009
+Sending message
+Sending success
+PING28> Fin de la medida
+
+@PING28,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING37> Fin de la medida
+
+@PING37,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING47> Fin de la medida
+
+@PING47,3009
+Sending message
+Sending success
+PING19> Fin de la medida
+
+@PING19,3009
+Sending message
+Sending success
+PING9> Fin de la medida
+
+@PING9,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING29> Fin de la medida
+
+@PING29,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING38> Fin de la medida
+
+@PING38,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING48> Fin de la medida
+
+@PING48,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING20> Fin de la medida
+
+@PING20,3009
+Sending message
+Sending success
+12-Sending message
+Sending success
+PING30> Fin de la medida
+
+@PING30,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING39> Fin de la medida
+
+@PING39,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING21> Fin de la medida
+
+@PING21,3009
+Sending message
+Sending success
+PING49> Fin de la medida
+
+@PING49,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING2> Fin de la medida
+
+@PING2,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING31> Fin de la medida
+
+@PING31,3009
+Sending message
+Sending success
+Sending message
+Sending success
+PING40> Fin de la medida
+
+@PING40,3009
+Sending message
+Sending success
+PING22> Fin de la medida
+
+@PING22,3009
+Sending message
+Sending success
+PING50> Fin de la medida
+
+@PING50,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending message
+Sending success
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING45> Fin de la medida
+
+@PING45,3407
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+2-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+2-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING10> Fin de la medida
+
+@PING10,4009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+PING11> Fin de la medida
+
+@PING11,4009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+0
+Fin de las pruebas
