@@ -1,0 +1,28 @@
+##############################################################
+## ./bin/Cliente -n 10                                        
+##                                                            
+## Por jota (Wed Dec 22 19:36:13 CET 2004)                                    
+##############################################################
+
+PING1> Envio un mensaje a pong1@platformQuinlan
+PING2> Envio un mensaje a pong2@platformQuinlan
+PING3> Envio un mensaje a pong3@platformQuinlan
+PING4> Envio un mensaje a pong4@platformQuinlan
+PING5> Envio un mensaje a pong5@platformQuinlan
+PING6> Envio un mensaje a pong6@platformQuinlan
+PING7> Envio un mensaje a pong7@platformQuinlan
+PING8> Envio un mensaje a pong8@platformQuinlan
+PING9> Envio un mensaje a pong9@platformQuinlan
+PING10> Envio un mensaje a pong10@platformQuinlan
+Todos los agentes lanzados
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
