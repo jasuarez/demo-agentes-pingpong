@@ -1,0 +1,59 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.ClienteyServidor 10  
+##                                                            
+## Por jota (jue dic 16 13:37:36 CET 2004)                                    
+##############################################################
+
+0|Registering pong3.local with ans
+Registering pong9.local with ans
+Registering pong10.local with ans
+Registering pong6.local with ans
+Registering pong7.local with ans
+Registering pong5.local with ans
+Registering pong8.local with ans
+Registering pong4.local with ans
+Registering pong1.local with ans
+Registering pong2.local with ans
+Todos los agentes iniciados
+0-Registering ping5.local with ans
+Registering ping7.local with ans
+Registering ping3.local with ans
+Registering ping10.local with ans
+Registering ping8.local with ans
+Registering ping9.local with ans
+Registering ping2.local with ans
+Registering ping4.local with ans
+Registering ping6.local with ans
+Registering ping1.local with ans
+9-10-PING7> Inicio de la medida
+PING10> Inicio de la medida
+10-PING3> Inicio de la medida
+PING5> Inicio de la medida
+PING6> Inicio de la medida
+PING8> Inicio de la medida
+PING9> Inicio de la medida
+PING4> Inicio de la medida
+PING2> Inicio de la medida
+PING1> Inicio de la medida
+10-10-10-10-10-10-10-PING5> Fin de la medida
+
+@PING5,3832
+PING2> Fin de la medida
+
+@PING2,3581
+8-PING8> Fin de la medida
+
+@PING8,4270
+PING7> Fin de la medida
+
+@PING7,4693
+PING9> Fin de la medida
+
+@PING9,4282
+PING4> Fin de la medida
+
+@PING4,4253
+4-PING6> Fin de la medida
+
+@PING6,4671
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-

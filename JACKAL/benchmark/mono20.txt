@@ -1,0 +1,80 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.ClienteyServidor 20  
+##                                                            
+## Por jota (jue dic 16 12:53:20 CET 2004)                                    
+##############################################################
+
+0|Registering pong10.local with ans
+Registering pong2.local with ans
+Registering pong3.local with ans
+Registering pong9.local with ans
+Registering pong17.local with ans
+Registering pong4.local with ans
+Registering pong7.local with ans
+Registering pong15.local with ans
+Registering pong11.local with ans
+Registering pong19.local with ans
+Registering pong12.local with ans
+Registering pong20.local with ans
+Registering pong18.local with ans
+Registering pong6.local with ans
+Registering pong14.local with ans
+Registering pong16.local with ans
+Registering pong1.local with ans
+0|Registering pong8.local with ans
+Registering pong13.local with ans
+Registering pong5.local with ans
+12|Todos los agentes iniciados
+0-Registering ping10.local with ans
+Registering ping20.local with ans
+Registering ping1.local with ans
+Registering ping17.local with ans
+Registering ping7.local with ans
+Registering ping14.local with ans
+Registering ping16.local with ans
+Registering ping18.local with ans
+Registering ping13.local with ans
+Registering ping5.local with ans
+Registering ping15.local with ans
+Registering ping8.local with ans
+Registering ping19.local with ans
+Registering ping11.local with ans
+Registering ping4.local with ans
+Registering ping6.local with ans
+Registering ping3.local with ans
+Registering ping2.local with ans
+Registering ping9.local with ans
+Registering ping12.local with ans
+8-19-20-20-PING20> Inicio de la medida
+20-PING13> Inicio de la medida
+PING10> Inicio de la medida
+PING18> Inicio de la medida
+20-PING7> Inicio de la medida
+20-PING5> Inicio de la medida
+PING4> Inicio de la medida
+PING2> Inicio de la medida
+20-PING15> Inicio de la medida
+20-PING6> Inicio de la medida
+PING11> Inicio de la medida
+20-20-20-20-20-PING18> Fin de la medida
+
+@PING18,4390
+PING10> Fin de la medida
+
+@PING10,4425
+PING5> Fin de la medida
+
+@PING5,3944
+17-17-PING13> Fin de la medida
+
+@PING13,5890
+PING2> Fin de la medida
+
+@PING2,4880
+15-PING4> Fin de la medida
+
+@PING4,5243
+PING11> Fin de la medida
+
+@PING11,4556
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-

@@ -1,0 +1,59 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.Cliente 10           
+##                                                            
+## Por jota (mié dic 22 19:08:49 CET 2004)                                    
+##############################################################
+
+Todos los agentes iniciados
+0-Registering ping9.local with ans
+Registering ping2.local with ans
+Registering ping10.local with ans
+Registering ping6.local with ans
+Registering ping8.local with ans
+Registering ping1.local with ans
+Registering ping3.local with ans
+Registering ping4.local with ans
+Registering ping7.local with ans
+Registering ping5.local with ans
+5-10-PING9> Inicio de la medida
+PING6> Inicio de la medida
+10-PING7> Inicio de la medida
+PING1> Inicio de la medida
+PING8> Inicio de la medida
+PING3> Inicio de la medida
+PING4> Inicio de la medida
+PING10> Inicio de la medida
+10-PING5> Inicio de la medida
+PING2> Inicio de la medida
+10-10-10-10-10-PING9> Fin de la medida
+
+@PING9,3147
+PING3> Fin de la medida
+
+@PING3,2919
+PING4> Fin de la medida
+
+@PING4,2959
+PING10> Fin de la medida
+
+@PING10,2724
+PING6> Fin de la medida
+
+@PING6,3209
+PING7> Fin de la medida
+
+@PING7,3170
+PING8> Fin de la medida
+
+@PING8,3036
+3-PING1> Fin de la medida
+
+@PING1,3677
+PING2> Fin de la medida
+
+@PING2,3083
+1-1-PING5> Fin de la medida
+
+@PING5,4193
+0
+Fin de las pruebas

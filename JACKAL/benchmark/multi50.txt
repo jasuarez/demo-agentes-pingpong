@@ -1,0 +1,58 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.Cliente 50           
+##                                                            
+## Por jota (mié dic 22 12:23:08 CET 2004)                                    
+##############################################################
+
+Todos los agentes iniciados
+0-Registering ping3.local with ans
+Registering ping39.local with ans
+Registering ping46.local with ans
+Registering ping18.local with ans
+Registering ping28.local with ans
+Registering ping38.local with ans
+Registering ping25.local with ans
+Registering ping17.local with ans
+Registering ping48.local with ans
+Registering ping42.local with ans
+Registering ping47.local with ans
+Registering ping20.local with ans
+Registering ping7.local with ans
+Registering ping23.local with ans
+0-Registering ping19.local with ans
+Registering ping13.local with ans
+Registering ping49.local with ans
+Registering ping6.local with ans
+Registering ping24.local with ans
+Registering ping37.local with ans
+Registering ping21.local with ans
+Registering ping29.local with ans
+Registering ping30.local with ans
+Registering ping9.local with ans
+Registering ping2.local with ans
+Registering ping8.local with ans
+Registering ping27.local with ans
+Registering ping33.local with ans
+Registering ping16.local with ans
+Registering ping10.local with ans
+Registering ping34.local with ans
+Registering ping11.local with ans
+Registering ping50.local with ans
+Registering ping35.local with ans
+Registering ping4.local with ans
+Registering ping44.local with ans
+Registering ping12.local with ans
+Registering ping5.local with ans
+Registering ping40.local with ans
+Registering ping45.local with ans
+Registering ping15.local with ans
+Registering ping14.local with ans
+4-Registering ping36.local with ans
+Registering ping41.local with ans
+Registering ping43.local with ans
+Registering ping26.local with ans
+Registering ping22.local with ans
+Registering ping1.local with ans
+Registering ping32.local with ans
+Registering ping31.local with ans
+12-28-48-49-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-50-

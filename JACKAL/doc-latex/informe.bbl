@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{jackal}
+R.~S. Cost, T.~Finin, Y.~Labrou, X.~Luan, Y.~Peng, I.~Soboroff, J.~Mayfield,
+  and A.~Boughanam.
+\newblock {Jackal: A Java-based Tool for Agent Development}.
+\newblock In {\em {AAAI}-98, Workshop on Tools for Agent Development}, Madison,
+  WI, 1998.
+
+\bibitem{kqml}
+Tim Finin, Jay Weber, Gio Wiederhold, Mike Genesereth, Don McKay, Rich
+  Fritzson, Stu Shapiro, Richard Pelavin, and Jim McGuire.
+\newblock {Specification of the {KQML} Agent-Communication Language -- plus
+  example agent policies and architectures}, 1993.
+
+\end{thebibliography}
