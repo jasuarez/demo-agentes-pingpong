@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{fipa}
+FIPA.
+\newblock {Foundation for Intelligent Physical Agents. {http://www.fipa.org}}.
+
+\bibitem{designPatterns}
+E.~Gamma, R.~Helm, R.~Johnson, and J.~Vlissides.
+\newblock {\em Design Patterns: Elements of Reusable Object-Oriented Software}.
+\newblock Addison-Wesley, 1995.
+
+\bibitem{jade}
+TILAB.
+\newblock {{JADE} - Java Agent DEvelopment Framework. {http://jade.tilab.com}}.
+
+\end{thebibliography}

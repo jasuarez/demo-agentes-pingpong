@@ -1,0 +1,4016 @@
+##############################################################
+## java -server -Xmx256m jade.Boot cliserv:pingpong.jade.ClienteyServidor(1000)  
+##                                                            
+## Por jota (vie nov 26 11:51:28 CET 2004)                                    
+##############################################################
+
+    This is JADE 3.2 - 2004/07/26 13:41:05
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.cselt.it/
+
+http://shoham:7778/acc
+Agent container Main-Container@JADE-IMTP://shoham is ready.
+999|
+Todos los agentes iniciados
+969-PING483> Iniciando la medida
+PING782> Iniciando la medida
+PING789> Iniciando la medida
+PING472> Iniciando la medida
+PING765> Iniciando la medida
+PING792> Iniciando la medida
+PING3> Iniciando la medida
+PING773> Iniciando la medida
+PING939> Iniciando la medida
+PING636> Iniciando la medida
+PING574> Iniciando la medida
+PING32> Iniciando la medida
+PING676> Iniciando la medida
+PING627> Iniciando la medida
+PING890> Iniciando la medida
+PING300> Iniciando la medida
+PING70> Iniciando la medida
+PING428> Iniciando la medida
+PING64> Iniciando la medida
+PING402> Iniciando la medida
+PING306> Iniciando la medida
+PING675> Iniciando la medida
+PING882> Iniciando la medida
+PING313> Iniciando la medida
+PING325> Iniciando la medida
+PING803> Iniciando la medida
+PING721> Iniciando la medida
+PING998> Iniciando la medida
+PING26> Iniciando la medida
+PING354> Iniciando la medida
+PING658> Iniciando la medida
+PING344> Iniciando la medida
+PING423> Iniciando la medida
+PING548> Iniciando la medida
+PING546> Iniciando la medida
+PING845> Iniciando la medida
+PING96> Iniciando la medida
+PING495> Iniciando la medida
+PING842> Iniciando la medida
+PING105> Iniciando la medida
+PING149> Iniciando la medida
+PING356> Iniciando la medida
+PING473> Iniciando la medida
+PING524> Iniciando la medida
+PING424> Iniciando la medida
+PING508> Iniciando la medida
+PING122> Iniciando la medida
+PING243> Iniciando la medida
+PING883> Iniciando la medida
+PING569> Iniciando la medida
+PING987> Iniciando la medida
+PING497> Iniciando la medida
+PING148> Iniciando la medida
+PING164> Iniciando la medida
+PING284> Iniciando la medida
+PING437> Iniciando la medida
+PING591> Iniciando la medida
+PING766> Iniciando la medida
+PING562> Iniciando la medida
+PING455> Iniciando la medida
+PING500> Iniciando la medida
+PING383> Iniciando la medida
+PING370> Iniciando la medida
+PING266> Iniciando la medida
+PING612> Iniciando la medida
+PING86> Iniciando la medida
+PING680> Iniciando la medida
+PING485> Iniciando la medida
+PING617> Iniciando la medida
+PING113> Iniciando la medida
+PING648> Iniciando la medida
+PING260> Iniciando la medida
+PING386> Iniciando la medida
+PING56> Iniciando la medida
+PING39> Iniciando la medida
+PING400> Iniciando la medida
+PING107> Iniciando la medida
+PING77> Iniciando la medida
+PING241> Iniciando la medida
+PING564> Iniciando la medida
+PING774> Iniciando la medida
+PING678> Iniciando la medida
+PING34> Iniciando la medida
+PING907> Iniciando la medida
+PING498> Iniciando la medida
+PING995> Iniciando la medida
+PING467> Iniciando la medida
+PING261> Iniciando la medida
+PING187> Iniciando la medida
+PING319> Iniciando la medida
+PING903> Iniciando la medida
+PING682> Iniciando la medida
+PING478> Iniciando la medida
+PING904> Iniciando la medida
+PING310> Iniciando la medida
+PING112> Iniciando la medida
+PING445> Iniciando la medida
+PING452> Iniciando la medida
+PING870> Iniciando la medida
+PING801> Iniciando la medida
+PING338> Iniciando la medida
+PING106> Iniciando la medida
+PING268> Iniciando la medida
+PING770> Iniciando la medida
+PING863> Iniciando la medida
+PING697> Iniciando la medida
+PING363> Iniciando la medida
+PING249> Iniciando la medida
+PING334> Iniciando la medida
+PING28> Iniciando la medida
+PING215> Iniciando la medida
+PING734> Iniciando la medida
+PING324> Iniciando la medida
+PING92> Iniciando la medida
+PING190> Iniciando la medida
+PING395> Iniciando la medida
+PING212> Iniciando la medida
+PING125> Iniciando la medida
+PING172> Iniciando la medida
+PING242> Iniciando la medida
+PING735> Iniciando la medida
+PING856> Iniciando la medida
+PING992> Iniciando la medida
+PING745> Iniciando la medida
+PING661> Iniciando la medida
+PING425> Iniciando la medida
+PING491> Iniciando la medida
+PING54> Iniciando la medida
+PING707> Iniciando la medida
+PING739> Iniciando la medida
+PING168> Iniciando la medida
+PING967> Iniciando la medida
+PING778> Iniciando la medida
+PING690> Iniciando la medida
+PING952> Iniciando la medida
+PING701> Iniciando la medida
+PING835> Iniciando la medida
+PING103> Iniciando la medida
+PING894> Iniciando la medida
+PING515> Iniciando la medida
+PING272> Iniciando la medida
+PING859> Iniciando la medida
+PING188> Iniciando la medida
+PING494> Iniciando la medida
+PING728> Iniciando la medida
+PING200> Iniciando la medida
+PING262> Iniciando la medida
+PING67> Iniciando la medida
+PING238> Iniciando la medida
+PING579> Iniciando la medida
+PING66> Iniciando la medida
+PING650> Iniciando la medida
+PING216> Iniciando la medida
+PING991> Iniciando la medida
+PING550> Iniciando la medida
+PING309> Iniciando la medida
+PING614> Iniciando la medida
+PING119> Iniciando la medida
+PING816> Iniciando la medida
+PING945> Iniciando la medida
+PING841> Iniciando la medida
+PING899> Iniciando la medida
+PING974> Iniciando la medida
+PING978> Iniciando la medida
+PING233> Iniciando la medida
+PING219> Iniciando la medida
+PING317> Iniciando la medida
+PING651> Iniciando la medida
+PING382> Iniciando la medida
+PING137> Iniciando la medida
+PING27> Iniciando la medida
+PING933> Iniciando la medida
+PING580> Iniciando la medida
+PING884> Iniciando la medida
+PING375> Iniciando la medida
+PING755> Iniciando la medida
+PING435> Iniciando la medida
+PING622> Iniciando la medida
+PING855> Iniciando la medida
+PING323> Iniciando la medida
+PING436> Iniciando la medida
+PING805> Iniciando la medida
+PING438> Iniciando la medida
+PING996> Iniciando la medida
+PING533> Iniciando la medida
+PING679> Iniciando la medida
+PING362> Iniciando la medida
+PING251> Iniciando la medida
+PING892> Iniciando la medida
+PING918> Iniciando la medida
+PING660> Iniciando la medida
+PING925> Iniciando la medida
+PING488> Iniciando la medida
+PING911> Iniciando la medida
+PING613> Iniciando la medida
+PING421> Iniciando la medida
+PING414> Iniciando la medida
+PING976> Iniciando la medida
+PING33> Iniciando la medida
+PING857> Iniciando la medida
+PING724> Iniciando la medida
+PING443> Iniciando la medida
+PING184> Iniciando la medida
+PING932> Iniciando la medida
+PING603> Iniciando la medida
+PING973> Iniciando la medida
+PING556> Iniciando la medida
+PING879> Iniciando la medida
+PING985> Iniciando la medida
+PING545> Iniciando la medida
+PING954> Iniciando la medida
+PING742> Iniciando la medida
+PING927> Iniciando la medida
+PING180> Iniciando la medida
+PING951> Iniciando la medida
+PING540> Iniciando la medida
+PING46> Iniciando la medida
+PING152> Iniciando la medida
+PING81> Iniciando la medida
+PING234> Iniciando la medida
+PING691> Iniciando la medida
+PING530> Iniciando la medida
+PING961> Iniciando la medida
+PING716> Iniciando la medida
+PING434> Iniciando la medida
+PING982> Iniciando la medida
+PING943> Iniciando la medida
+PING589> Iniciando la medida
+PING42> Iniciando la medida
+PING61> Iniciando la medida
+PING804> Iniciando la medida
+PING631> Iniciando la medida
+PING788> Iniciando la medida
+PING523> Iniciando la medida
+PING705> Iniciando la medida
+PING486> Iniciando la medida
+PING250> Iniciando la medida
+PING346> Iniciando la medida
+PING551> Iniciando la medida
+PING355> Iniciando la medida
+PING794> Iniciando la medida
+PING205> Iniciando la medida
+PING176> Iniciando la medida
+PING519> Iniciando la medida
+PING737> Iniciando la medida
+PING493> Iniciando la medida
+PING518> Iniciando la medida
+PING563> Iniciando la medida
+PING460> Iniciando la medida
+PING595> Iniciando la medida
+PING597> Iniciando la medida
+PING503> Iniciando la medida
+PING182> Iniciando la medida
+PING124> Iniciando la medida
+PING91> Iniciando la medida
+PING297> Iniciando la medida
+PING151> Iniciando la medida
+PING302> Iniciando la medida
+PING673> Iniciando la medida
+PING839> Iniciando la medida
+PING141> Iniciando la medida
+PING93> Iniciando la medida
+PING133> Iniciando la medida
+PING729> Iniciando la medida
+PING928> Iniciando la medida
+PING891> Iniciando la medida
+PING371> Iniciando la medida
+PING481> Iniciando la medida
+PING388> Iniciando la medida
+PING895> Iniciando la medida
+PING417> Iniciando la medida
+PING36> Iniciando la medida
+PING80> Iniciando la medida
+PING343> Iniciando la medida
+PING426> Iniciando la medida
+PING264> Iniciando la medida
+PING502> Iniciando la medida
+PING31> Iniciando la medida
+PING220> Iniciando la medida
+PING225> Iniciando la medida
+PING871> Iniciando la medida
+PING259> Iniciando la medida
+PING726> Iniciando la medida
+PING554> Iniciando la medida
+PING714> Iniciando la medida
+PING209> Iniciando la medida
+PING958> Iniciando la medida
+PING784> Iniciando la medida
+PING783> Iniciando la medida
+PING906> Iniciando la medida
+PING459> Iniciando la medida
+PING154> Iniciando la medida
+PING94> Iniciando la medida
+PING206> Iniciando la medida
+PING427> Iniciando la medida
+PING926> Iniciando la medida
+PING864> Iniciando la medida
+PING644> Iniciando la medida
+PING997> Iniciando la medida
+PING447> Iniciando la medida
+PING248> Iniciando la medida
+PING282> Iniciando la medida
+PING791> Iniciando la medida
+PING712> Iniciando la medida
+PING211> Iniciando la medida
+PING990> Iniciando la medida
+PING418> Iniciando la medida
+PING462> Iniciando la medida
+PING936> Iniciando la medida
+PING527> Iniciando la medida
+PING759> Iniciando la medida
+PING767> Iniciando la medida
+PING360> Iniciando la medida
+PING218> Iniciando la medida
+PING62> Iniciando la medida
+PING301> Iniciando la medida
+PING818> Iniciando la medida
+PING828> Iniciando la medida
+PING321> Iniciando la medida
+PING75> Iniciando la medida
+PING796> Iniciando la medida
+PING923> Iniciando la medida
+PING449> Iniciando la medida
+PING158> Iniciando la medida
+PING1000> Iniciando la medida
+PING280> Iniciando la medida
+PING159> Iniciando la medida
+PING160> Iniciando la medida
+PING82> Iniciando la medida
+PING118> Iniciando la medida
+PING570> Iniciando la medida
+PING628> Iniciando la medida
+PING79> Iniciando la medida
+PING157> Iniciando la medida
+PING16> Iniciando la medida
+PING214> Iniciando la medida
+PING12> Iniciando la medida
+PING40> Iniciando la medida
+PING312> Iniciando la medida
+PING199> Iniciando la medida
+PING900> Iniciando la medida
+PING245> Iniciando la medida
+PING487> Iniciando la medida
+PING198> Iniciando la medida
+PING869> Iniciando la medida
+PING720> Iniciando la medida
+PING645> Iniciando la medida
+PING553> Iniciando la medida
+PING834> Iniciando la medida
+PING510> Iniciando la medida
+PING862> Iniciando la medida
+PING273> Iniciando la medida
+PING587> Iniciando la medida
+PING59> Iniciando la medida
+PING477> Iniciando la medida
+PING975> Iniciando la medida
+PING931> Iniciando la medida
+PING965> Iniciando la medida
+PING588> Iniciando la medida
+PING451> Iniciando la medida
+PING35> Iniciando la medida
+PING596> Iniciando la medida
+PING790> Iniciando la medida
+PING379> Iniciando la medida
+PING161> Iniciando la medida
+PING962> Iniciando la medida
+PING289> Iniciando la medida
+PING517> Iniciando la medida
+PING399> Iniciando la medida
+PING886> Iniciando la medida
+PING861> Iniciando la medida
+PING332> Iniciando la medida
+PING910> Iniciando la medida
+PING57> Iniciando la medida
+PING132> Iniciando la medida
+PING696> Iniciando la medida
+PING751> Iniciando la medida
+PING581> Iniciando la medida
+PING980> Iniciando la medida
+PING912> Iniciando la medida
+PING915> Iniciando la medida
+PING558> Iniciando la medida
+PING38> Iniciando la medida
+PING756> Iniciando la medida
+PING396> Iniciando la medida
+PING671> Iniciando la medida
+PING422> Iniciando la medida
+PING484> Iniciando la medida
+PING55> Iniciando la medida
+PING946> Iniciando la medida
+PING694> Iniciando la medida
+PING21> Iniciando la medida
+PING685> Iniciando la medida
+PING222> Iniciando la medida
+PING846> Iniciando la medida
+PING429> Iniciando la medida
+PING252> Iniciando la medida
+PING74> Iniciando la medida
+PING586> Iniciando la medida
+PING474> Iniciando la medida
+PING293> Iniciando la medida
+PING492> Iniciando la medida
+PING466> Iniciando la medida
+PING947> Iniciando la medida
+PING641> Iniciando la medida
+PING837> Iniciando la medida
+PING577> Iniciando la medida
+PING479> Iniciando la medida
+PING624> Iniciando la medida
+PING37> Iniciando la medida
+PING134> Iniciando la medida
+PING246> Iniciando la medida
+PING499> Iniciando la medida
+PING549> Iniciando la medida
+PING687> Iniciando la medida
+PING865> Iniciando la medida
+PING330> Iniciando la medida
+PING195> Iniciando la medida
+PING565> Iniciando la medida
+PING185> Iniciando la medida
+PING394> Iniciando la medida
+PING887> Iniciando la medida
+PING601> Iniciando la medida
+PING322> Iniciando la medida
+PING749> Iniciando la medida
+PING345> Iniciando la medida
+PING296> Iniciando la medida
+PING318> Iniciando la medida
+PING725> Iniciando la medida
+PING688> Iniciando la medida
+PING470> Iniciando la medida
+PING331> Iniciando la medida
+PING267> Iniciando la medida
+PING128> Iniciando la medida
+PING20> Iniciando la medida
+PING450> Iniciando la medida
+PING901> Iniciando la medida
+PING357> Iniciando la medida
+PING87> Iniciando la medida
+PING896> Iniciando la medida
+PING291> Iniciando la medida
+PING24> Iniciando la medida
+PING223> Iniciando la medida
+PING257> Iniciando la medida
+PING10> Iniciando la medida
+PING929> Iniciando la medida
+PING921> Iniciando la medida
+PING364> Iniciando la medida
+PING406> Iniciando la medida
+PING977> Iniciando la medida
+PING800> Iniciando la medida
+PING50> Iniciando la medida
+PING464> Iniciando la medida
+PING398> Iniciando la medida
+PING535> Iniciando la medida
+PING872> Iniciando la medida
+PING224> Iniciando la medida
+PING19> Iniciando la medida
+PING90> Iniciando la medida
+PING229> Iniciando la medida
+PING993> Iniciando la medida
+PING320> Iniciando la medida
+PING639> Iniciando la medida
+PING730> Iniciando la medida
+PING988> Iniciando la medida
+PING504> Iniciando la medida
+PING430> Iniciando la medida
+PING836> Iniciando la medida
+PING722> Iniciando la medida
+PING786> Iniciando la medida
+PING966> Iniciando la medida
+PING986> Iniciando la medida
+PING440> Iniciando la medida
+PING877> Iniciando la medida
+PING521> Iniciando la medida
+PING584> Iniciando la medida
+PING854> Iniciando la medida
+PING88> Iniciando la medida
+PING619> Iniciando la medida
+PING482> Iniciando la medida
+PING329> Iniciando la medida
+PING623> Iniciando la medida
+PING957> Iniciando la medida
+PING802> Iniciando la medida
+PING693> Iniciando la medida
+PING285> Iniciando la medida
+PING335> Iniciando la medida
+PING72> Iniciando la medida
+PING850> Iniciando la medida
+PING960> Iniciando la medida
+PING813> Iniciando la medida
+PING652> Iniciando la medida
+PING717> Iniciando la medida
+PING336> Iniciando la medida
+PING858> Iniciando la medida
+PING305> Iniciando la medida
+PING201> Iniciando la medida
+PING635> Iniciando la medida
+PING621> Iniciando la medida
+PING457> Iniciando la medida
+PING757> Iniciando la medida
+PING339> Iniciando la medida
+PING689> Iniciando la medida
+PING999> Iniciando la medida
+PING8> Iniciando la medida
+PING456> Iniciando la medida
+PING832> Iniciando la medida
+PING663> Iniciando la medida
+PING512> Iniciando la medida
+PING537> Iniciando la medida
+PING236> Iniciando la medida
+PING847> Iniciando la medida
+PING48> Iniciando la medida
+PING793> Iniciando la medida
+PING210> Iniciando la medida
+PING9> Iniciando la medida
+PING531> Iniciando la medida
+PING646> Iniciando la medida
+PING761> Iniciando la medida
+PING25> Iniciando la medida
+PING740> Iniciando la medida
+PING294> Iniciando la medida
+PING480> Iniciando la medida
+PING930> Iniciando la medida
+PING516> Iniciando la medida
+PING454> Iniciando la medida
+PING653> Iniciando la medida
+PING657> Iniciando la medida
+PING192> Iniciando la medida
+PING709> Iniciando la medida
+PING407> Iniciando la medida
+PING419> Iniciando la medida
+PING598> Iniciando la medida
+PING695> Iniciando la medida
+PING642> Iniciando la medida
+PING964> Iniciando la medida
+PING893> Iniciando la medida
+PING51> Iniciando la medida
+PING327> Iniciando la medida
+PING668> Iniciando la medida
+PING104> Iniciando la medida
+PING666> Iniciando la medida
+PING590> Iniciando la medida
+PING820> Iniciando la medida
+PING994> Iniciando la medida
+PING368> Iniciando la medida
+PING604> Iniciando la medida
+PING840> Iniciando la medida
+PING178> Iniciando la medida
+PING240> Iniciando la medida
+PING741> Iniciando la medida
+PING781> Iniciando la medida
+PING934> Iniciando la medida
+PING44> Iniciando la medida
+PING114> Iniciando la medida
+PING433> Iniciando la medida
+PING366> Iniciando la medida
+PING253> Iniciando la medida
+PING120> Iniciando la medida
+PING244> Iniciando la medida
+PING509> Iniciando la medida
+PING226> Iniciando la medida
+PING337> Iniciando la medida
+PING69> Iniciando la medida
+PING703> Iniciando la medida
+PING520> Iniciando la medida
+PING194> Iniciando la medida
+PING390> Iniciando la medida
+PING692> Iniciando la medida
+PING812> Iniciando la medida
+PING919> Iniciando la medida
+PING941> Iniciando la medida
+PING129> Iniciando la medida
+PING22> Iniciando la medida
+PING777> Iniciando la medida
+PING127> Iniciando la medida
+PING605> Iniciando la medida
+PING633> Iniciando la medida
+PING838> Iniciando la medida
+PING656> Iniciando la medida
+PING981> Iniciando la medida
+PING203> Iniciando la medida
+PING4> Iniciando la medida
+PING779> Iniciando la medida
+PING602> Iniciando la medida
+PING340> Iniciando la medida
+PING71> Iniciando la medida
+PING258> Iniciando la medida
+PING949> Iniciando la medida
+PING197> Iniciando la medida
+PING539> Iniciando la medida
+PING256> Iniciando la medida
+PING183> Iniciando la medida
+PING552> Iniciando la medida
+PING288> Iniciando la medida
+PING221> Iniciando la medida
+PING825> Iniciando la medida
+PING771> Iniciando la medida
+PING760> Iniciando la medida
+PING806> Iniciando la medida
+PING298> Iniciando la medida
+PING853> Iniciando la medida
+PING156> Iniciando la medida
+PING304> Iniciando la medida
+PING799> Iniciando la medida
+PING592> Iniciando la medida
+PING667> Iniciando la medida
+PING866> Iniciando la medida
+PING536> Iniciando la medida
+PING822> Iniciando la medida
+PING514> Iniciando la medida
+PING162> Iniciando la medida
+PING432> Iniciando la medida
+PING643> Iniciando la medida
+PING638> Iniciando la medida
+PING271> Iniciando la medida
+PING202> Iniciando la medida
+PING228> Iniciando la medida
+PING867> Iniciando la medida
+PING263> Iniciando la medida
+PING316> Iniciando la medida
+PING84> Iniciando la medida
+PING299> Iniciando la medida
+PING615> Iniciando la medida
+PING116> Iniciando la medida
+PING341> Iniciando la medida
+PING583> Iniciando la medida
+PING629> Iniciando la medida
+PING196> Iniciando la medida
+PING100> Iniciando la medida
+PING824> Iniciando la medida
+PING844> Iniciando la medida
+PING208> Iniciando la medida
+PING626> Iniciando la medida
+PING351> Iniciando la medida
+PING575> Iniciando la medida
+PING606> Iniciando la medida
+PING328> Iniciando la medida
+PING851> Iniciando la medida
+PING532> Iniciando la medida
+PING348> Iniciando la medida
+PING769> Iniciando la medida
+PING47> Iniciando la medida
+PING768> Iniciando la medida
+PING937> Iniciando la medida
+PING875> Iniciando la medida
+PING130> Iniciando la medida
+PING13> Iniciando la medida
+PING699> Iniciando la medida
+PING881> Iniciando la medida
+PING611> Iniciando la medida
+PING542> Iniciando la medida
+PING808> Iniciando la medida
+PING73> Iniciando la medida
+PING265> Iniciando la medida
+PING476> Iniciando la medida
+PING60> Iniciando la medida
+PING177> Iniciando la medida
+PING11> Iniciando la medida
+PING902> Iniciando la medida
+PING179> Iniciando la medida
+PING698> Iniciando la medida
+PING14> Iniciando la medida
+PING821> Iniciando la medida
+PING670> Iniciando la medida
+PING441> Iniciando la medida
+PING718> Iniciando la medida
+PING89> Iniciando la medida
+PING49> Iniciando la medida
+PING513> Iniciando la medida
+PING373> Iniciando la medida
+PING496> Iniciando la medida
+PING146> Iniciando la medida
+PING232> Iniciando la medida
+PING475> Iniciando la medida
+PING576> Iniciando la medida
+PING135> Iniciando la medida
+PING501> Iniciando la medida
+PING607> Iniciando la medida
+PING139> Iniciando la medida
+PING52> Iniciando la medida
+PING708> Iniciando la medida
+PING608> Iniciando la medida
+PING41> Iniciando la medida
+PING384> Iniciando la medida
+PING239> Iniciando la medida
+PING797> Iniciando la medida
+PING136> Iniciando la medida
+PING143> Iniciando la medida
+PING23> Iniciando la medida
+PING752> Iniciando la medida
+PING359> Iniciando la medida
+PING686> Iniciando la medida
+PING361> Iniciando la medida
+PING131> Iniciando la medida
+PING815> Iniciando la medida
+PING374> Iniciando la medida
+PING99> Iniciando la medida
+PING308> Iniciando la medida
+PING763> Iniciando la medida
+PING557> Iniciando la medida
+PING711> Iniciando la medida
+PING511> Iniciando la medida
+PING377> Iniciando la medida
+PING165> Iniciando la medida
+PING750> Iniciando la medida
+PING167> Iniciando la medida
+PING68> Iniciando la medida
+PING463> Iniciando la medida
+PING150> Iniciando la medida
+PING876> Iniciando la medida
+PING848> Iniciando la medida
+PING935> Iniciando la medida
+PING207> Iniciando la medida
+PING412> Iniciando la medida
+PING279> Iniciando la medida
+PING350> Iniciando la medida
+PING381> Iniciando la medida
+PING144> Iniciando la medida
+PING868> Iniciando la medida
+PING924> Iniciando la medida
+PING852> Iniciando la medida
+PING53> Iniciando la medida
+PING465> Iniciando la medida
+PING971> Iniciando la medida
+PING684> Iniciando la medida
+PING662> Iniciando la medida
+PING235> Iniciando la medida
+PING83> Iniciando la medida
+PING378> Iniciando la medida
+PING568> Iniciando la medida
+PING922> Iniciando la medida
+PING349> Iniciando la medida
+PING917> Iniciando la medida
+PING458> Iniciando la medida
+PING385> Iniciando la medida
+PING561> Iniciando la medida
+PING65> Iniciando la medida
+PING121> Iniciando la medida
+PING43> Iniciando la medida
+PING744> Iniciando la medida
+PING109> Iniciando la medida
+PING559> Iniciando la medida
+PING303> Iniciando la medida
+PING775> Iniciando la medida
+PING115> Iniciando la medida
+PING772> Iniciando la medida
+PING314> Iniciando la medida
+PING630> Iniciando la medida
+PING290> Iniciando la medida
+PING169> Iniciando la medida
+PING664> Iniciando la medida
+PING405> Iniciando la medida
+PING723> Iniciando la medida
+PING889> Iniciando la medida
+PING920> Iniciando la medida
+PING283> Iniciando la medida
+PING63> Iniciando la medida
+PING754> Iniciando la medida
+PING979> Iniciando la medida
+PING307> Iniciando la medida
+PING372> Iniciando la medida
+PING948> Iniciando la medida
+PING442> Iniciando la medida
+PING826> Iniciando la medida
+PING704> Iniciando la medida
+PING277> Iniciando la medida
+PING367> Iniciando la medida
+PING387> Iniciando la medida
+PING746> Iniciando la medida
+PING538> Iniciando la medida
+PING640> Iniciando la medida
+PING959> Iniciando la medida
+PING764> Iniciando la medida
+PING230> Iniciando la medida
+PING97> Iniciando la medida
+PING175> Iniciando la medida
+PING817> Iniciando la medida
+PING18> Iniciando la medida
+PING6> Iniciando la medida
+PING787> Iniciando la medida
+PING276> Iniciando la medida
+PING567> Iniciando la medida
+PING358> Iniciando la medida
+PING401> Iniciando la medida
+PING874> Iniciando la medida
+PING736> Iniciando la medida
+PING189> Iniciando la medida
+PING849> Iniciando la medida
+PING953> Iniciando la medida
+PING582> Iniciando la medida
+PING649> Iniciando la medida
+PING534> Iniciando la medida
+PING326> Iniciando la medida
+PING956> Iniciando la medida
+PING898> Iniciando la medida
+PING860> Iniciando la medida
+PING599> Iniciando la medida
+PING776> Iniciando la medida
+PING439> Iniciando la medida
+PING237> Iniciando la medida
+PING780> Iniciando la medida
+PING681> Iniciando la medida
+PING247> Iniciando la medida
+PING972> Iniciando la medida
+PING713> Iniciando la medida
+PING950> Iniciando la medida
+PING287> Iniciando la medida
+PING620> Iniciando la medida
+PING573> Iniciando la medida
+PING193> Iniciando la medida
+PING404> Iniciando la medida
+PING416> Iniciando la medida
+PING140> Iniciando la medida
+PING448> Iniciando la medida
+PING585> Iniciando la medida
+PING78> Iniciando la medida
+PING333> Iniciando la medida
+PING831> Iniciando la medida
+PING830> Iniciando la medida
+PING541> Iniciando la medida
+PING593> Iniciando la medida
+PING655> Iniciando la medida
+PING1> Iniciando la medida
+PING410> Iniciando la medida
+PING677> Iniciando la medida
+PING969> Iniciando la medida
+PING461> Iniciando la medida
+PING529> Iniciando la medida
+PING970> Iniciando la medida
+PING702> Iniciando la medida
+PING117> Iniciando la medida
+PING17> Iniciando la medida
+PING392> Iniciando la medida
+PING908> Iniciando la medida
+PING843> Iniciando la medida
+PING393> Iniciando la medida
+PING833> Iniciando la medida
+PING411> Iniciando la medida
+PING610> Iniciando la medida
+PING878> Iniciando la medida
+PING489> Iniciando la medida
+PING938> Iniciando la medida
+PING353> Iniciando la medida
+PING706> Iniciando la medida
+PING989> Iniciando la medida
+PING913> Iniciando la medida
+PING490> Iniciando la medida
+PING295> Iniciando la medida
+PING738> Iniciando la medida
+PING873> Iniciando la medida
+PING659> Iniciando la medida
+PING811> Iniciando la medida
+PING566> Iniciando la medida
+PING102> Iniciando la medida
+PING829> Iniciando la medida
+PING278> Iniciando la medida
+PING505> Iniciando la medida
+PING352> Iniciando la medida
+PING715> Iniciando la medida
+PING507> Iniciando la medida
+PING204> Iniciando la medida
+PING111> Iniciando la medida
+PING654> Iniciando la medida
+PING95> Iniciando la medida
+PING311> Iniciando la medida
+PING231> Iniciando la medida
+PING376> Iniciando la medida
+PING572> Iniciando la medida
+PING785> Iniciando la medida
+PING98> Iniciando la medida
+PING968> Iniciando la medida
+PING942> Iniciando la medida
+PING506> Iniciando la medida
+PING809> Iniciando la medida
+PING807> Iniciando la medida
+PING173> Iniciando la medida
+PING944> Iniciando la medida
+PING142> Iniciando la medida
+PING342> Iniciando la medida
+PING274> Iniciando la medida
+PING795> Iniciando la medida
+PING571> Iniciando la medida
+PING145> Iniciando la medida
+PING669> Iniciando la medida
+PING444> Iniciando la medida
+PING560> Iniciando la medida
+PING727> Iniciando la medida
+PING798> Iniciando la medida
+PING700> Iniciando la medida
+PING213> Iniciando la medida
+PING955> Iniciando la medida
+PING758> Iniciando la medida
+PING905> Iniciando la medida
+PING101> Iniciando la medida
+PING984> Iniciando la medida
+PING191> Iniciando la medida
+PING731> Iniciando la medida
+PING468> Iniciando la medida
+PING544> Iniciando la medida
+PING108> Iniciando la medida
+PING672> Iniciando la medida
+PING275> Iniciando la medida
+PING431> Iniciando la medida
+PING126> Iniciando la medida
+PING110> Iniciando la medida
+PING415> Iniciando la medida
+PING885> Iniciando la medida
+PING217> Iniciando la medida
+PING7> Iniciando la medida
+PING522> Iniciando la medida
+PING525> Iniciando la medida
+PING733> Iniciando la medida
+PING827> Iniciando la medida
+PING153> Iniciando la medida
+PING15> Iniciando la medida
+PING286> Iniciando la medida
+PING420> Iniciando la medida
+PING880> Iniciando la medida
+PING171> Iniciando la medida
+PING674> Iniciando la medida
+PING453> Iniciando la medida
+PING85> Iniciando la medida
+PING528> Iniciando la medida
+PING963> Iniciando la medida
+PING747> Iniciando la medida
+PING471> Iniciando la medida
+PING732> Iniciando la medida
+PING413> Iniciando la medida
+PING29> Iniciando la medida
+PING403> Iniciando la medida
+PING227> Iniciando la medida
+PING914> Iniciando la medida
+PING270> Iniciando la medida
+PING983> Iniciando la medida
+PING347> Iniciando la medida
+PING526> Iniciando la medida
+PING408> Iniciando la medida
+PING2> Iniciando la medida
+PING255> Iniciando la medida
+PING888> Iniciando la medida
+PING719> Iniciando la medida
+PING174> Iniciando la medida
+PING814> Iniciando la medida
+PING665> Iniciando la medida
+PING315> Iniciando la medida
+PING446> Iniciando la medida
+PING155> Iniciando la medida
+PING281> Iniciando la medida
+PING600> Iniciando la medida
+PING469> Iniciando la medida
+PING632> Iniciando la medida
+PING397> Iniciando la medida
+PING753> Iniciando la medida
+PING555> Iniciando la medida
+PING186> Iniciando la medida
+PING743> Iniciando la medida
+PING710> Iniciando la medida
+PING292> Iniciando la medida
+PING254> Iniciando la medida
+PING76> Iniciando la medida
+PING389> Iniciando la medida
+PING616> Iniciando la medida
+PING762> Iniciando la medida
+PING30> Iniciando la medida
+PING123> Iniciando la medida
+PING637> Iniciando la medida
+PING138> Iniciando la medida
+PING369> Iniciando la medida
+PING618> Iniciando la medida
+PING916> Iniciando la medida
+PING683> Iniciando la medida
+PING578> Iniciando la medida
+PING634> Iniciando la medida
+PING170> Iniciando la medida
+PING380> Iniciando la medida
+PING181> Iniciando la medida
+PING625> Iniciando la medida
+PING609> Iniciando la medida
+PING409> Iniciando la medida
+PING748> Iniciando la medida
+PING909> Iniciando la medida
+PING543> Iniciando la medida
+PING365> Iniciando la medida
+PING647> Iniciando la medida
+PING940> Iniciando la medida
+PING45> Iniciando la medida
+PING819> Iniciando la medida
+PING58> Iniciando la medida
+PING269> Iniciando la medida
+PING897> Iniciando la medida
+PING5> Iniciando la medida
+PING810> Iniciando la medida
+PING594> Iniciando la medida
+PING547> Iniciando la medida
+PING823> Iniciando la medida
+PING166> Iniciando la medida
+PING147> Iniciando la medida
+PING391> Iniciando la medida
+PING163> Iniciando la medida
+1000-1000-1000-1000-1000-1000-PING473> Fin de la medida
+
+@PING473,316
+PING156> Fin de la medida
+
+@PING156,315
+PING602> Fin de la medida
+
+@PING602,317
+PING240> Fin de la medida
+
+@PING240,317
+PING13> Fin de la medida
+
+@PING13,318
+PING658> Fin de la medida
+
+@PING658,326
+PING679> Fin de la medida
+
+@PING679,325
+PING455> Fin de la medida
+
+@PING455,326
+PING936> Fin de la medida
+
+@PING936,324
+PING838> Fin de la medida
+
+@PING838,322
+PING937> Fin de la medida
+
+@PING937,322
+PING374> Fin de la medida
+
+@PING374,326
+PING621> Fin de la medida
+
+@PING621,328
+PING451> Fin de la medida
+
+@PING451,330
+PING465> Fin de la medida
+
+@PING465,327
+PING564> Fin de la medida
+
+@PING564,333
+PING861> Fin de la medida
+
+@PING861,331
+PING394> Fin de la medida
+
+@PING394,331
+PING999> Fin de la medida
+
+@PING999,331
+PING765> Fin de la medida
+
+@PING765,335
+PING873> Fin de la medida
+
+@PING873,328
+PING821> Fin de la medida
+
+@PING821,330
+PING948> Fin de la medida
+
+@PING948,328
+PING663> Fin de la medida
+
+@PING663,331
+PING424> Fin de la medida
+
+@PING424,335
+PING124> Fin de la medida
+
+@PING124,334
+PING70> Fin de la medida
+
+@PING70,336
+PING503> Fin de la medida
+
+@PING503,335
+PING277> Fin de la medida
+
+@PING277,330
+PING280> Fin de la medida
+
+@PING280,335
+PING925> Fin de la medida
+
+@PING925,336
+PING702> Fin de la medida
+
+@PING702,331
+PING161> Fin de la medida
+
+@PING161,335
+PING283> Fin de la medida
+
+@PING283,331
+PING521> Fin de la medida
+
+@PING521,334
+PING695> Fin de la medida
+
+@PING695,335
+PING475> Fin de la medida
+
+@PING475,334
+PING997> Fin de la medida
+
+@PING997,337
+PING529> Fin de la medida
+
+@PING529,332
+PING150> Fin de la medida
+
+@PING150,333
+PING491> Fin de la medida
+
+@PING491,338
+PING968> Fin de la medida
+
+@PING968,332
+PING904> Fin de la medida
+
+@PING904,338
+PING173> Fin de la medida
+
+@PING173,332
+PING967> Fin de la medida
+
+@PING967,341
+PING423> Fin de la medida
+
+@PING423,343
+PING40> Fin de la medida
+
+@PING40,340
+PING363> Fin de la medida
+
+@PING363,342
+PING103> Fin de la medida
+
+@PING103,342
+PING200> Fin de la medida
+
+@PING200,342
+PING306> Fin de la medida
+
+@PING306,343
+949-PING489> Fin de la medida
+
+@PING489,337
+PING205> Fin de la medida
+
+@PING205,342
+PING41> Fin de la medida
+
+@PING41,339
+PING248> Fin de la medida
+
+@PING248,342
+PING321> Fin de la medida
+
+@PING321,342
+PING805> Fin de la medida
+
+@PING805,343
+PING513> Fin de la medida
+
+@PING513,339
+PING740> Fin de la medida
+
+@PING740,341
+PING797> Fin de la medida
+
+@PING797,339
+PING813> Fin de la medida
+
+@PING813,341
+PING46> Fin de la medida
+
+@PING46,343
+PING266> Fin de la medida
+
+@PING266,344
+PING64> Fin de la medida
+
+@PING64,345
+PING894> Fin de la medida
+
+@PING894,344
+PING429> Fin de la medida
+
+@PING429,343
+PING903> Fin de la medida
+
+@PING903,345
+PING388> Fin de la medida
+
+@PING388,344
+PING793> Fin de la medida
+
+@PING793,342
+PING703> Fin de la medida
+
+@PING703,341
+PING328> Fin de la medida
+
+@PING328,341
+PING106> Fin de la medida
+
+@PING106,345
+PING597> Fin de la medida
+
+@PING597,344
+PING32> Fin de la medida
+
+@PING32,346
+PING249> Fin de la medida
+
+@PING249,345
+PING704> Fin de la medida
+
+@PING704,339
+PING468> Fin de la medida
+
+@PING468,339
+PING993> Fin de la medida
+
+@PING993,343
+PING177> Fin de la medida
+
+@PING177,342
+PING975> Fin de la medida
+
+@PING975,344
+PING655> Fin de la medida
+
+@PING655,340
+PING670> Fin de la medida
+
+@PING670,342
+PING946> Fin de la medida
+
+@PING946,344
+PING54> Fin de la medida
+
+@PING54,346
+PING141> Fin de la medida
+
+@PING141,345
+PING906> Fin de la medida
+
+@PING906,345
+PING167> Fin de la medida
+
+@PING167,342
+PING478> Fin de la medida
+PING431> Fin de la medida
+
+@PING431,340
+
+@PING478,346
+PING729> Fin de la medida
+
+@PING729,346
+PING50> Fin de la medida
+
+@PING50,344
+PING480> Fin de la medida
+
+@PING480,344
+PING389> Fin de la medida
+
+@PING389,337
+PING12> Fin de la medida
+
+@PING12,346
+PING113> Fin de la medida
+
+@PING113,347
+PING437> Fin de la medida
+
+@PING437,348
+PING201> Fin de la medida
+
+@PING201,345
+PING758> Fin de la medida
+
+@PING758,341
+PING678> Fin de la medida
+
+@PING678,348
+PING741> Fin de la medida
+
+@PING741,345
+PING883> Fin de la medida
+
+@PING883,349
+PING183> Fin de la medida
+
+@PING183,344
+PING140> Fin de la medida
+
+@PING140,342
+PING10> Fin de la medida
+
+@PING10,346
+PING889> Fin de la medida
+
+@PING889,342
+PING981> Fin de la medida
+
+@PING981,344
+PING191> Fin de la medida
+
+@PING191,342
+PING171> Fin de la medida
+
+@PING171,339
+PING973> Fin de la medida
+
+@PING973,348
+PING618> Fin de la medida
+
+@PING618,339
+PING402> Fin de la medida
+
+@PING402,350
+PING710> Fin de la medida
+
+@PING710,339
+PING580> Fin de la medida
+
+@PING580,349
+PING653> Fin de la medida
+
+@PING653,346
+PING869> Fin de la medida
+
+@PING869,347
+PING714> Fin de la medida
+
+@PING714,348
+PING546> Fin de la medida
+
+@PING546,350
+PING360> Fin de la medida
+
+@PING360,349
+PING582> Fin de la medida
+
+@PING582,344
+PING783> Fin de la medida
+
+@PING783,349
+PING410> Fin de la medida
+
+@PING410,347
+PING337> Fin de la medida
+
+@PING337,349
+PING192> Fin de la medida
+
+@PING192,350
+PING690> Fin de la medida
+
+@PING690,353
+PING665> Fin de la medida
+
+@PING665,343
+PING640> Fin de la medida
+
+@PING640,347
+PING130> Fin de la medida
+
+@PING130,349
+PING547> Fin de la medida
+
+@PING547,341
+PING62> Fin de la medida
+
+@PING62,352
+PING864> Fin de la medida
+
+@PING864,353
+PING599> Fin de la medida
+
+@PING599,348
+PING317> Fin de la medida
+
+@PING317,353
+PING515> Fin de la medida
+
+@PING515,353
+PING843> Fin de la medida
+
+@PING843,347
+PING674> Fin de la medida
+
+@PING674,344
+PING122> Fin de la medida
+
+@PING122,355
+PING532> Fin de la medida
+
+@PING532,350
+PING980> Fin de la medida
+
+@PING980,352
+PING135> Fin de la medida
+
+@PING135,350
+PING325> Fin de la medida
+
+@PING325,355
+PING605> Fin de la medida
+
+@PING605,351
+PING671> Fin de la medida
+
+@PING671,353
+PING1000> Fin de la medida
+
+@PING1000,353
+PING919> Fin de la medida
+
+@PING919,351
+PING119> Fin de la medida
+
+@PING119,354
+PING217> Fin de la medida
+
+@PING217,348
+PING824> Fin de la medida
+
+@PING824,351
+PING18> Fin de la medida
+
+@PING18,349
+PING228> Fin de la medida
+
+@PING228,351
+PING786> Fin de la medida
+
+@PING786,352
+PING837> Fin de la medida
+
+@PING837,353
+PING220> Fin de la medida
+
+@PING220,354
+PING460> Fin de la medida
+
+@PING460,354
+PING923> Fin de la medida
+
+@PING923,354
+PING734> Fin de la medida
+
+@PING734,355
+PING197> Fin de la medida
+
+@PING197,351
+PING488> Fin de la medida
+
+@PING488,355
+PING822> Fin de la medida
+
+@PING822,351
+PING453> Fin de la medida
+
+@PING453,345
+PING352> Fin de la medida
+
+@PING352,349
+PING379> Fin de la medida
+
+@PING379,353
+PING771> Fin de la medida
+
+@PING771,352
+PING834> Fin de la medida
+
+@PING834,354
+PING461> Fin de la medida
+
+@PING461,350
+PING662> Fin de la medida
+
+@PING662,351
+PING682> Fin de la medida
+
+@PING682,356
+PING645> Fin de la medida
+
+@PING645,354
+PING538> Fin de la medida
+
+@PING538,350
+PING65> Fin de la medida
+
+@PING65,351
+PING327> Fin de la medida
+
+@PING327,353
+PING535> Fin de la medida
+
+@PING535,354
+PING591> Fin de la medida
+
+@PING591,357
+PING338> Fin de la medida
+
+@PING338,356
+PING790> Fin de la medida
+
+@PING790,355
+PING720> Fin de la medida
+
+@PING720,355
+PING930> Fin de la medida
+
+@PING930,354
+PING748> Fin de la medida
+
+@PING748,346
+PING614> Fin de la medida
+
+@PING614,356
+PING444> Fin de la medida
+
+@PING444,350
+PING657> Fin de la medida
+
+@PING657,354
+PING767> Fin de la medida
+
+@PING767,356
+PING169> Fin de la medida
+
+@PING169,351
+PING456> Fin de la medida
+
+@PING456,355
+PING242> Fin de la medida
+
+@PING242,357
+PING624> Fin de la medida
+
+@PING624,356
+PING180> Fin de la medida
+
+@PING180,357
+PING617> Fin de la medida
+
+@PING617,359
+PING78> Fin de la medida
+
+@PING78,352
+PING121> Fin de la medida
+
+@PING121,352
+PING935> Fin de la medida
+
+@PING935,353
+PING284> Fin de la medida
+
+@PING284,359
+PING585> Fin de la medida
+
+@PING585,352
+PING581> Fin de la medida
+
+@PING581,356
+PING995> Fin de la medida
+
+@PING995,358
+PING384> Fin de la medida
+
+@PING384,354
+PING48> Fin de la medida
+
+@PING48,356
+PING566> Fin de la medida
+
+@PING566,352
+PING400> Fin de la medida
+
+@PING400,358
+PING847> Fin de la medida
+
+@PING847,356
+PING376> Fin de la medida
+
+@PING376,353
+PING483> Fin de la medida
+
+@PING483,360
+PING401> Fin de la medida
+
+@PING401,353
+PING342> Fin de la medida
+
+@PING342,353
+PING194> Fin de la medida
+
+@PING194,356
+PING768> Fin de la medida
+
+@PING768,355
+PING689> Fin de la medida
+
+@PING689,357
+PING862> Fin de la medida
+
+@PING862,358
+PING552> Fin de la medida
+
+@PING552,356
+PING775> Fin de la medida
+
+@PING775,354
+PING570> Fin de la medida
+
+@PING570,358
+PING86> Fin de la medida
+
+@PING86,360
+PING35> Fin de la medida
+
+@PING35,358
+PING452> Fin de la medida
+
+@PING452,359
+PING814> Fin de la medida
+
+@PING814,350
+PING479> Fin de la medida
+
+@PING479,358
+PING642> Fin de la medida
+
+@PING642,357
+PING635> Fin de la medida
+
+@PING635,357
+PING182> Fin de la medida
+
+@PING182,359
+PING477> Fin de la medida
+
+@PING477,358
+PING343> Fin de la medida
+
+@PING343,359
+PING301> Fin de la medida
+
+@PING301,359
+PING848> Fin de la medida
+
+@PING848,356
+PING712> Fin de la medida
+
+@PING712,359
+PING371> Fin de la medida
+
+@PING371,360
+PING876> Fin de la medida
+
+@PING876,356
+PING498> Fin de la medida
+
+@PING498,360
+PING225> Fin de la medida
+
+@PING225,360
+PING688> Fin de la medida
+
+@PING688,358
+PING499> Fin de la medida
+
+@PING499,359
+PING300> Fin de la medida
+
+@PING300,362
+PING96> Fin de la medida
+
+@PING96,362
+PING279> Fin de la medida
+
+@PING279,356
+PING482> Fin de la medida
+
+@PING482,358
+PING193> Fin de la medida
+
+@PING193,355
+PING899> Fin de la medida
+
+@PING899,360
+PING302> Fin de la medida
+
+@PING302,360
+PING641> Fin de la medida
+
+@PING641,359
+PING310> Fin de la medida
+
+@PING310,361
+PING204> Fin de la medida
+
+@PING204,355
+PING443> Fin de la medida
+
+@PING443,361
+PING562> Fin de la medida
+
+@PING562,362
+PING472> Fin de la medida
+
+@PING472,362
+PING188> Fin de la medida
+
+@PING188,361
+PING170> Fin de la medida
+
+@PING170,351
+PING851> Fin de la medida
+
+@PING851,357
+PING507> Fin de la medida
+
+@PING507,355
+PING577> Fin de la medida
+
+@PING577,359
+PING537> Fin de la medida
+
+@PING537,359
+PING596> Fin de la medida
+
+@PING596,360
+PING568> Fin de la medida
+
+@PING568,359
+PING319> Fin de la medida
+
+@PING319,365
+PING88> Fin de la medida
+
+@PING88,362
+PING198> Fin de la medida
+
+@PING198,363
+PING469> Fin de la medida
+
+@PING469,355
+PING854> Fin de la medida
+
+@PING854,362
+PING391> Fin de la medida
+
+@PING391,351
+PING55> Fin de la medida
+
+@PING55,363
+PING542> Fin de la medida
+
+@PING542,361
+PING849> Fin de la medida
+
+@PING849,359
+PING811> Fin de la medida
+
+@PING811,359
+PING587> Fin de la medida
+
+@PING587,363
+PING60> Fin de la medida
+
+@PING60,361
+PING807> Fin de la medida
+
+@PING807,359
+PING742> Fin de la medida
+
+@PING742,364
+PING627> Fin de la medida
+
+@PING627,366
+PING772> Fin de la medida
+
+@PING772,359
+PING271> Fin de la medida
+
+@PING271,361
+PING557> Fin de la medida
+
+@PING557,361
+PING114> Fin de la medida
+
+@PING114,362
+PING99> Fin de la medida
+
+@PING99,361
+PING654> Fin de la medida
+
+@PING654,359
+PING912> Fin de la medida
+
+@PING912,363
+PING569> Fin de la medida
+
+@PING569,366
+PING850> Fin de la medida
+
+@PING850,363
+PING829> Fin de la medida
+
+@PING829,359
+PING858> Fin de la medida
+
+@PING858,363
+PING5> Fin de la medida
+
+@PING5,354
+PING336> Fin de la medida
+
+@PING336,363
+PING504> Fin de la medida
+
+@PING504,363
+PING934> Fin de la medida
+
+@PING934,363
+PING565> Fin de la medida
+
+@PING565,364
+PING788> Fin de la medida
+
+@PING788,365
+PING137> Fin de la medida
+
+@PING137,366
+PING162> Fin de la medida
+
+@PING162,362
+PING396> Fin de la medida
+
+@PING396,364
+PING408> Fin de la medida
+
+@PING408,356
+PING146> Fin de la medida
+
+@PING146,362
+PING59> Fin de la medida
+
+@PING59,364
+PING16> Fin de la medida
+
+@PING16,365
+PING677> Fin de la medida
+
+@PING677,360
+PING218> Fin de la medida
+
+@PING218,365
+PING416> Fin de la medida
+
+@PING416,360
+PING63> Fin de la medida
+
+@PING63,361
+PING487> Fin de la medida
+
+@PING487,365
+PING607> Fin de la medida
+
+@PING607,362
+PING893> Fin de la medida
+
+@PING893,364
+PING866> Fin de la medida
+
+@PING866,363
+PING524> Fin de la medida
+
+@PING524,367
+PING530> Fin de la medida
+
+@PING530,366
+PING247> Fin de la medida
+
+@PING247,361
+PING584> Fin de la medida
+
+@PING584,364
+PING705> Fin de la medida
+
+@PING705,366
+PING951> Fin de la medida
+
+@PING951,366
+PING588> Fin de la medida
+
+@PING588,365
+PING108> Fin de la medida
+
+@PING108,360
+PING560> Fin de la medida
+
+@PING560,360
+PING244> Fin de la medida
+
+@PING244,363
+PING634> Fin de la medida
+
+@PING634,357
+PING69> Fin de la medida
+
+@PING69,363
+PING841> Fin de la medida
+
+@PING841,367
+PING462> Fin de la medida
+
+@PING462,366
+PING969> Fin de la medida
+
+@PING969,361
+PING846> Fin de la medida
+
+@PING846,365
+PING252> Fin de la medida
+
+@PING252,366
+PING716> Fin de la medida
+
+@PING716,367
+PING517> Fin de la medida
+
+@PING517,366
+PING1> Fin de la medida
+
+@PING1,362
+PING983> Fin de la medida
+
+@PING983,358
+PING290> Fin de la medida
+
+@PING290,362
+PING102> Fin de la medida
+
+@PING102,362
+PING276> Fin de la medida
+
+@PING276,362
+PING330> Fin de la medida
+
+@PING330,366
+PING393> Fin de la medida
+
+@PING393,362
+PING966> Fin de la medida
+
+@PING966,365
+PING773> Fin de la medida
+
+@PING773,369
+PING648> Fin de la medida
+
+@PING648,368
+PING732> Fin de la medida
+
+@PING732,358
+PING412> Fin de la medida
+
+@PING412,363
+PING540> Fin de la medida
+
+@PING540,367
+PING882> Fin de la medida
+
+@PING882,369
+PING589> Fin de la medida
+
+@PING589,367
+PING863> Fin de la medida
+
+@PING863,368
+PING199> Fin de la medida
+
+@PING199,366
+PING736> Fin de la medida
+
+@PING736,362
+PING181> Fin de la medida
+
+@PING181,358
+PING275> Fin de la medida
+
+@PING275,362
+PING933> Fin de la medida
+
+@PING933,368
+PING928> Fin de la medida
+
+@PING928,367
+PING22> Fin de la medida
+
+@PING22,365
+PING574> Fin de la medida
+
+@PING574,369
+PING831> Fin de la medida
+
+@PING831,362
+PING395> Fin de la medida
+
+@PING395,368
+PING369> Fin de la medida
+
+@PING369,358
+PING881> Fin de la medida
+
+@PING881,364
+PING857> Fin de la medida
+
+@PING857,368
+PING67> Fin de la medida
+
+@PING67,368
+PING986> Fin de la medida
+
+@PING986,366
+PING380> Fin de la medida
+
+@PING380,358
+PING481> Fin de la medida
+
+@PING481,368
+PING497> Fin de la medida
+
+@PING497,369
+PING879> Fin de la medida
+
+@PING879,368
+PING554> Fin de la medida
+
+@PING554,368
+PING470> Fin de la medida
+
+@PING470,367
+PING818> Fin de la medida
+
+@PING818,368
+PING750> Fin de la medida
+
+@PING750,365
+PING896> Fin de la medida
+
+@PING896,367
+PING536> Fin de la medida
+
+@PING536,366
+PING341> Fin de la medida
+
+@PING341,366
+PING672> Fin de la medida
+
+@PING672,363
+PING545> Fin de la medida
+
+@PING545,369
+PING528> Fin de la medida
+
+@PING528,360
+PING366> Fin de la medida
+
+@PING366,366
+PING762> Fin de la medida
+
+@PING762,360
+PING411> Fin de la medida
+
+@PING411,364
+PING259> Fin de la medida
+
+@PING259,369
+PING810> Fin de la medida
+
+@PING810,358
+PING631> Fin de la medida
+
+@PING631,369
+PING871> Fin de la medida
+
+@PING871,369
+PING39> Fin de la medida
+
+@PING39,370
+PING840> Fin de la medida
+
+@PING840,367
+PING696> Fin de la medida
+
+@PING696,368
+PING258> Fin de la medida
+
+@PING258,366
+PING292> Fin de la medida
+
+@PING292,360
+PING133> Fin de la medida
+
+@PING133,369
+PING976> Fin de la medida
+
+@PING976,370
+PING148> Fin de la medida
+
+@PING148,371
+PING406> Fin de la medida
+
+@PING406,368
+PING297> Fin de la medida
+
+@PING297,370
+PING835> Fin de la medida
+
+@PING835,371
+PING445> Fin de la medida
+
+@PING445,371
+PING440> Fin de la medida
+
+@PING440,369
+PING91> Fin de la medida
+
+@PING91,371
+PING282> Fin de la medida
+
+@PING282,370
+PING14> Fin de la medida
+
+@PING14,367
+PING711> Fin de la medida
+
+@PING711,367
+PING633> Fin de la medida
+
+@PING633,368
+PING996> Fin de la medida
+
+@PING996,371
+PING318> Fin de la medida
+
+@PING318,369
+PING512> Fin de la medida
+
+@PING512,369
+PING435> Fin de la medida
+
+@PING435,371
+PING454> Fin de la medida
+
+@PING454,369
+PING353> Fin de la medida
+
+@PING353,365
+PING667> Fin de la medida
+
+@PING667,368
+PING68> Fin de la medida
+
+@PING68,367
+PING109> Fin de la medida
+
+@PING109,366
+PING147> Fin de la medida
+
+@PING147,360
+PING112> Fin de la medida
+
+@PING112,372
+PING324> Fin de la medida
+
+@PING324,371
+PING355> Fin de la medida
+
+@PING355,371
+PING721> Fin de la medida
+
+@PING721,373
+PING610> Fin de la medida
+
+@PING610,366
+PING553> Fin de la medida
+
+@PING553,370
+PING365> Fin de la medida
+
+@PING365,361
+PING53> Fin de la medida
+
+@PING53,367
+PING350> Fin de la medida
+
+@PING350,367
+PING638> Fin de la medida
+
+@PING638,368
+PING874> Fin de la medida
+
+@PING874,366
+PING691> Fin de la medida
+
+@PING691,371
+PING544> Fin de la medida
+
+@PING544,366
+PING960> Fin de la medida
+
+@PING960,370
+PING555> Fin de la medida
+
+@PING555,362
+PING239> Fin de la medida
+
+@PING239,368
+PING845> Fin de la medida
+
+@PING845,373
+PING36> Fin de la medida
+
+@PING36,371
+PING833> Fin de la medida
+
+@PING833,366
+PING752> Fin de la medida
+
+@PING752,368
+PING298> Fin de la medida
+
+@PING298,369
+PING910> Fin de la medida
+
+@PING910,371
+PING340> Fin de la medida
+
+@PING340,369
+PING89> Fin de la medida
+
+@PING89,369
+PING803> Fin de la medida
+
+@PING803,374
+PING844> Fin de la medida
+
+@PING844,369
+PING476> Fin de la medida
+
+@PING476,369
+PING185> Fin de la medida
+
+@PING185,371
+PING120> Fin de la medida
+
+@PING120,369
+PING81> Fin de la medida
+
+@PING81,372
+PING274> Fin de la medida
+
+@PING274,367
+PING921> Fin de la medida
+
+@PING921,371
+PING799> Fin de la medida
+
+@PING799,369
+PING520> Fin de la medida
+
+@PING520,370
+PING231> Fin de la medida
+
+@PING231,367
+PING264> Fin de la medida
+
+@PING264,372
+PING781> Fin de la medida
+
+@PING781,370
+PING125> Fin de la medida
+
+@PING125,373
+PING676> Fin de la medida
+
+@PING676,374
+PING212> Fin de la medida
+
+@PING212,373
+PING632> Fin de la medida
+
+@PING632,363
+PING93> Fin de la medida
+
+@PING93,372
+PING924> Fin de la medida
+
+@PING924,369
+PING495> Fin de la medida
+
+@PING495,374
+PING25> Fin de la medida
+
+@PING25,371
+PING628> Fin de la medida
+
+@PING628,372
+PING664> Fin de la medida
+
+@PING664,368
+PING920> Fin de la medida
+
+@PING920,368
+PING518> Fin de la medida
+
+@PING518,373
+PING463> Fin de la medida
+
+@PING463,369
+PING203> Fin de la medida
+
+@PING203,370
+PING348> Fin de la medida
+
+@PING348,369
+PING817> Fin de la medida
+
+@PING817,368
+PING897> Fin de la medida
+
+@PING897,362
+PING820> Fin de la medida
+
+@PING820,371
+PING38> Fin de la medida
+
+@PING38,372
+PING884> Fin de la medida
+
+@PING884,373
+PING420> Fin de la medida
+
+@PING420,367
+PING644> Fin de la medida
+
+@PING644,373
+PING190> Fin de la medida
+
+@PING190,373
+PING334> Fin de la medida
+
+@PING334,374
+PING390> Fin de la medida
+
+@PING390,370
+PING385> Fin de la medida
+
+@PING385,368
+PING749> Fin de la medida
+
+@PING749,375
+PING471> Fin de la medida
+
+@PING471,367
+PING375> Fin de la medida
+
+@PING375,376
+PING947> Fin de la medida
+
+@PING947,375
+PING128> Fin de la medida
+
+@PING128,375
+PING619> Fin de la medida
+
+@PING619,374
+PING942> Fin de la medida
+
+@PING942,371
+PING464> Fin de la medida
+
+@PING464,375
+PING929> Fin de la medida
+
+@PING929,375
+PING782> Fin de la medida
+
+@PING782,378
+PING965> Fin de la medida
+
+@PING965,375
+PING719> Fin de la medida
+
+@PING719,367
+PING549> Fin de la medida
+
+@PING549,375
+PING260> Fin de la medida
+
+@PING260,377
+PING922> Fin de la medida
+
+@PING922,371
+PING735> Fin de la medida
+
+@PING735,377
+PING293> Fin de la medida
+
+@PING293,375
+PING988> Fin de la medida
+
+@PING988,375
+PING558> Fin de la medida
+
+@PING558,375
+PING985> Fin de la medida
+
+@PING985,377
+PING33> Fin de la medida
+
+@PING33,377
+PING230> Fin de la medida
+
+@PING230,371
+PING168> Fin de la medida
+
+@PING168,377
+PING314> Fin de la medida
+
+@PING314,372
+PING823> Fin de la medida
+
+@PING823,365
+PING111> Fin de la medida
+
+@PING111,371
+PING77> Fin de la medida
+
+@PING77,377
+PING66> Fin de la medida
+
+@PING66,377
+PING296> Fin de la medida
+
+@PING296,376
+PING875> Fin de la medida
+
+@PING875,374
+PING450> Fin de la medida
+
+@PING450,375
+PING331> Fin de la medida
+
+@PING331,376
+PING71> Fin de la medida
+
+@PING71,374
+PING229> Fin de la medida
+
+@PING229,375
+PING502> Fin de la medida
+
+@PING502,377
+PING760> Fin de la medida
+
+@PING760,374
+PING511> Fin de la medida
+
+@PING511,374
+PING680> Fin de la medida
+
+@PING680,379
+PING891> Fin de la medida
+
+@PING891,378
+PING603> Fin de la medida
+
+@PING603,378
+PING270> Fin de la medida
+
+@PING270,368
+PING707> Fin de la medida
+
+@PING707,378
+PING98> Fin de la medida
+
+@PING98,372
+PING207> Fin de la medida
+
+@PING207,374
+PING766> Fin de la medida
+
+@PING766,379
+PING792> Fin de la medida
+
+@PING792,380
+PING556> Fin de la medida
+
+@PING556,378
+PING466> Fin de la medida
+
+@PING466,377
+PING622> Fin de la medida
+
+@PING622,378
+PING414> Fin de la medida
+
+@PING414,378
+PING625> Fin de la medida
+
+@PING625,369
+PING963> Fin de la medida
+
+@PING963,369
+PING949> Fin de la medida
+
+@PING949,375
+PING398> Fin de la medida
+
+@PING398,377
+PING800> Fin de la medida
+
+@PING800,377
+PING139> Fin de la medida
+
+@PING139,375
+PING138> Fin de la medida
+
+@PING138,369
+PING639> Fin de la medida
+
+@PING639,377
+PING447> Fin de la medida
+
+@PING447,378
+PING356> Fin de la medida
+
+@PING356,380
+PING855> Fin de la medida
+
+@PING855,379
+PING890> Fin de la medida
+
+@PING890,380
+PING335> Fin de la medida
+
+@PING335,377
+PING708> Fin de la medida
+
+@PING708,375
+PING698> Fin de la medida
+
+@PING698,375
+PING505> Fin de la medida
+
+@PING505,373
+PING436> Fin de la medida
+
+@PING436,380
+PING779> Fin de la medida
+
+@PING779,377
+PING285> Fin de la medida
+
+@PING285,378
+PING378> Fin de la medida
+
+@PING378,375
+PING117> Fin de la medida
+
+@PING117,375
+PING636> Fin de la medida
+
+@PING636,382
+PING629> Fin de la medida
+
+@PING629,377
+PING856> Fin de la medida
+
+@PING856,381
+PING900> Fin de la medida
+
+@PING900,379
+PING539> Fin de la medida
+
+@PING539,377
+PING816> Fin de la medida
+
+@PING816,380
+PING604> Fin de la medida
+
+@PING604,378
+PING859> Fin de la medida
+
+@PING859,381
+PING425> Fin de la medida
+
+@PING425,381
+PING158> Fin de la medida
+
+@PING158,380
+PING100> Fin de la medida
+
+@PING100,377
+PING804> Fin de la medida
+
+@PING804,380
+PING551> Fin de la medida
+
+@PING551,380
+PING594> Fin de la medida
+
+@PING594,370
+PING426> Fin de la medida
+
+@PING426,380
+PING346> Fin de la medida
+
+@PING346,381
+PING6> Fin de la medida
+
+@PING6,375
+PING739> Fin de la medida
+
+@PING739,381
+PING723> Fin de la medida
+
+@PING723,376
+PING8> Fin de la medida
+
+@PING8,379
+PING2> Fin de la medida
+
+@PING2,372
+PING387> Fin de la medida
+
+@PING387,376
+PING931> Fin de la medida
+
+@PING931,380
+PING579> Fin de la medida
+
+@PING579,382
+PING421> Fin de la medida
+
+@PING421,382
+PING927> Fin de la medida
+
+@PING927,382
+PING126> Fin de la medida
+
+@PING126,376
+PING941> Fin de la medida
+
+@PING941,379
+PING4> Fin de la medida
+
+@PING4,379
+PING724> Fin de la medida
+
+@PING724,382
+PING428> Fin de la medida
+
+@PING428,383
+PING830> Fin de la medida
+
+@PING830,376
+PING195> Fin de la medida
+
+@PING195,380
+PING58> Fin de la medida
+
+@PING58,372
+PING913> Fin de la medida
+
+@PING913,376
+PING713> Fin de la medida
+
+@PING713,376
+PING357> Fin de la medida
+
+@PING357,380
+PING989> Fin de la medida
+
+@PING989,376
+PING386> Fin de la medida
+
+@PING386,382
+PING178> Fin de la medida
+
+@PING178,380
+PING751> Fin de la medida
+
+@PING751,381
+PING563> Fin de la medida
+
+@PING563,382
+PING794> Fin de la medida
+
+@PING794,382
+PING801> Fin de la medida
+
+@PING801,383
+PING370> Fin de la medida
+
+@PING370,383
+PING129> Fin de la medida
+
+@PING129,379
+PING31> Fin de la medida
+
+@PING31,382
+PING73> Fin de la medida
+
+@PING73,379
+PING776> Fin de la medida
+
+@PING776,377
+PING825> Fin de la medida
+
+@PING825,379
+PING368> Fin de la medida
+
+@PING368,380
+PING19> Fin de la medida
+
+@PING19,381
+PING606> Fin de la medida
+
+@PING606,379
+PING593> Fin de la medida
+
+@PING593,377
+PING982> Fin de la medida
+
+@PING982,383
+PING432> Fin de la medida
+
+@PING432,380
+PING954> Fin de la medida
+
+@PING954,383
+PING992> Fin de la medida
+
+@PING992,383
+PING34> Fin de la medida
+
+@PING34,384
+PING601> Fin de la medida
+
+@PING601,382
+PING273> Fin de la medida
+
+@PING273,382
+PING764> Fin de la medida
+
+@PING764,378
+PING417> Fin de la medida
+
+@PING417,383
+PING164> Fin de la medida
+
+@PING164,385
+PING313> Fin de la medida
+
+@PING313,385
+PING57> Fin de la medida
+
+@PING57,382
+PING52> Fin de la medida
+
+@PING52,380
+PING970> Fin de la medida
+
+@PING970,378
+PING753> Fin de la medida
+
+@PING753,374
+PING329> Fin de la medida
+
+@PING329,382
+PING541> Fin de la medida
+
+@PING541,378
+PING533> Fin de la medida
+
+@PING533,384
+PING956> Fin de la medida
+
+@PING956,378
+PING30> Fin de la medida
+
+@PING30,374
+PING885> Fin de la medida
+
+@PING885,378
+PING725> Fin de la medida
+
+@PING725,382
+PING761> Fin de la medida
+
+@PING761,381
+PING615> Fin de la medida
+
+@PING615,380
+PING233> Fin de la medida
+
+@PING233,384
+PING620> Fin de la medida
+
+@PING620,378
+PING727> Fin de la medida
+
+@PING727,378
+PING23> Fin de la medida
+
+@PING23,380
+PING142> Fin de la medida
+
+@PING142,378
+PING418> Fin de la medida
+
+@PING418,383
+PING253> Fin de la medida
+
+@PING253,381
+PING246> Fin de la medida
+
+@PING246,382
+PING286> Fin de la medida
+
+@PING286,378
+PING987> Fin de la medida
+
+@PING987,385
+PING45> Fin de la medida
+
+@PING45,374
+PING43> Fin de la medida
+
+@PING43,379
+PING559> Fin de la medida
+
+@PING559,379
+PING166> Fin de la medida
+
+@PING166,373
+PING808> Fin de la medida
+
+@PING808,381
+PING457> Fin de la medida
+
+@PING457,382
+PING241> Fin de la medida
+
+@PING241,385
+PING278> Fin de la medida
+
+@PING278,378
+PING446> Fin de la medida
+
+@PING446,375
+PING573> Fin de la medida
+PING434> Fin de la medida
+
+@PING434,384
+PING51> Fin de la medida
+
+@PING51,382
+
+@PING573,379
+PING666> Fin de la medida
+
+@PING666,382
+PING685> Fin de la medida
+
+@PING685,383
+PING261> Fin de la medida
+
+@PING261,385
+PING485> Fin de la medida
+
+@PING485,386
+PING115> Fin de la medida
+
+@PING115,380
+PING80> Fin de la medida
+
+@PING80,384
+PING759> Fin de la medida
+
+@PING759,384
+PING575> Fin de la medida
+
+@PING575,381
+PING950> Fin de la medida
+
+@PING950,379
+PING263> Fin de la medida
+
+@PING263,382
+PING145> Fin de la medida
+
+@PING145,379
+PING84> Fin de la medida
+
+@PING84,382
+PING153> Fin de la medida
+
+@PING153,379
+PING706> Fin de la medida
+
+@PING706,380
+PING592> Fin de la medida
+
+@PING592,382
+PING777> Fin de la medida
+
+@PING777,382
+PING728> Fin de la medida
+
+@PING728,385
+PING842> Fin de la medida
+
+@PING842,387
+PING254> Fin de la medida
+
+@PING254,376
+PING626> Fin de la medida
+
+@PING626,382
+PING646> Fin de la medida
+
+@PING646,383
+PING836> Fin de la medida
+
+@PING836,383
+PING774> Fin de la medida
+
+@PING774,386
+PING853> Fin de la medida
+
+@PING853,382
+PING250> Fin de la medida
+
+@PING250,385
+PING806> Fin de la medida
+
+@PING806,382
+PING901> Fin de la medida
+
+@PING901,384
+PING149> Fin de la medida
+
+@PING149,387
+PING27> Fin de la medida
+
+@PING27,386
+PING104> Fin de la medida
+
+@PING104,383
+PING785> Fin de la medida
+
+@PING785,380
+PING82> Fin de la medida
+
+@PING82,388
+PING3> Fin de la medida
+
+@PING3,391
+PING403> Fin de la medida
+
+@PING403,380
+PING867> Fin de la medida
+
+@PING867,386
+PING332> Fin de la medida
+
+@PING332,388
+PING364> Fin de la medida
+
+@PING364,387
+PING525> Fin de la medida
+
+@PING525,383
+PING865> Fin de la medida
+
+@PING865,387
+PING791> Fin de la medida
+
+@PING791,389
+PING383> Fin de la medida
+
+@PING383,390
+PING144> Fin de la medida
+
+@PING144,385
+PING90> Fin de la medida
+
+@PING90,387
+PING501> Fin de la medida
+
+@PING501,386
+PING377> Fin de la medida
+
+@PING377,385
+PING219> Fin de la medida
+
+@PING219,389
+PING75> Fin de la medida
+
+@PING75,389
+PING860> Fin de la medida
+
+@PING860,384
+PING492> Fin de la medida
+
+@PING492,388
+PING769> Fin de la medida
+
+@PING769,386
+PING118> Fin de la medida
+
+@PING118,389
+PING361> Fin de la medida
+
+@PING361,386
+PING186> Fin de la medida
+
+@PING186,380
+PING459> Fin de la medida
+
+@PING459,389
+PING407> Fin de la medida
+
+@PING407,387
+PING172> Fin de la medida
+
+@PING172,390
+PING763> Fin de la medida
+
+@PING763,386
+PING509> Fin de la medida
+
+@PING509,387
+PING307> Fin de la medida
+
+@PING307,384
+PING44> Fin de la medida
+
+@PING44,387
+PING211> Fin de la medida
+
+@PING211,389
+PING134> Fin de la medida
+
+@PING134,388
+PING945> Fin de la medida
+
+@PING945,390
+PING267> Fin de la medida
+
+@PING267,388
+PING372> Fin de la medida
+
+@PING372,385
+PING701> Fin de la medida
+
+@PING701,390
+PING221> Fin de la medida
+
+@PING221,387
+PING926> Fin de la medida
+
+@PING926,390
+PING699> Fin de la medida
+
+@PING699,387
+PING669> Fin de la medida
+
+@PING669,385
+PING347> Fin de la medida
+
+@PING347,381
+PING94> Fin de la medida
+
+@PING94,390
+PING458> Fin de la medida
+
+@PING458,386
+PING222> Fin de la medida
+
+@PING222,389
+PING359> Fin de la medida
+
+@PING359,387
+PING888> Fin de la medida
+
+@PING888,382
+PING95> Fin de la medida
+
+@PING95,385
+PING87> Fin de la medida
+
+@PING87,389
+PING442> Fin de la medida
+
+@PING442,386
+PING613> Fin de la medida
+
+@PING613,391
+PING256> Fin de la medida
+
+@PING256,388
+PING449> Fin de la medida
+
+@PING449,391
+PING832> Fin de la medida
+
+@PING832,389
+PING548> Fin de la medida
+
+@PING548,393
+PING717> Fin de la medida
+
+@PING717,389
+PING916> Fin de la medida
+
+@PING916,382
+PING809> Fin de la medida
+
+@PING809,386
+PING576> Fin de la medida
+
+@PING576,388
+PING827> Fin de la medida
+
+@PING827,385
+PING812> Fin de la medida
+
+@PING812,388
+PING26> Fin de la medida
+
+@PING26,393
+PING908> Fin de la medida
+
+@PING908,386
+PING898> Fin de la medida
+
+@PING898,386
+PING441> Fin de la medida
+
+@PING441,388
+PING154> Fin de la medida
+
+@PING154,391
+PING165> Fin de la medida
+
+@PING165,388
+PING206> Fin de la medida
+
+@PING206,391
+PING265> Fin de la medida
+
+@PING265,388
+PING288> Fin de la medida
+
+@PING288,388
+PING887> Fin de la medida
+
+@PING887,390
+PING257> Fin de la medida
+
+@PING257,390
+PING315> Fin de la medida
+
+@PING315,382
+PING798> Fin de la medida
+
+@PING798,386
+PING308> Fin de la medida
+
+@PING308,388
+PING349> Fin de la medida
+
+@PING349,387
+PING354> Fin de la medida
+
+@PING354,394
+PING796> Fin de la medida
+
+@PING796,392
+PING939> Fin de la medida
+
+@PING939,394
+PING647> Fin de la medida
+
+@PING647,382
+PING998> Fin de la medida
+
+@PING998,394
+PING21> Fin de la medida
+
+@PING21,391
+259-PING174> Fin de la medida
+
+@PING174,383
+PING784> Fin de la medida
+
+@PING784,392
+PING312> Fin de la medida
+
+@PING312,391
+PING362> Fin de la medida
+
+@PING362,392
+PING333> Fin de la medida
+
+@PING333,387
+PING339> Fin de la medida
+
+@PING339,390
+PING917> Fin de la medida
+
+@PING917,388
+PING886> Fin de la medida
+
+@PING886,391
+PING392> Fin de la medida
+
+@PING392,387
+PING132> Fin de la medida
+
+@PING132,391
+PING189> Fin de la medida
+
+@PING189,387
+PING578> Fin de la medida
+
+@PING578,383
+PING598> Fin de la medida
+
+@PING598,391
+PING744> Fin de la medida
+
+@PING744,388
+PING484> Fin de la medida
+
+@PING484,391
+PING940> Fin de la medida
+
+@PING940,383
+PING612> Fin de la medida
+
+@PING612,394
+PING209> Fin de la medida
+
+@PING209,393
+PING795> Fin de la medida
+
+@PING795,387
+PING745> Fin de la medida
+
+@PING745,393
+PING131> Fin de la medida
+
+@PING131,389
+PING687> Fin de la medida
+
+@PING687,391
+PING351> Fin de la medida
+
+@PING351,390
+PING815> Fin de la medida
+
+@PING815,389
+PING409> Fin de la medida
+
+@PING409,383
+PING643> Fin de la medida
+
+@PING643,390
+PING726> Fin de la medida
+
+@PING726,393
+PING516> Fin de la medida
+
+@PING516,391
+PING660> Fin de la medida
+
+@PING660,394
+PING839> Fin de la medida
+
+@PING839,394
+PING326> Fin de la medida
+
+@PING326,388
+PING911> Fin de la medida
+
+@PING911,394
+PING964> Fin de la medida
+
+@PING964,392
+PING681> Fin de la medida
+
+@PING681,388
+PING878> Fin de la medida
+
+@PING878,388
+PING514> Fin de la medida
+
+@PING514,391
+PING534> Fin de la medida
+
+@PING534,389
+PING415> Fin de la medida
+
+@PING415,388
+PING494> Fin de la medida
+
+@PING494,394
+PING344> Fin de la medida
+
+@PING344,396
+PING493> Fin de la medida
+
+@PING493,394
+PING508> Fin de la medida
+
+@PING508,396
+PING160> Fin de la medida
+
+@PING160,394
+PING979> Fin de la medida
+
+@PING979,389
+PING255> Fin de la medida
+
+@PING255,385
+PING630> Fin de la medida
+
+@PING630,389
+PING961> Fin de la medida
+
+@PING961,394
+PING243> Fin de la medida
+
+@PING243,396
+PING718> Fin de la medida
+
+@PING718,391
+PING101> Fin de la medida
+
+@PING101,389
+PING238> Fin de la medida
+
+@PING238,395
+PING527> Fin de la medida
+
+@PING527,395
+PING907> Fin de la medida
+
+@PING907,396
+PING523> Fin de la medida
+
+@PING523,395
+PING234> Fin de la medida
+
+@PING234,395
+PING269> Fin de la medida
+
+@PING269,384
+PING496> Fin de la medida
+
+@PING496,392
+PING83> Fin de la medida
+
+@PING83,391
+PING608> Fin de la medida
+
+@PING608,392
+PING136> Fin de la medida
+
+@PING136,392
+PING692> Fin de la medida
+
+@PING692,393
+PING382> Fin de la medida
+
+@PING382,396
+PING778> Fin de la medida
+
+@PING778,396
+PING373> Fin de la medida
+
+@PING373,392
+PING176> Fin de la medida
+
+@PING176,395
+PING500> Fin de la medida
+
+@PING500,397
+PING72> Fin de la medida
+
+@PING72,394
+PING902> Fin de la medida
+
+@PING902,392
+PING877> Fin de la medida
+
+@PING877,394
+PING661> Fin de la medida
+
+@PING661,396
+PING611> Fin de la medida
+
+@PING611,392
+PING595> Fin de la medida
+
+@PING595,396
+PING127> Fin de la medida
+
+@PING127,393
+PING304> Fin de la medida
+
+@PING304,393
+PING215> Fin de la medida
+
+@PING215,396
+PING224> Fin de la medida
+
+@PING224,394
+PING358> Fin de la medida
+
+@PING358,391
+PING320> Fin de la medida
+
+@PING320,394
+PING697> Fin de la medida
+
+@PING697,397
+PING519> Fin de la medida
+
+@PING519,396
+PING322> Fin de la medida
+
+@PING322,395
+PING92> Fin de la medida
+
+@PING92,397
+PING422> Fin de la medida
+
+@PING422,395
+PING47> Fin de la medida
+
+@PING47,393
+PING694> Fin de la medida
+
+@PING694,395
+PING943> Fin de la medida
+
+@PING943,397
+PING616> Fin de la medida
+
+@PING616,387
+PING730> Fin de la medida
+
+@PING730,395
+PING433> Fin de la medida
+
+@PING433,394
+PING405> Fin de la medida
+
+@PING405,392
+PING895> Fin de la medida
+
+@PING895,397
+PING143> Fin de la medida
+
+@PING143,393
+PING7> Fin de la medida
+
+@PING7,391
+PING116> Fin de la medida
+
+@PING116,394
+PING37> Fin de la medida
+
+@PING37,396
+PING700> Fin de la medida
+
+@PING700,391
+PING938> Fin de la medida
+
+@PING938,392
+PING737> Fin de la medida
+
+@PING737,397
+PING202> Fin de la medida
+
+@PING202,394
+PING299> Fin de la medida
+
+@PING299,394
+PING918> Fin de la medida
+
+@PING918,397
+PING157> Fin de la medida
+
+@PING157,396
+PING675> Fin de la medida
+
+@PING675,399
+PING731> Fin de la medida
+
+@PING731,392
+PING110> Fin de la medida
+
+@PING110,392
+PING208> Fin de la medida
+
+@PING208,394
+PING210> Fin de la medida
+
+@PING210,395
+PING600> Fin de la medida
+
+@PING600,388
+PING236> Fin de la medida
+
+@PING236,395
+PING268> Fin de la medida
+
+@PING268,398
+PING291> Fin de la medida
+
+@PING291,399
+PING85> Fin de la medida
+
+@PING85,391
+PING155> Fin de la medida
+
+@PING155,391
+PING381> Fin de la medida
+
+@PING381,397
+PING915> Fin de la medida
+
+@PING915,399
+PING152> Fin de la medida
+
+@PING152,401
+PING20> Fin de la medida
+
+@PING20,399
+PING97> Fin de la medida
+
+@PING97,396
+PING213> Fin de la medida
+
+@PING213,395
+PING990> Fin de la medida
+
+@PING990,401
+PING251> Fin de la medida
+
+@PING251,401
+PING214> Fin de la medida
+
+@PING214,400
+PING531> Fin de la medida
+
+@PING531,399
+PING245> Fin de la medida
+
+@PING245,400
+PING623> Fin de la medida
+
+@PING623,400
+PING413> Fin de la medida
+
+@PING413,392
+PING305> Fin de la medida
+
+@PING305,400
+PING490> Fin de la medida
+
+@PING490,396
+PING649> Fin de la medida
+
+@PING649,396
+PING289> Fin de la medida
+
+@PING289,400
+PING237> Fin de la medida
+
+@PING237,396
+PING686> Fin de la medida
+
+@PING686,398
+PING802> Fin de la medida
+
+@PING802,401
+PING746> Fin de la medida
+
+@PING746,397
+PING151> Fin de la medida
+
+@PING151,402
+PING323> Fin de la medida
+
+@PING323,403
+PING880> Fin de la medida
+
+@PING880,393
+PING15> Fin de la medida
+
+@PING15,397
+PING467> Fin de la medida
+
+@PING467,403
+PING105> Fin de la medida
+
+@PING105,404
+PING163> Fin de la medida
+
+@PING163,390
+PING439> Fin de la medida
+
+@PING439,398
+PING789> Fin de la medida
+
+@PING789,405
+PING287> Fin de la medida
+
+@PING287,398
+PING590> Fin de la medida
+
+@PING590,401
+PING978> Fin de la medida
+
+@PING978,403
+PING272> Fin de la medida
+
+@PING272,404
+PING637> Fin de la medida
+
+@PING637,394
+PING668> Fin de la medida
+
+@PING668,401
+PING24> Fin de la medida
+
+@PING24,402
+PING506> Fin de la medida
+
+@PING506,398
+PING586> Fin de la medida
+
+@PING586,402
+PING232> Fin de la medida
+
+@PING232,400
+PING819> Fin de la medida
+
+@PING819,393
+PING656> Fin de la medida
+
+@PING656,400
+PING49> Fin de la medida
+
+@PING49,400
+PING905> Fin de la medida
+
+@PING905,398
+PING572> Fin de la medida
+
+@PING572,398
+PING932> Fin de la medida
+
+@PING932,404
+PING303> Fin de la medida
+
+@PING303,399
+PING684> Fin de la medida
+
+@PING684,400
+PING567> Fin de la medida
+
+@PING567,399
+PING971> Fin de la medida
+
+@PING971,400
+PING397> Fin de la medida
+
+@PING397,395
+PING510> Fin de la medida
+
+@PING510,403
+PING281> Fin de la medida
+
+@PING281,395
+PING399> Fin de la medida
+
+@PING399,403
+PING733> Fin de la medida
+
+@PING733,399
+PING367> Fin de la medida
+
+@PING367,399
+PING11> Fin de la medida
+
+@PING11,401
+PING28> Fin de la medida
+
+@PING28,405
+PING262> Fin de la medida
+
+@PING262,405
+PING345> Fin de la medida
+
+@PING345,403
+PING683> Fin de la medida
+
+@PING683,395
+PING826> Fin de la medida
+
+@PING826,400
+PING715> Fin de la medida
+
+@PING715,399
+PING226> Fin de la medida
+
+@PING226,402
+PING770> Fin de la medida
+
+@PING770,405
+PING693> Fin de la medida
+
+@PING693,403
+PING722> Fin de la medida
+
+@PING722,404
+PING175> Fin de la medida
+
+@PING175,400
+PING216> Fin de la medida
+
+@PING216,406
+PING757> Fin de la medida
+
+@PING757,404
+PING522> Fin de la medida
+
+@PING522,400
+PING953> Fin de la medida
+
+@PING953,401
+PING659> Fin de la medida
+
+@PING659,401
+PING955> Fin de la medida
+
+@PING955,400
+PING419> Fin de la medida
+
+@PING419,404
+PING959> Fin de la medida
+
+@PING959,401
+PING909> Fin de la medida
+
+@PING909,397
+PING9> Fin de la medida
+
+@PING9,404
+PING780> Fin de la medida
+
+@PING780,402
+PING870> Fin de la medida
+
+@PING870,408
+PING561> Fin de la medida
+
+@PING561,402
+PING944> Fin de la medida
+
+@PING944,402
+PING962> Fin de la medida
+
+@PING962,406
+PING673> Fin de la medida
+
+@PING673,407
+PING550> Fin de la medida
+
+@PING550,408
+PING486> Fin de la medida
+
+@PING486,408
+PING650> Fin de la medida
+
+@PING650,408
+PING56> Fin de la medida
+
+@PING56,409
+PING828> Fin de la medida
+
+@PING828,408
+PING952> Fin de la medida
+
+@PING952,408
+PING914> Fin de la medida
+
+@PING914,400
+PING994> Fin de la medida
+
+@PING994,407
+PING311> Fin de la medida
+
+@PING311,404
+PING430> Fin de la medida
+
+@PING430,408
+PING316> Fin de la medida
+
+@PING316,406
+PING852> Fin de la medida
+
+@PING852,405
+PING738> Fin de la medida
+
+@PING738,404
+PING543> Fin de la medida
+
+@PING543,400
+PING159> Fin de la medida
+
+@PING159,409
+PING438> Fin de la medida
+
+@PING438,413
+PING755> Fin de la medida
+
+@PING755,413
+PING709> Fin de la medida
+
+@PING709,411
+PING652> Fin de la medida
+
+@PING652,411
+PING787> Fin de la medida
+
+@PING787,408
+PING756> Fin de la medida
+
+@PING756,412
+PING958> Fin de la medida
+
+@PING958,413
+PING872> Fin de la medida
+
+@PING872,412
+PING223> Fin de la medida
+
+@PING223,412
+PING957> Fin de la medida
+
+@PING957,412
+PING404> Fin de la medida
+
+@PING404,408
+PING651> Fin de la medida
+
+@PING651,415
+PING754> Fin de la medida
+
+@PING754,409
+PING977> Fin de la medida
+
+@PING977,413
+PING76> Fin de la medida
+
+@PING76,405
+PING526> Fin de la medida
+
+@PING526,405
+PING29> Fin de la medida
+
+@PING29,405
+PING107> Fin de la medida
+
+@PING107,415
+PING972> Fin de la medida
+
+@PING972,410
+PING42> Fin de la medida
+
+@PING42,415
+PING294> Fin de la medida
+
+@PING294,413
+PING227> Fin de la medida
+
+@PING227,406
+PING427> Fin de la medida
+
+@PING427,416
+PING747> Fin de la medida
+
+@PING747,407
+PING991> Fin de la medida
+
+@PING991,417
+PING609> Fin de la medida
+
+@PING609,407
+PING868> Fin de la medida
+
+@PING868,413
+PING123> Fin de la medida
+
+@PING123,408
+PING974> Fin de la medida
+
+@PING974,418
+PING187> Fin de la medida
+
+@PING187,419
+PING984> Fin de la medida
+
+@PING984,414
+PING61> Fin de la medida
+
+@PING61,421
+PING17> Fin de la medida
+
+@PING17,415
+PING184> Fin de la medida
+
+@PING184,421
+PING583> Fin de la medida
+
+@PING583,419
+PING474> Fin de la medida
+
+@PING474,421
+PING571> Fin de la medida
+
+@PING571,420
+PING448> Fin de la medida
+
+@PING448,420
+PING309> Fin de la medida
+
+@PING309,426
+PING196> Fin de la medida
+
+@PING196,423
+PING743> Fin de la medida
+
+@PING743,418
+PING235> Fin de la medida
+
+@PING235,424
+PING295> Fin de la medida
+
+@PING295,423
+PING74> Fin de la medida
+
+@PING74,428
+PING179> Fin de la medida
+
+@PING179,427
+PING79> Fin de la medida
+
+@PING79,431
+PING892> Fin de la medida
+
+@PING892,438
+0
+Fin de las pruebas
