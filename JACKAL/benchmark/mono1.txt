@@ -1,0 +1,15 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.ClienteyServidor 1  
+##                                                            
+## Por jota (jue dic 16 12:20:13 CET 2004)                                    
+##############################################################
+
+0|Registering pong1.local with ans
+Todos los agentes iniciados
+0-Registering ping1.local with ans
+PING1> Inicio de la medida
+PING1> Fin de la medida
+
+@PING1,54
+0
+Fin de las pruebas

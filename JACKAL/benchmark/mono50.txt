@@ -1,0 +1,131 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.ClienteyServidor 50  
+##                                                            
+## Por jota (jue dic 16 12:43:16 CET 2004)                                    
+##############################################################
+
+0|0|Registering pong23.local with ans
+Registering pong34.local with ans
+Registering pong17.local with ans
+Registering pong12.local with ans
+Registering pong13.local with ans
+Registering pong25.local with ans
+Registering pong14.local with ans
+Registering pong18.local with ans
+Registering pong20.local with ans
+Registering pong22.local with ans
+Registering pong42.local with ans
+Registering pong28.local with ans
+Registering pong47.local with ans
+Registering pong3.local with ans
+Registering pong7.local with ans
+Registering pong37.local with ans
+Registering pong29.local with ans
+Registering pong19.local with ans
+Registering pong26.local with ans
+Registering pong45.local with ans
+Registering pong24.local with ans
+Registering pong27.local with ans
+Registering pong2.local with ans
+Registering pong1.local with ans
+Registering pong33.local with ans
+Registering pong41.local with ans
+Registering pong43.local with ans
+Registering pong36.local with ans
+Registering pong35.local with ans
+Registering pong6.local with ans
+Registering pong44.local with ans
+Registering pong21.local with ans
+Registering pong9.local with ans
+Registering pong40.local with ans
+Registering pong16.local with ans
+Registering pong38.local with ans
+Registering pong39.local with ans
+2|Registering pong31.local with ans
+Registering pong30.local with ans
+Registering pong8.local with ans
+Registering pong15.local with ans
+Registering pong10.local with ans
+Registering pong11.local with ans
+Registering pong46.local with ans
+Registering pong4.local with ans
+Registering pong50.local with ans
+Registering pong32.local with ans
+Registering pong48.local with ans
+Registering pong49.local with ans
+Registering pong5.local with ans
+9|10|30|Registering ping50.local with ans
+Registering ping44.local with ans
+Registering ping47.local with ans
+Registering ping38.local with ans
+Registering ping33.local with ans
+Registering ping24.local with ans
+Registering ping48.local with ans
+Registering ping28.local with ans
+Registering ping30.local with ans
+Registering ping18.local with ans
+Registering ping21.local with ans
+Registering ping34.local with ans
+Registering ping43.local with ans
+Registering ping26.local with ans
+Registering ping29.local with ans
+Registering ping20.local with ans
+Registering ping49.local with ans
+Registering ping45.local with ans
+Registering ping15.local with ans
+Registering ping27.local with ans
+Registering ping46.local with ans
+Registering ping41.local with ans
+Registering ping32.local with ans
+Registering ping17.local with ans
+Registering ping25.local with ans
+Registering ping35.local with ans
+Todos los agentes iniciados
+5-Registering ping39.local with ans
+Registering ping42.local with ans
+Registering ping19.local with ans
+Registering ping31.local with ans
+Registering ping37.local with ans
+Registering ping14.local with ans
+Registering ping23.local with ans
+Registering ping22.local with ans
+Registering ping40.local with ans
+Registering ping13.local with ans
+Registering ping36.local with ans
+Registering ping7.local with ans
+9-Registering ping11.local with ans
+Registering ping1.local with ans
+Registering ping5.local with ans
+13-Registering ping16.local with ans
+Registering ping9.local with ans
+Registering ping8.local with ans
+Registering ping3.local with ans
+Registering ping4.local with ans
+27-Registering ping6.local with ans
+Registering ping10.local with ans
+33-Registering ping12.local with ans
+39-Registering ping2.local with ans
+43-45-45-48-49-50-50-50-PING47> Inicio de la medida
+50-50-PING29> Inicio de la medida
+50-PING43> Inicio de la medida
+PING35> Inicio de la medida
+PING49> Inicio de la medida
+PING7> Inicio de la medida
+PING13> Inicio de la medida
+PING37> Inicio de la medida
+PING46> Inicio de la medida
+PING2> Inicio de la medida
+50-PING16> Inicio de la medida
+PING39> Inicio de la medida
+PING3> Inicio de la medida
+50-PING32> Inicio de la medida
+PING6> Inicio de la medida
+PING4> Inicio de la medida
+50-PING12> Inicio de la medida
+50-50-50-PING37> Fin de la medida
+
+@PING37,3188
+PING3> Fin de la medida
+
+@PING3,2985
+48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-48-

@@ -1,0 +1,8 @@
+cdlmono100.txt#JACKAL	cdlmono10.txt#JACKAL	cdlmono1.txt#JACKAL	cdlmono20.txt#JACKAL	cdlmono50.txt#JACKAL	cdlmonoLoad100.txt#JACKAL	cdlmonoLoad10.txt#JACKAL	cdlmonoLoad1.txt#JACKAL	cdlmonoLoad20.txt#JACKAL	cdlmonoLoad50.txt#JACKAL
+	3832	54	4390	3188		4641	1361	3524	1750
+	3581		4425	2985		4771		3401	1558
+	4270		3944			4459		3848	
+	4693		5890			4466		3436	
+	4282		4880			4899		4269	
+	4253		5243						
+	4671		4556						

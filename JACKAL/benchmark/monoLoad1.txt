@@ -1,0 +1,29 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.ClienteyServidorLoad 1  
+##                                                            
+## Por jota (mié dic 15 19:31:40 CET 2004)                                    
+##############################################################
+
+0|Registering pong1.local with ans
+Todos los agentes iniciados
+0-Registering ping1.local with ans
+PING1> El valor es 157285
+PING1> El valor es 118272
+PING1> Inicio de la medida
+PING1> El valor es 202907
+1-PING1> El valor es 209856
+PING1> El valor es 210964
+PING1> El valor es 81851
+PING1> El valor es 81219
+1-PING1> El valor es 302145
+PING1> El valor es 55481
+PING1> El valor es 167049
+1-PING1> El valor es 190333
+PING1> El valor es 174731
+PING1> Fin de la medida
+
+@PING1,1361
+PING1> El valor es 195051
+PING1> El valor es 162699
+0
+Fin de las pruebas
