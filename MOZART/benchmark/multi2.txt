@@ -1,0 +1,25 @@
+##############################################################
+## ./bin/Cliente -n 2                                        
+##                                                            
+## Por jota (jue dic 23 20:11:59 CET 2004)                                    
+##############################################################
+
+PING1> Envio un mensaje a pong1@platformQuinlan
+PING2> Envio un mensaje a pong2@platformQuinlan
+Todos los agentes lanzados
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-

@@ -1,0 +1,41 @@
+##############################################################
+## ./bin/ClienteyServidor -n 2                               
+##                                                            
+## Por jota (jue dic 23 17:00:23 CET 2004)                                    
+##############################################################
+
+PING1> Envio un mensaje a pong1
+PING2> Envio un mensaje a pong2
+Todos los agentes lanzados
+0-
+0-
+PING1> Mensaje reply de pong1 [(pong)]
+PING1> Envio un mensaje a pong1
+PING2> Mensaje reply de pong2 [(pong)]
+PING2> Envio un mensaje a pong2
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-
+0-

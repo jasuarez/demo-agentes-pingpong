@@ -1,0 +1,23 @@
+##############################################################
+## ./bin/ClienteyServidor -n 5                               
+##                                                            
+## Por jota (vie dic  3 17:48:24 CET 2004)                                    
+##############################################################
+
+PING3> Inicio de la medida
+PING2> Inicio de la medida
+PING1> Inicio de la medida
+PING4> Inicio de la medida
+PING5> Inicio de la medida
+@PING4,10.4
+PING4> Fin de la medida
+@PING3,10.4
+PING3> Fin de la medida
+@PING2,10.4
+PING2> Fin de la medida
+@PING1,10.4
+PING1> Fin de la medida
+@PING5,10.2
+PING5> Fin de la medida
+Todos los agentes lanzados
+0-
