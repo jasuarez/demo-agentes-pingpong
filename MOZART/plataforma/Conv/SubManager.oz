@@ -110,9 +110,6 @@ define
 	    % Se le pasa el mensaje a la conversacion a la que se corresponda
 	    {Wait Conv}
 	    {Conv messageReceived(Message)}
-	    %%JOTA
-	    {System.showInfo "SUBMANAGER> Mensaje de "#{Message getSender($)}#" a "#{Message getReceiver($)}}
-	    %%JOTA
 	 end
       end
    end

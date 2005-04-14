@@ -65,13 +65,6 @@ define
 	       {@serverAccess sendMessage(ErrorMsg)}
 	    end
 	 else
-	    %%JOTA
-	    {System.showInfo "CONVERSATION> Mensaje de "#{Message getSender($)}#" a "#{Message getReceiver($)}}
-	    {System.showInfo "CONVERSATION> La conversacion es "#@convId}
-	    {System.showInfo "CONVERSATION> Mensaje2 de "#{Message getSender($)}#" a "#{Message getReceiver($)}}
-	    %{@agentAccess imprime(Message)}
-	    {Time.delay 5000}
-	    %%JOTA
 	    {@agentAccess recv(Message @convId)}
 	    if state=="CLOSE" then
 	       {System.showInfo "CONVERSATION> Cierro la conversacion"}

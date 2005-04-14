@@ -81,7 +81,7 @@ define
 	 in
 	    %%Suponemos que el mensaje es de respuesta
 	    %{System.showInfo "PING"#@id#"> Mensaje recibido: "#{Msg getPerformative($)}#", because "#{Msg getContent($)}}
-	    {System.showInfo "PING"#@id#"> Mensaje "#{Msg getPerformative($)}#" de "#{Msg getSender($)}#" ["#{Msg getContent($)}#"]"}
+	    %{System.showInfo "PING"#@id#"> Mensaje "#{Msg getPerformative($)}#" de "#{Msg getSender($)}#" ["#{Msg getContent($)}#"]"}
 	    X|Xr = @syncList
 	    X=unit
 	    syncList:=Xr
@@ -116,7 +116,7 @@ define
 	       {Mensaje setOntology('none')}
 	       
 	       {M setReceiver('pong'#@id#@platform)}
-	       {System.showInfo "PING"#@id#"> Envio un mensaje a "#{M getReceiver($)}}
+	       %{System.showInfo "PING"#@id#"> Envio un mensaje a "#{M getReceiver($)}}
 	       {@fachada sendMessage(Mensaje C)}
 	       X|Xr = @syncList
 	       {Wait X}
