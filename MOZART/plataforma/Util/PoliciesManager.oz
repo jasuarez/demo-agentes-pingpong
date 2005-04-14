@@ -2,10 +2,6 @@
 % AMPLIARLO
 functor
 
-   %%JOTA
-import
-   System
-   %%JOTA
    
 export
    PoliciesManager
@@ -23,9 +19,6 @@ define
 
       % Verifica un mensaje dentro de una conversacion y devuelve un nuevo estado
       meth verifyMessage(Message OldState ?NewState)
-	 %%JOTA
-	 {System.showInfo "POLICIESMANAGER> El mensaje "#{Message getPerformative($)}#" pasa la prueba"}
-	 %%JOTA
 	 NewState="prueba"
       end
    end

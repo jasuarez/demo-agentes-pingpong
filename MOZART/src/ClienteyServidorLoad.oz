@@ -49,7 +49,7 @@ define
 		  Ag
 	       in
 		  Ag = {New PongAgentLoad.pongAgentLoad init(N C)}
-		  {Ag makeFac('/home/jota/eclipse/pingpong-MOZART/serverTicketShoham' Ag)}
+		  {Ag makeFac('/home/jota/eclipse/pingpong-MOZART/serverTicketAliana' Ag)}
 		  %{Ag setPlatform('@platformQuinlan')}
 	       end
 	    end
@@ -74,7 +74,7 @@ define
 		  Ag
 	       in
 		  Ag = {New PingAgentLoad.pingAgentLoad init(N C)}
-		  {Ag makeFac('/home/jota/eclipse/pingpong-MOZART/serverTicketShoham' Ag)}
+		  {Ag makeFac('/home/jota/eclipse/pingpong-MOZART/serverTicketAliana' Ag)}
 		  %{Ag setPlatform('@platformQuinlan')}
 		  {Ag start}
 	       end

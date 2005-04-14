@@ -65,9 +65,6 @@ define
 	 in
             %{System.showInfo "PONG"#@id#"> Mensaje recibido: "#{Msg getPerformative($)}#", because "#{Msg getContent($)}}
 	    %{System.showInfo "PONG"#@id#"> Mensaje de "#{Msg getSender($)}}
-	    {System.showInfo "hola"}
-	    {System.showInfo {Msg getPerformative($)}}
-	    {System.showInfo "adios"}
 	    if {Msg getPerformative($)}=='achieve' then
 	       Reply = {New Message.message init}
 	       {Reply setPerformative('reply')}
@@ -96,9 +93,7 @@ define
 		  Xr
 	       in
 		  X|Xr = @syncList
-		  {System.showInfo "PONG"#@id#"> Espero por un mensaje"}
 		  {Wait X}
-		  {System.showInfo "PONG"#@id#"> Mensaje recibido"}
 		  {StartLocal NumMensajes+1}
 	       end
 	    end
