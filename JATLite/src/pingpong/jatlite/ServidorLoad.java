@@ -27,10 +27,10 @@ public class ServidorLoad {
 	 */
 	public static void main(String[] args) {
 		int numAgents = new Integer(args[0]).intValue();
-		//Enrutador,shoham.dc.fi.udc.es,4402,MessageRouter,(MessageRouter)
-		Address routerAddress = new Address ("Enrutador", "shoham", 4402, "MessageRouter", "(MessageRouter)");
-		//Registrador,shoham.dc.fi.udc.es,4401,MessageRouter,(MessageRouterRegistrar)
-		Address regAddress = new Address ("Registrador", "shoham", 4401, "MessageRouter", "(MessageRouterRegistrar)");
+		//Enrutador,aliana.dc.fi.udc.es,4402,MessageRouter,(MessageRouter)
+		Address routerAddress = new Address ("Enrutador", "aliana", 4402, "MessageRouter", "(MessageRouter)");
+		//Registrador,aliana.dc.fi.udc.es,4401,MessageRouter,(MessageRouterRegistrar)
+		Address regAddress = new Address ("Registrador", "aliana", 4401, "MessageRouter", "(MessageRouterRegistrar)");
 		//Servidor,null,5556,MessageRouter,(agent-info  :password jhc)
 		Contador.setLimit (numAgents);
 		for (int i = 1; i <= numAgents; i++) {

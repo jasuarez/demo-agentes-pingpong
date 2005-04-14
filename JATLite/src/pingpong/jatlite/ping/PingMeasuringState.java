@@ -22,7 +22,7 @@ public class PingMeasuringState extends PingState {
 	/**
 	 * El numero de envios a medir.
 	 */
-	protected int _RETRIES = 10;
+	protected int _RETRIES = 100;
 	/**
 	 * Cuenta el numero de envios que llevamos realizados.
 	 */

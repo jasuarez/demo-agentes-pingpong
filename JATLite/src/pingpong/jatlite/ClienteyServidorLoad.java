@@ -28,8 +28,8 @@ public class ClienteyServidorLoad {
 	 */
 	public static void main(String[] args) {
 		int numAgents = new Integer(args[0]).intValue();
-		Address routerAddress = new Address ("Enrutador", "shoham", 4402, "MessageRouter", "(MessageRouter)");
-		Address regAddress = new Address ("Registrador", "shoham", 4401, "MessageRouter", "(MessageRouterRegistrar)");
+		Address routerAddress = new Address ("Enrutador", "aliana", 4402, "MessageRouter", "(MessageRouter)");
+		Address regAddress = new Address ("Registrador", "aliana", 4401, "MessageRouter", "(MessageRouterRegistrar)");
 		Contador.setLimit(numAgents);
 		for (int i = 1; i <= numAgents; i++) {
 			Address pongAddress = new Address ("pong"+i, null, 5500+i, "MessageRouter", "(agent-info :password jhc)");
