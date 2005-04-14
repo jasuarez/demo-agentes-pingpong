@@ -1,7 +1,7 @@
 # Router Name. The address file should have the Router address with the Router name.
 Enrutador
 # Address file(include Router, RotuerRegistrar, and other) path
-/home/jota/SOFT/KQML/JATLite/demoJATLite/AddressFile
+/home/jota/eclipse/pingpong-JATLite/AddressFile
 # Incoming mail box directory. should ended with '/'
 /home/jota/eclipse/pingpong-JATLite/incoming/
 # password file path.  
