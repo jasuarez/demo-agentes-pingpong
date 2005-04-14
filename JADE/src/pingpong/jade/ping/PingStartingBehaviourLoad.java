@@ -38,7 +38,7 @@ public class PingStartingBehaviourLoad extends SimpleBehaviour {
 	 * Cada cuantos envios comprobamos que todos los agentes
 	 * agentes estén listos.
 	 */
-	private int _RETRIES=1;
+	private int _RETRIES=2;
 	/**
 	 * Cuenta el numero de envios que llevamos realizados.
 	 */
@@ -126,8 +126,8 @@ public class PingStartingBehaviourLoad extends SimpleBehaviour {
 		//Si el agente pong esta en la misma máquina plataforma hay que descomentar
 		//la siguiente linea y comentar la de más abajo.
 
-		//msg.addReceiver(new AID("pong"+_id, AID.ISLOCALNAME));
-		msg.addReceiver(new AID("pong"+_id+"@quinlan", AID.ISGUID));
+		msg.addReceiver(new AID("pong"+_id, AID.ISLOCALNAME));
+		//msg.addReceiver(new AID("pong"+_id+"@quinlan", AID.ISGUID));
 		_agent.send(msg);
 	}
 }
