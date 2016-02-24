@@ -1,0 +1,137 @@
+This is e-TeXk, Version 3.14159-2.1 (Web2C 7.4.5) (format=latex 2005.2.2)  11 FEB 2005 11:44
+entering extended mode
+ Source specials enabled.
+**informe.tex
+(./informe.tex
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for american, spanish, nohyphenation, lo
+aded.
+(/usr/share/texmf/tex/latex/base/report.cls
+Document Class: report 2001/04/21 v1.4e Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/generic/babel/babel.sty
+Package: babel 2001/03/01 v3.7h The Babel package
+
+(/usr/share/texmf/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2001/01/30 v4.1c Spanish support from the babel system
+
+(/usr/share/texmf/tex/generic/babel/babel.def
+File: babel.def 2001/03/01 v3.7h Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count89
+Package babel Info: Making . an active character on input line 464.
+Package babel Info: Making " an active character on input line 495.
+Package babel Info: Making < an active character on input line 581.
+Package babel Info: Making > an active character on input line 582.
+))
+(/usr/share/texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2001/07/10 v0.99a Input encoding file 
+
+(/usr/share/texmf/tex/latex/base/latin1.def
+File: latin1.def 2001/07/10 v0.99a Input encoding file 
+))
+(/usr/share/texmf/tex/latex/svn/svn.sty
+Package: svn 2003/09/21 r32 Typeset Subversion keywords.
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2001/08/31 v1.1 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 80.
+
+(/usr/share/texmf/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) (./informe.aux)
+\openout1 = `informe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+ [1
+
+] [1]
+Overfull \hbox (12.81462pt too wide) in paragraph at lines 42--42
+[]\OT1/cmr/bx/n/14.4 Descripci^^Son de la pla-ta-for-ma pa-ra Mo-zart/Oz 
+ []
+
+File: comunicacionAgentes.eps Graphic file (type eps)
+<comunicacionAgentes.eps> [1]
+File: estadoEnvios.eps Graphic file (type eps)
+ <estadoEnvios.eps>
+File: estadoPing.eps Graphic file (type eps)
+ <estadoPing.eps>
+File: estadoPong.eps Graphic file (type eps)
+
+<estadoPong.eps> [2]
+File: diagramaClases.eps Graphic file (type eps)
+ <diagramaClases.eps>
+File: diagramaFases.eps Graphic file (type eps)
+ <diagramaFases.eps>
+File: secuenciaFuncionamiento.eps Graphic file (type eps)
+
+<secuenciaFuncionamiento.eps> [3] [4] [5]
+File: estadoPingLoad.eps Graphic file (type eps)
+ <estadoPingLoad.eps>
+File: estadoPongLoad.eps Graphic file (type eps)
+
+<estadoPongLoad.eps> (./informe.bbl [6] [7]) [8
+
+] (./informe.aux) ) 
+Here is how much of TeX's memory you used:
+ 1159 strings out of 95751
+ 13687 string characters out of 1194847
+ 67416 words of memory out of 1000001
+ 4161 multiletter control sequences out of 10000+50000
+ 10028 words of font info for 35 fonts, out of 500000 for 1000
+ 14 hyphenation exceptions out of 1000
+ 25i,7n,25p,184b,252s stack positions out of 1500i,500n,5000p,200000b,5000s
+
+Output written on informe.dvi (10 pages, 14492 bytes).

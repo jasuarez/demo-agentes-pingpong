@@ -1,0 +1,479 @@
+syn program(Output /* synthesized */)
+   (  Perf(!Output)
+   )
+end
+syn Perf($ /* synthesized */)
+   (  Syn334 Syn333 Syn332 Syn331 in
+      '('(Syn331) Word(Syn332) PerfArgs(Syn333) ')'(Syn334) 
+      => performative(Syn332 Syn333)
+   )
+end
+syn PerfArgs(PerfArgsOutput /* synthesized */)
+   (  Syn324 Syn323 in
+      Syn304(Syn323 Syn324) 
+      => !PerfArgsOutput = (Syn324 = nil
+			    Syn323)
+   )
+end
+syn Args($ /* synthesized */)
+   (  Syn303 Syn302 Syn301 Syn300 Syn299 in
+      whitespace(Syn299) ':'(Syn300) Word(Syn301) whitespace(Syn302)
+      Expression(Syn303) 
+      => arg(Syn301 Syn303)
+   )
+end
+syn Expression($ /* synthesized */)
+   (  Syn287 in
+      Word(Syn287) 
+      => Syn287
+   [] Syn288 in
+      Quotation(Syn288) 
+      => Syn288
+   [] Syn289 in
+      String(Syn289) 
+      => Syn289
+   [] Syn293 Syn292 Syn291 Syn290 in
+      '('(Syn293) Word(Syn292) WordExpression(Syn291) ')'(Syn290) 
+      => {VirtualString.toString Syn293|nil#Syn292#Syn291#Syn290|nil $}
+   )
+end
+syn WordExpression(WordExpressionOutput /* synthesized */)
+   (  Syn284 Syn283 in
+      Syn264(Syn283 Syn284) 
+      => !WordExpressionOutput = (Syn284 = nil
+				  Syn283)
+   )
+end
+syn WhiteSpaceExpression($ /* synthesized */)
+   (  Syn263 Syn262 in
+      whitespace(Syn262) Expression(Syn263) 
+      => {VirtualString.toString Syn262|nil#Syn263 $}
+   )
+end
+syn Word(Characters /* synthesized */)
+   (  Syn256 Syn255 in
+      Syn236(Syn255 Syn256) 
+      => !Characters = (Syn256 = nil
+			Syn255)
+   )
+end
+syn Character($ /* synthesized */)
+   (  Syn233 in
+      alphabetic(Syn233) 
+      => Syn233
+   [] Syn234 in
+      numeric(Syn234) 
+      => Syn234
+   [] Syn235 in
+      Special(Syn235) 
+      => Syn235
+   )
+end
+syn Special($ /* synthesized */)
+   (  Syn215 in
+      '<'(Syn215) 
+      => Syn215
+   [] Syn216 in
+      '>'(Syn216) 
+      => Syn216
+   [] Syn217 in
+      '='(Syn217) 
+      => Syn217
+   [] Syn218 in
+      '+'(Syn218) 
+      => Syn218
+   [] Syn219 in
+      '-'(Syn219) 
+      => Syn219
+   [] Syn220 in
+      '*'(Syn220) 
+      => Syn220
+   [] Syn221 in
+      '/'(Syn221) 
+      => Syn221
+   [] Syn222 in
+      '&'(Syn222) 
+      => Syn222
+   [] Syn223 in
+      '^'(Syn223) 
+      => Syn223
+   [] Syn224 in
+      '~'(Syn224) 
+      => Syn224
+   [] Syn225 in
+      '_'(Syn225) 
+      => Syn225
+   [] Syn226 in
+      '@'(Syn226) 
+      => Syn226
+   [] Syn227 in
+      '$'(Syn227) 
+      => Syn227
+   [] Syn228 in
+      '%'(Syn228) 
+      => Syn228
+   [] Syn229 in
+      ':'(Syn229) 
+      => Syn229
+   [] Syn230 in
+      '.'(Syn230) 
+      => Syn230
+   [] Syn231 in
+      '!'(Syn231) 
+      => Syn231
+   [] Syn232 in
+      '?'(Syn232) 
+      => Syn232
+   )
+end
+syn Quotation($ /* synthesized */)
+   (  Syn212 Syn211 in
+      apos(Syn212) Expression(Syn211) 
+      => {VirtualString.toString Syn212|nil#Syn211 $}
+   [] Syn214 Syn213 in
+      apos(Syn214) CommaExpression(Syn213) 
+      => Syn214|nil#Syn213
+   )
+end
+syn CommaExpression($ /* synthesized */)
+   (  Syn202 in
+      Word(Syn202) 
+      => Syn202
+   [] Syn203 in
+      Quotation(Syn203) 
+      => Syn203
+   [] Syn204 in
+      String(Syn204) 
+      => Syn204
+   [] Syn210 Syn209 Syn208 Syn207 Syn206 Syn205 in
+      ','(Syn210) CommaExpression(Syn209) '('(Syn208) Word(Syn207)
+      WordCommaExpression(Syn206) ')'(Syn205) 
+      => Syn210|nil#Syn209#Syn208|nil#Syn207#Syn206#Syn205|nil
+   )
+end
+syn WordCommaExpression(WordCommaExpressionOutput /* synthesized */)
+   (  Syn199 Syn198 in
+      Syn179(Syn198 Syn199) 
+      => !WordCommaExpressionOutput = (Syn199 = nil
+				       Syn198)
+   )
+end
+syn WhiteSpaceCommaExpression($ /* synthesized */)
+   (  Syn178 Syn177 in
+      whitespace(Syn177) CommaExpression(Syn178) 
+      => Syn177|nil#Syn178
+   )
+end
+syn String($ /* synthesized */)
+   (  Syn170 Syn169 Syn168 in
+      doublequote(Syn170) StringCharacters(Syn169) doublequote(Syn168) 
+      => {VirtualString.toString Syn170|nil#Syn169#Syn168|nil $}
+   [] Syn174 Syn173 Syn172 Syn171 in
+      '#'(Syn174) StringNums(Syn173) doublequote(Syn172) StringAsciis(Syn171) 
+      => {VirtualString.toString Syn174|nil#Syn173#Syn172|nil#Syn171 $}
+   )
+end
+syn StringCharacters(StringCharactersOutput /* synthesized */)
+   (  Syn165 Syn164 in
+      Syn145(Syn164 Syn165) 
+      => !StringCharactersOutput = (Syn165 = nil
+				    Syn164)
+   )
+end
+syn StringChar($ /* synthesized */)
+   (  Syn73 Syn72 in
+      backslash(Syn73) ascii(Syn72) 
+      => {VirtualString.toString Syn73#Syn72 $}
+   [] Syn75 Syn74 in
+      backslash(Syn75) whitespace(Syn74) 
+      => {VirtualString.toString Syn75#Syn74 $}
+   [] Syn77 Syn76 in
+      backslash(Syn77) backslash(Syn76) 
+      => {VirtualString.toString Syn77#Syn76 $}
+   [] Syn79 Syn78 in
+      backslash(Syn79) apos(Syn78) 
+      => {VirtualString.toString Syn79#Syn78 $}
+   [] Syn81 Syn80 in
+      backslash(Syn81) doublequote(Syn80) 
+      => {VirtualString.toString Syn81#Syn80 $}
+   [] Syn83 Syn82 in
+      backslash(Syn83) alphabetic(Syn82) 
+      => {VirtualString.toString Syn83#Syn82 $}
+   [] Syn85 Syn84 in
+      backslash(Syn85) numeric(Syn84) 
+      => {VirtualString.toString Syn85#Syn84 $}
+   [] Syn87 Syn86 in
+      backslash(Syn87) '<'(Syn86) 
+      => {VirtualString.toString Syn87#Syn86 $}
+   [] Syn89 Syn88 in
+      backslash(Syn89) '>'(Syn88) 
+      => {VirtualString.toString Syn89#Syn88 $}
+   [] Syn91 Syn90 in
+      backslash(Syn91) '='(Syn90) 
+      => {VirtualString.toString Syn91#Syn90 $}
+   [] Syn93 Syn92 in
+      backslash(Syn93) '+'(Syn92) 
+      => {VirtualString.toString Syn93#Syn92 $}
+   [] Syn95 Syn94 in
+      backslash(Syn95) '-'(Syn94) 
+      => {VirtualString.toString Syn95#Syn94 $}
+   [] Syn97 Syn96 in
+      backslash(Syn97) '*'(Syn96) 
+      => {VirtualString.toString Syn97#Syn96 $}
+   [] Syn99 Syn98 in
+      backslash(Syn99) '/'(Syn98) 
+      => {VirtualString.toString Syn99#Syn98 $}
+   [] Syn101 Syn100 in
+      backslash(Syn101) '&'(Syn100) 
+      => {VirtualString.toString Syn101#Syn100 $}
+   [] Syn103 Syn102 in
+      backslash(Syn103) '^'(Syn102) 
+      => {VirtualString.toString Syn103#Syn102 $}
+   [] Syn105 Syn104 in
+      backslash(Syn105) '~'(Syn104) 
+      => {VirtualString.toString Syn105#Syn104 $}
+   [] Syn107 Syn106 in
+      backslash(Syn107) '_'(Syn106) 
+      => {VirtualString.toString Syn107#Syn106 $}
+   [] Syn109 Syn108 in
+      backslash(Syn109) '@'(Syn108) 
+      => {VirtualString.toString Syn109#Syn108 $}
+   [] Syn111 Syn110 in
+      backslash(Syn111) '$'(Syn110) 
+      => {VirtualString.toString Syn111#Syn110 $}
+   [] Syn113 Syn112 in
+      backslash(Syn113) '%'(Syn112) 
+      => {VirtualString.toString Syn113#Syn112 $}
+   [] Syn115 Syn114 in
+      backslash(Syn115) ':'(Syn114) 
+      => {VirtualString.toString Syn115#Syn114 $}
+   [] Syn117 Syn116 in
+      backslash(Syn117) '.'(Syn116) 
+      => {VirtualString.toString Syn117#Syn116 $}
+   [] Syn119 Syn118 in
+      backslash(Syn119) '!'(Syn118) 
+      => {VirtualString.toString Syn119#Syn118 $}
+   [] Syn121 Syn120 in
+      backslash(Syn121) '?'(Syn120) 
+      => {VirtualString.toString Syn121#Syn120 $}
+   [] Syn122 in
+      ascii(Syn122) 
+      => Syn122
+   [] Syn123 in
+      whitespace(Syn123) 
+      => Syn123
+   [] Syn124 in
+      apos(Syn124) 
+      => Syn124
+   [] Syn125 in
+      alphabetic(Syn125) 
+      => Syn125
+   [] Syn126 in
+      numeric(Syn126) 
+      => Syn126
+   [] Syn127 in
+      '<'(Syn127) 
+      => Syn127
+   [] Syn128 in
+      '>'(Syn128) 
+      => Syn128
+   [] Syn129 in
+      '='(Syn129) 
+      => Syn129
+   [] Syn130 in
+      '+'(Syn130) 
+      => Syn130
+   [] Syn131 in
+      '-'(Syn131) 
+      => Syn131
+   [] Syn132 in
+      '*'(Syn132) 
+      => Syn132
+   [] Syn133 in
+      '/'(Syn133) 
+      => Syn133
+   [] Syn134 in
+      '&'(Syn134) 
+      => Syn134
+   [] Syn135 in
+      '^'(Syn135) 
+      => Syn135
+   [] Syn136 in
+      '~'(Syn136) 
+      => Syn136
+   [] Syn137 in
+      '_'(Syn137) 
+      => Syn137
+   [] Syn138 in
+      '@'(Syn138) 
+      => Syn138
+   [] Syn139 in
+      '$'(Syn139) 
+      => Syn139
+   [] Syn140 in
+      '%'(Syn140) 
+      => Syn140
+   [] Syn141 in
+      ':'(Syn141) 
+      => Syn141
+   [] Syn142 in
+      '.'(Syn142) 
+      => Syn142
+   [] Syn143 in
+      '!'(Syn143) 
+      => Syn143
+   [] Syn144 in
+      '?'(Syn144) 
+      => Syn144
+   )
+end
+syn StringNums(StringNumsOutput /* synthesized */)
+   (  Syn68 Syn67 in
+      Syn48(Syn67 Syn68) 
+      => !StringNumsOutput = (Syn68 = nil
+			      Syn67)
+   )
+end
+syn StringAsciis(StringAsciisOutput /* synthesized */)
+   (  Syn45 Syn44 in
+      Syn25(Syn44 Syn45) 
+      => !StringAsciisOutput = (Syn45 = nil
+				Syn44)
+   )
+end
+syn Ascii($ /* synthesized */)
+   (  Syn0 in
+      ascii(Syn0) 
+      => Syn0
+   [] Syn1 in
+      doublequote(Syn1) 
+      => Syn1
+   [] Syn2 in
+      backslash(Syn2) 
+      => Syn2
+   [] Syn3 in
+      whitespace(Syn3) 
+      => Syn3
+   [] Syn4 in
+      apos(Syn4) 
+      => Syn4
+   [] Syn5 in
+      alphabetic(Syn5) 
+      => Syn5
+   [] Syn6 in
+      numeric(Syn6) 
+      => Syn6
+   [] Syn7 in
+      '<'(Syn7) 
+      => Syn7
+   [] Syn8 in
+      '>'(Syn8) 
+      => Syn8
+   [] Syn9 in
+      '='(Syn9) 
+      => Syn9
+   [] Syn10 in
+      '+'(Syn10) 
+      => Syn10
+   [] Syn11 in
+      '-'(Syn11) 
+      => Syn11
+   [] Syn12 in
+      '*'(Syn12) 
+      => Syn12
+   [] Syn13 in
+      '/'(Syn13) 
+      => Syn13
+   [] Syn14 in
+      '&'(Syn14) 
+      => Syn14
+   [] Syn15 in
+      '^'(Syn15) 
+      => Syn15
+   [] Syn16 in
+      '~'(Syn16) 
+      => Syn16
+   [] Syn17 in
+      '_'(Syn17) 
+      => Syn17
+   [] Syn18 in
+      '@'(Syn18) 
+      => Syn18
+   [] Syn19 in
+      '$'(Syn19) 
+      => Syn19
+   [] Syn20 in
+      '%'(Syn20) 
+      => Syn20
+   [] Syn21 in
+      ':'(Syn21) 
+      => Syn21
+   [] Syn22 in
+      '.'(Syn22) 
+      => Syn22
+   [] Syn23 in
+      '!'(Syn23) 
+      => Syn23
+   [] Syn24 in
+      '?'(Syn24) 
+      => Syn24
+   )
+end
+syn Syn25(Syn26 /* synthesized */ Syn27 /* synthesized */)
+   (  skip
+      => Syn26 = Syn27
+   [] Syn47 Syn46 in
+      Syn25(!Syn26 Syn47) Ascii(!Syn46) 
+      => Syn47 = Syn46|Syn27
+   )
+end
+syn Syn48(Syn49 /* synthesized */ Syn50 /* synthesized */)
+   (  Syn69 in
+      numeric(!Syn69) 
+      => Syn49 = Syn69|Syn50
+   [] Syn71 Syn70 in
+      Syn48(!Syn49 Syn71) numeric(!Syn70) 
+      => Syn71 = Syn70|Syn50
+   )
+end
+syn Syn145(Syn146 /* synthesized */ Syn147 /* synthesized */)
+   (  skip
+      => Syn146 = Syn147
+   [] Syn167 Syn166 in
+      Syn145(!Syn146 Syn167) StringChar(!Syn166) 
+      => Syn167 = Syn166|Syn147
+   )
+end
+syn Syn179(Syn180 /* synthesized */ Syn181 /* synthesized */)
+   (  skip
+      => Syn180 = Syn181
+   [] Syn201 Syn200 in
+      Syn179(!Syn180 Syn201) WhiteSpaceCommaExpression(!Syn200) 
+      => Syn201 = Syn200|Syn181
+   )
+end
+syn Syn236(Syn237 /* synthesized */ Syn238 /* synthesized */)
+   (  Syn257 in
+      Character(!Syn257) 
+      => Syn237 = Syn257|Syn238
+   [] Syn259 Syn258 in
+      Syn236(!Syn237 Syn259) Character(!Syn258) 
+      => Syn259 = Syn258|Syn238
+   )
+end
+syn Syn264(Syn265 /* synthesized */ Syn266 /* synthesized */)
+   (  skip
+      => Syn265 = Syn266
+   [] Syn286 Syn285 in
+      Syn264(!Syn265 Syn286) WhiteSpaceExpression(!Syn285) 
+      => Syn286 = Syn285|Syn266
+   )
+end
+syn Syn304(Syn305 /* synthesized */ Syn306 /* synthesized */)
+   (  skip
+      => Syn305 = Syn306
+   [] Syn326 Syn325 in
+      Syn304(!Syn305 Syn326) Args(!Syn325) 
+      => Syn326 = Syn325|Syn306
+   )
+end
