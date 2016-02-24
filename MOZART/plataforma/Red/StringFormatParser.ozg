@@ -1,0 +1,184 @@
+\switch +gumpparseroutputsimplified +gumpparserverbose 
+functor
+import
+   GumpParser('class')
+   System
+export
+   StringFormatParser
+define 
+   parser StringFormatParser from GumpParser.'class' 
+      meth error(VS) Scanner in 
+	 GumpParser.'class', getScanner(?Scanner)
+	 {System.showInfo 'line '#{Scanner getLineNumber($)}#' column '#{Scanner getColNumber($)}#': '#VS}
+      end 
+ 
+      token 
+	 'whitespace' 'alphabetic' 'numeric' 'apos' 'ascii' 'doublequote' 'backslash'
+	 '<' '>' '=' '+' '-' '*' '/' '&' '^' '~' '_' '@' '$' '%' ':' '.' '!' '?' '#' ',' '(' ')'
+
+      syn program(?Output)
+	 !Output=Perf($)
+      end
+
+      syn Perf($)
+	 '('(V1) Word(W) PerfArgs(P) ')'(V2) => performative(W P)
+      end
+ 
+      syn PerfArgs(?PerfArgsOutput)
+	 !PerfArgsOutput={ Args($) }*
+      end
+      syn Args($)
+	 'whitespace'(V1) ':'(V2) Word(W) 'whitespace'(V3) Expression(E) => arg(W E)
+      end
+      
+      syn Expression($)
+	 Word(W) => W
+      [] Quotation(Q) => Q
+      [] String(S) => S
+      [] '('(V1)  Word(W) WordExpression(WE) ')'(V2) => {VirtualString.toString [V1]#W#WE#[V2] $}
+      end
+      syn WordExpression(?WordExpressionOutput)
+	 !WordExpressionOutput={ WhiteSpaceExpression($) }*
+      end
+      syn WhiteSpaceExpression($)
+	 'whitespace'(V) Expression(E) => {VirtualString.toString [V]#E $}
+      end
+      
+      syn Word(?Characters)
+	 !Characters={ Character($) }+
+      end 
+      syn Character($)
+	 'alphabetic'(A) => A
+      [] 'numeric'(N) => N
+      [] Special(S) => S
+      end
+      syn Special($)
+	 '<'(V) => V
+      [] '>'(V) => V
+      [] '='(V) => V
+      [] '+'(V) => V
+      [] '-'(V) => V
+      [] '*'(V) => V
+      [] '/'(V) => V
+      [] '&'(V) => V
+      [] '^'(V) => V
+      [] '~'(V) => V
+      [] '_'(V) => V
+      [] '@'(V) => V
+      [] '$'(V) => V
+      [] '%'(V) => V
+      [] ':'(V) => V
+      [] '.'(V) => V
+      [] '!'(V) => V
+      [] '?'(V) => V
+      end
+      
+      syn Quotation($)
+	 'apos'(V) Expression(E) => {VirtualString.toString [V]#E $}
+      [] 'apos'(V) CommaExpression(CE) => [V]#CE
+      end
+      syn CommaExpression($)
+	 Word(W) => W
+      [] Quotation(Q) => Q
+      [] String(S) => S
+      [] ','(V1) CommaExpression(CE1) '('(V2) Word(W) WordCommaExpression(WC) ')'(V3) => [V1]#CE1#[V2]#W#WC#[V3]
+      end
+      syn WordCommaExpression(?WordCommaExpressionOutput)
+	 !WordCommaExpressionOutput={ WhiteSpaceCommaExpression($) }*
+      end
+      syn WhiteSpaceCommaExpression($)
+	 'whitespace'(V) CommaExpression(CE) => [V]#CE
+      end
+      
+      syn String($)
+	 'doublequote'(V1) StringCharacters(SC) 'doublequote'(V2) => {VirtualString.toString [V1]#SC#[V2] $}
+      [] '#'(V) StringNums(SN) 'doublequote'(V2) StringAsciis(SA) => {VirtualString.toString [V]#SN#[V2]#SA $}
+      end
+      syn StringCharacters(?StringCharactersOutput)
+	 !StringCharactersOutput={ StringChar($) }*
+      end
+      syn StringChar($)
+	 'backslash'(V1) 'ascii'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) 'whitespace'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) 'backslash'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) 'apos'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) 'doublequote'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) 'alphabetic'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) 'numeric'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '<'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '>'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '='(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '+'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '-'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '*'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '/'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '&'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '^'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '~'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '_'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '@'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '$'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '%'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) ':'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '.'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '!'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'backslash'(V1) '?'(V2) => {VirtualString.toString V1#V2 $}
+      [] 'ascii'(V) => V
+      [] 'whitespace'(V) => V
+      [] 'apos'(V) => V
+      [] 'alphabetic'(V) => V
+      [] 'numeric'(V) => V
+      [] '<'(V) => V
+      [] '>'(V) => V
+      [] '='(V) => V
+      [] '+'(V) => V
+      [] '-'(V) => V
+      [] '*'(V) => V
+      [] '/'(V) => V
+      [] '&'(V) => V
+      [] '^'(V) => V
+      [] '~'(V) => V
+      [] '_'(V) => V
+      [] '@'(V) => V
+      [] '$'(V) => V
+      [] '%'(V) => V
+      [] ':'(V) => V
+      [] '.'(V) => V
+      [] '!'(V) => V
+      [] '?'(V) => V
+      end
+      syn StringNums(?StringNumsOutput)
+	 !StringNumsOutput={ 'numeric'($) }+
+      end
+      syn StringAsciis(?StringAsciisOutput)
+	 !StringAsciisOutput={ Ascii($) }*
+      end
+      syn Ascii($)
+	 'ascii'(V) => V
+      [] 'doublequote'(V) => V
+      [] 'backslash'(V) => V
+      [] 'whitespace'(V) => V
+      [] 'apos'(V) => V
+      [] 'alphabetic'(V) => V
+      [] 'numeric'(V) => V
+      [] '<'(V) => V
+      [] '>'(V) => V
+      [] '='(V) => V
+      [] '+'(V) => V
+      [] '-'(V) => V
+      [] '*'(V) => V
+      [] '/'(V) => V
+      [] '&'(V) => V
+      [] '^'(V) => V
+      [] '~'(V) => V
+      [] '_'(V) => V
+      [] '@'(V) => V
+      [] '$'(V) => V
+      [] '%'(V) => V
+      [] ':'(V) => V
+      [] '.'(V) => V
+      [] '!'(V) => V
+      [] '?'(V) => V
+      end
+   end
+end

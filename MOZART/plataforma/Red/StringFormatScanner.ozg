@@ -1,0 +1,81 @@
+functor
+import
+   GumpScanner('class')
+export
+   StringFormatScanner
+define
+   scanner StringFormatScanner from GumpScanner.'class' 
+      attr
+	 LineNumber
+	 ColNumber
+      meth init()
+	 GumpScanner.'class', init()
+	 LineNumber <- 1
+	 ColNumber <- 1
+      end 
+      meth getLineNumber($)
+	 @LineNumber
+      end
+      meth getColNumber($)
+	 @ColNumber
+      end
+ 
+      lex numeric = <[0-9]> end 
+      lex alphabetic = <[a-zA-Z]> end
+      lex doublequote = <[\"]> end
+      lex apos = <[\']> end
+      lex backslash = <[\\]> end
+      lex whitespace = <[ ]> end
+      lex ascii = <.> end
+
+      lex <"<"|">"|"="|"+"|"-"|"*"|"/"|"&"|"^"|"~"|"_"|"@"|"$"|"%"|":"|"."|"!"|"?"|"#"|","|"("|")"> A S in 
+	 GumpScanner.'class', getAtom(?A)
+	 GumpScanner.'class', getString(?S)
+	 GumpScanner.'class', putToken(A S)
+	 ColNumber <- @ColNumber + 1
+      end 
+      lex <{numeric}> S in 
+	 GumpScanner.'class', getString(?S)
+	 GumpScanner.'class', putToken('numeric' S)
+	 ColNumber <- @ColNumber + 1
+      end      
+      lex <{alphabetic}> S in 
+	 GumpScanner.'class', getString(?S)
+	 GumpScanner.'class', putToken('alphabetic' S)
+	 ColNumber <- @ColNumber + 1
+      end
+      lex <{doublequote}> S in 
+	 GumpScanner.'class', getString(?S)
+	 GumpScanner.'class', putToken('doublequote' S)
+	 ColNumber <- @ColNumber + 1
+      end
+      lex <{apos}> S in 
+	 GumpScanner.'class', getString(?S)
+	 GumpScanner.'class', putToken('apos' S)
+	 ColNumber <- @ColNumber + 1
+      end
+      lex <{backslash}> S in 
+	 GumpScanner.'class', getString(?S)
+	 GumpScanner.'class', putToken('backslash' S)
+	 ColNumber <- @ColNumber + 1
+      end
+      lex <{whitespace}> S in 
+	 GumpScanner.'class', getString(?S)
+	 GumpScanner.'class', putToken('whitespace' S)
+	 ColNumber <- @ColNumber + 1
+      end
+      lex <{ascii}> S in 
+	 GumpScanner.'class', getString(?S)
+	 GumpScanner.'class', putToken('ascii' S)
+	 ColNumber <- @ColNumber + 1
+      end
+      lex <\n> 
+	 LineNumber <- @LineNumber + 1
+	 ColNumber <- 1
+      end 
+ 
+      lex <<EOF>> 
+	 GumpScanner.'class', putToken1('EOF')
+      end 
+   end
+end

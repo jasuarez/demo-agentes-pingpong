@@ -1,0 +1,22 @@
+##############################################################
+## ./bin/Cliente -n 1                                        
+##                                                            
+## Por jota (jue dic 23 20:14:26 CET 2004)                                    
+##############################################################
+
+PING1> Envio un mensaje a pong1@platformQuinlan
+Todos los agentes lanzados
+0-
+0-
+PING1> Mensaje reply de pong1@platformQuinlan [(pong)]
+PING1> Envio un mensaje a pong1@platformQuinlan
+0-
+0-
+PING1> Mensaje reply de pong1@platformQuinlan [(pong)]
+PING1> Envio un mensaje a pong1@platformQuinlan
+1-
+1-
+PING1> Mensaje reply de pong1@platformQuinlan [(pong)]
+PING1> Envio un mensaje a pong1@platformQuinlan
+1-
+1-

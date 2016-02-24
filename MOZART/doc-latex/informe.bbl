@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{kqml}
+Tim Finin, Jay Weber, Gio Wiederhold, Mike Genesereth, Don McKay, Rich
+  Fritzson, Stu Shapiro, Richard Pelavin, and Jim McGuire.
+\newblock {Specification of the {KQML} Agent-Communication Language -- plus
+  example agent policies and architectures}, 1993.
+
+\bibitem{mozart}
+Peter {Van Roy} and Seif Haridi.
+\newblock Mozart: {A} programming system for agent applications.
+\newblock In {\em International Workshop on Distributed and Internet
+  Programming with Logic and Constraint Languages}, 1999.
+
+\end{thebibliography}

@@ -1,0 +1,160 @@
+##############################################################
+## ./bin/ClienteyServidor -n 50                               
+##                                                            
+## Por jota (jue dic 16 12:37:50 CET 2004)                                    
+##############################################################
+
+PING8> Inicio de la medida
+PING7> Inicio de la medida
+PING6> Inicio de la medida
+PING5> Inicio de la medida
+PING3> Inicio de la medida
+PING2> Inicio de la medida
+PING9> Inicio de la medida
+PING4> Inicio de la medida
+PING1> Inicio de la medida
+PING10> Inicio de la medida
+PING13> Inicio de la medida
+PING14> Inicio de la medida
+PING15> Inicio de la medida
+PING17> Inicio de la medida
+PING18> Inicio de la medida
+PING19> Inicio de la medida
+PING20> Inicio de la medida
+PING11> Inicio de la medida
+PING16> Inicio de la medida
+PING22> Inicio de la medida
+PING23> Inicio de la medida
+PING24> Inicio de la medida
+PING26> Inicio de la medida
+PING37> Inicio de la medida
+PING25> Inicio de la medida
+PING38> Inicio de la medida
+PING39> Inicio de la medida
+PING40> Inicio de la medida
+PING21> Inicio de la medida
+PING27> Inicio de la medida
+PING30> Inicio de la medida
+PING28> Inicio de la medida
+PING33> Inicio de la medida
+PING34> Inicio de la medida
+PING35> Inicio de la medida
+PING41> Inicio de la medida
+PING42> Inicio de la medida
+PING43> Inicio de la medida
+PING44> Inicio de la medida
+PING45> Inicio de la medida
+PING46> Inicio de la medida
+PING47> Inicio de la medida
+PING31> Inicio de la medida
+PING48> Inicio de la medida
+PING50> Inicio de la medida
+PING29> Inicio de la medida
+PING36> Inicio de la medida
+PING32> Inicio de la medida
+PING12> Inicio de la medida
+PING49> Inicio de la medida
+Todos los agentes lanzados
+50-
+50-
+50-
+@PING8,155.2
+PING8> Fin de la medida
+@PING7,155.5
+PING7> Fin de la medida
+@PING26,155.1
+PING26> Fin de la medida
+@PING24,155.7
+PING24> Fin de la medida
+@PING5,156.2
+PING5> Fin de la medida
+@PING23,155.9
+PING23> Fin de la medida
+@PING3,156.3
+PING3> Fin de la medida
+@PING9,156.3
+PING9> Fin de la medida
+@PING6,156.5
+PING6> Fin de la medida
+@PING2,156.3
+PING2> Fin de la medida
+@PING4,156.4
+PING4> Fin de la medida
+@PING15,156.3
+PING15> Fin de la medida
+@PING21,156.2
+PING21> Fin de la medida
+@PING40,156.4
+PING40> Fin de la medida
+@PING38,156.5
+PING38> Fin de la medida
+@PING25,156.5
+PING25> Fin de la medida
+@PING10,156.8
+PING10> Fin de la medida
+@PING17,156.7
+PING17> Fin de la medida
+@PING37,156.7
+PING37> Fin de la medida
+@PING39,156.9
+PING39> Fin de la medida
+@PING14,157.0
+PING14> Fin de la medida
+@PING20,157.0
+PING20> Fin de la medida
+@PING19,157.0
+PING19> Fin de la medida
+@PING27,156.9
+PING27> Fin de la medida
+@PING22,157.1
+PING22> Fin de la medida
+@PING11,157.2
+PING11> Fin de la medida
+@PING13,157.3
+PING13> Fin de la medida
+@PING28,157.1
+PING28> Fin de la medida
+@PING34,157.0
+PING34> Fin de la medida
+@PING30,157.2
+PING30> Fin de la medida
+@PING43,157.2
+PING43> Fin de la medida
+@PING41,157.2
+PING41> Fin de la medida
+@PING16,157.6
+PING16> Fin de la medida
+@PING1,157.7
+PING1> Fin de la medida
+@PING44,157.3
+PING44> Fin de la medida
+@PING18,157.7
+PING18> Fin de la medida
+@PING46,157.4
+PING46> Fin de la medida
+@PING35,157.8
+PING35> Fin de la medida
+@PING36,157.7
+PING36> Fin de la medida
+@PING33,158.2
+PING33> Fin de la medida
+@PING45,158.2
+PING45> Fin de la medida
+@PING29,157.9
+PING29> Fin de la medida
+@PING42,158.2
+PING42> Fin de la medida
+@PING12,158.2
+PING12> Fin de la medida
+@PING47,158.5
+PING47> Fin de la medida
+@PING49,158.4
+PING49> Fin de la medida
+@PING48,158.5
+PING48> Fin de la medida
+@PING50,158.6
+PING50> Fin de la medida
+@PING31,159.0
+PING31> Fin de la medida
+@PING32,158.8
+PING32> Fin de la medida
