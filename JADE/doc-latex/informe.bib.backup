@@ -1,0 +1,17 @@
+@misc{jade,
+author = "TILAB",
+title = "{{JADE} - Java Agent DEvelopment Framework. {http://jade.tilab.com}}",
+}
+
+@misc{fipa,
+author = "FIPA",
+title = "{Foundation for Intelligent Physical Agents. {http://www.fipa.org}}",
+}
+
+@book{designPatterns,
+author = {E. Gamma and R. Helm and R. Johnson and J. Vlissides},
+title = {Design Patterns: Elements of Reusable Object-Oriented Software},
+publisher = {Addison-Wesley},
+year = 1995,
+keywords = {Patterns} 
+}
