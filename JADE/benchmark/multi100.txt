@@ -1,0 +1,414 @@
+##############################################################
+## java -server -Xmx256m jade.Boot -container cli:pingpong.jade.Cliente(100)  
+##                                                            
+## Por jota (mié dic 22 18:46:09 CET 2004)                                    
+##############################################################
+
+    This is JADE 3.2 - 2004/07/26 13:41:05
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.cselt.it/
+
+Agent container Container-1@JADE-IMTP://shoham is ready.
+Todos los agentes iniciados
+92-PING21> Iniciando la medida
+PING52> Iniciando la medida
+PING82> Iniciando la medida
+PING64> Iniciando la medida
+PING93> Iniciando la medida
+PING49> Iniciando la medida
+PING48> Iniciando la medida
+PING69> Iniciando la medida
+PING53> Iniciando la medida
+PING12> Iniciando la medida
+PING73> Iniciando la medida
+PING97> Iniciando la medida
+PING95> Iniciando la medida
+PING75> Iniciando la medida
+PING32> Iniciando la medida
+PING28> Iniciando la medida
+PING50> Iniciando la medida
+PING13> Iniciando la medida
+PING19> Iniciando la medida
+PING40> Iniciando la medida
+PING61> Iniciando la medida
+PING66> Iniciando la medida
+PING96> Iniciando la medida
+PING43> Iniciando la medida
+PING36> Iniciando la medida
+PING65> Iniciando la medida
+PING89> Iniciando la medida
+PING44> Iniciando la medida
+PING37> Iniciando la medida
+PING71> Iniciando la medida
+PING11> Iniciando la medida
+PING8> Iniciando la medida
+PING51> Iniciando la medida
+PING29> Iniciando la medida
+PING23> Iniciando la medida
+PING1> Iniciando la medida
+PING87> Iniciando la medida
+PING68> Iniciando la medida
+PING54> Iniciando la medida
+PING20> Iniciando la medida
+PING67> Iniciando la medida
+PING99> Iniciando la medida
+PING60> Iniciando la medida
+PING7> Iniciando la medida
+PING92> Iniciando la medida
+PING74> Iniciando la medida
+PING72> Iniciando la medida
+PING22> Iniciando la medida
+PING15> Iniciando la medida
+PING47> Iniciando la medida
+PING55> Iniciando la medida
+PING63> Iniciando la medida
+PING14> Iniciando la medida
+PING16> Iniciando la medida
+PING42> Iniciando la medida
+PING17> Iniciando la medida
+PING27> Iniciando la medida
+PING26> Iniciando la medida
+PING57> Iniciando la medida
+PING25> Iniciando la medida
+PING35> Iniciando la medida
+PING30> Iniciando la medida
+PING9> Iniciando la medida
+PING100> Iniciando la medida
+PING18> Iniciando la medida
+PING84> Iniciando la medida
+PING94> Iniciando la medida
+PING58> Iniciando la medida
+PING90> Iniciando la medida
+PING86> Iniciando la medida
+PING33> Iniciando la medida
+PING4> Iniciando la medida
+PING41> Iniciando la medida
+PING45> Iniciando la medida
+PING2> Iniciando la medida
+PING10> Iniciando la medida
+PING24> Iniciando la medida
+PING80> Iniciando la medida
+PING3> Iniciando la medida
+PING78> Iniciando la medida
+PING91> Iniciando la medida
+PING62> Iniciando la medida
+PING39> Iniciando la medida
+PING83> Iniciando la medida
+PING5> Iniciando la medida
+PING85> Iniciando la medida
+PING70> Iniciando la medida
+PING34> Iniciando la medida
+PING77> Iniciando la medida
+PING56> Iniciando la medida
+PING76> Iniciando la medida
+PING79> Iniciando la medida
+PING88> Iniciando la medida
+PING59> Iniciando la medida
+PING38> Iniciando la medida
+PING81> Iniciando la medida
+PING6> Iniciando la medida
+PING46> Iniciando la medida
+PING31> Iniciando la medida
+PING98> Iniciando la medida
+100-PING61> Fin de la medida
+
+@PING61,57
+PING33> Fin de la medida
+
+@PING33,57
+PING15> Fin de la medida
+
+@PING15,58
+PING6> Fin de la medida
+
+@PING6,57
+PING12> Fin de la medida
+
+@PING12,58
+PING48> Fin de la medida
+
+@PING48,58
+PING43> Fin de la medida
+
+@PING43,58
+PING27> Fin de la medida
+
+@PING27,58
+PING35> Fin de la medida
+
+@PING35,58
+PING49> Fin de la medida
+
+@PING49,59
+PING19> Fin de la medida
+
+@PING19,59
+PING81> Fin de la medida
+
+@PING81,58
+PING58> Fin de la medida
+
+@PING58,58
+PING91> Fin de la medida
+
+@PING91,58
+PING64> Fin de la medida
+
+@PING64,59
+PING42> Fin de la medida
+
+@PING42,58
+PING4> Fin de la medida
+
+@PING4,59
+PING45> Fin de la medida
+
+@PING45,59
+PING89> Fin de la medida
+
+@PING89,59
+PING93> Fin de la medida
+
+@PING93,59
+PING41> Fin de la medida
+
+@PING41,59
+PING36> Fin de la medida
+
+@PING36,59
+PING13> Fin de la medida
+
+@PING13,59
+PING46> Fin de la medida
+
+@PING46,58
+PING75> Fin de la medida
+
+@PING75,59
+PING56> Fin de la medida
+
+@PING56,59
+PING32> Fin de la medida
+PING40> Fin de la medida
+
+@PING40,59
+PING96> Fin de la medida
+
+@PING96,59
+
+@PING32,59
+PING79> Fin de la medida
+
+@PING79,59
+PING51> Fin de la medida
+
+@PING51,59
+PING16> Fin de la medida
+
+@PING16,59
+PING71> Fin de la medida
+
+@PING71,60
+PING1> Fin de la medida
+
+@PING1,60
+PING78> Fin de la medida
+
+@PING78,59
+PING38> Fin de la medida
+
+@PING38,59
+PING60> Fin de la medida
+
+@PING60,60
+PING11> Fin de la medida
+
+@PING11,60
+PING66> Fin de la medida
+
+@PING66,60
+PING14> Fin de la medida
+
+@PING14,60
+PING92> Fin de la medida
+
+@PING92,60
+PING18> Fin de la medida
+
+@PING18,60
+PING73> Fin de la medida
+
+@PING73,60
+PING84> Fin de la medida
+
+@PING84,60
+PING94> Fin de la medida
+
+@PING94,60
+PING99> Fin de la medida
+
+@PING99,60
+PING54> Fin de la medida
+
+@PING54,60
+PING39> Fin de la medida
+
+@PING39,60
+PING83> Fin de la medida
+
+@PING83,60
+PING7> Fin de la medida
+
+@PING7,60
+PING44> Fin de la medida
+
+@PING44,60
+PING62> Fin de la medida
+
+@PING62,60
+PING5> Fin de la medida
+
+@PING5,60
+PING8> Fin de la medida
+
+@PING8,60
+PING28> Fin de la medida
+
+@PING28,60
+PING21> Fin de la medida
+
+@PING21,60
+PING2> Fin de la medida
+
+@PING2,60
+PING63> Fin de la medida
+
+@PING63,60
+PING90> Fin de la medida
+
+@PING90,60
+PING82> Fin de la medida
+
+@PING82,60
+PING25> Fin de la medida
+
+@PING25,60
+PING9> Fin de la medida
+
+@PING9,60
+PING47> Fin de la medida
+
+@PING47,60
+PING70> Fin de la medida
+
+@PING70,60
+PING50> Fin de la medida
+PING26> Fin de la medida
+
+@PING26,60
+
+@PING50,61
+PING29> Fin de la medida
+
+@PING29,61
+PING3> Fin de la medida
+
+@PING3,60
+PING69> Fin de la medida
+
+@PING69,61
+PING68> Fin de la medida
+
+@PING68,61
+PING76> Fin de la medida
+
+@PING76,60
+PING52> Fin de la medida
+
+@PING52,61
+PING97> Fin de la medida
+
+@PING97,61
+PING57> Fin de la medida
+
+@PING57,61
+PING98> Fin de la medida
+
+@PING98,60
+PING55> Fin de la medida
+
+@PING55,61
+PING24> Fin de la medida
+
+@PING24,61
+PING10> Fin de la medida
+
+@PING10,61
+PING59> Fin de la medida
+
+@PING59,60
+PING30> Fin de la medida
+
+@PING30,61
+PING34> Fin de la medida
+
+@PING34,61
+PING72> Fin de la medida
+
+@PING72,61
+PING17> Fin de la medida
+
+@PING17,61
+PING67> Fin de la medida
+
+@PING67,61
+PING95> Fin de la medida
+
+@PING95,62
+PING65> Fin de la medida
+
+@PING65,62
+PING20> Fin de la medida
+
+@PING20,62
+PING87> Fin de la medida
+
+@PING87,62
+PING53> Fin de la medida
+
+@PING53,62
+PING31> Fin de la medida
+
+@PING31,61
+PING100> Fin de la medida
+
+@PING100,61
+PING37> Fin de la medida
+
+@PING37,62
+PING23> Fin de la medida
+
+@PING23,62
+PING80> Fin de la medida
+
+@PING80,61
+PING88> Fin de la medida
+
+@PING88,61
+PING77> Fin de la medida
+
+@PING77,61
+PING86> Fin de la medida
+
+@PING86,62
+PING22> Fin de la medida
+
+@PING22,62
+PING74> Fin de la medida
+
+@PING74,62
+PING85> Fin de la medida
+
+@PING85,62
+0
+Fin de las pruebas

@@ -1,0 +1,275 @@
+\documentclass[a4paper,10pt]{report}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{svn}
+\usepackage{graphicx}
+
+% Title Page
+\title{Agentes \emph{Ping} y \emph{Pong} con \textbf{JADE}}
+\author{Juan A. Suárez Romero}
+
+
+\begin{document}
+\SVNdate $Date$
+\SVN $Revision$
+\maketitle
+
+\begin{abstract}
+El objetivo de este proyecto es medir el rendimiento de los agentes empleando
+la plataforma \textbf{JADE}, que permite comunicar agentes mediante FIPA
+ACL. Se presenta la filosofía de funcionamiento de dicha plataforma, y cómo se
+ha medido su rendimiento en base a unos agentes de tipo \emph{ping}
+y \emph{pong}.
+\end{abstract}
+
+\section{Objetivos del proyecto}
+El objetivo del proyecto es medir el rendimiento de la plataforma
+\textbf{JADE} en función del número de agentes que contiene. La idea consiste
+en crear un agente que haga un ping y otro agente que conteste con un pong a
+dicho agente, y realizar varios ping y pong para medir el tiempo medio de ida y
+vuelta (RTT, \emph{Round Trip Time}) de los mensajes. Se irá incrementando el
+número de parejas para ver cómo afecta al RTT de los mensajes. Así, para
+\emph{n} parejas el RTT será la media de los RTTs de los mensajes de cada
+pareja.
+
+En orden a que las medidas sean correctas, cada pareja sólo comenzará a tomar
+las medidas cuando detecte que todos las parejas han sido creadas. No obstante,
+aunque no comiencen las medidas, si comenzarán a transmitir y recibir los
+mensajes tan pronto como se vayan creando, y continuarán así hasta el final de
+las pruebas.
+
+
+\section{Descripción de la plataforma \textbf{JADE}}
+\textbf{JADE}\cite{jade} es una herramienta basada en Java para la
+comunicación de agentes empleando los estándares de FIPA\cite{fipa}.
+
+Una plataforma \textbf{JADE} está formada por uno o más contenedores. Los
+contenedores no son más que máquinas virtuales Java en las cuales se ejecutan
+los agentes. Así, como mínimo existe un contenedor dentro de una plataforma
+\textbf{JADE}, que es la que provee de los diversos servicios necesarios para
+cumplir los estándares de FIPA (por ejemplo, el servicio de Páginas Amarillas),
+y en la cual se pueden también ejecutar agentes. Además podemos añadir más
+contenedores simplemente ejecutando más máquinas virtuales Java, bien dentro del
+mismo ordenador o en otro sistema, y enlazándolas con el contenedor principal.
+Los agentes pueden viajar de un contenedor a otro (por ejemplo, en función de
+las necesidades de recursos).
+
+\subsection{Comunicación de los agentes}
+Cuando se ejecuta un agente en \textbf{JADE}, se hace dentro de un contenedor,
+que provee de las facilidades necesarias para la comunicación a dicho agente.
+Cada agente se registra en la plataforma con un nombre (se le asigna uno por
+defecto si no se indica ninguno), el cual se emplea para poder referirse a
+ellos. Además, de el nombre con el que se registra, se le añade un sufijo para
+indicar la plataforma en la que se encuentra; de esta forma podemos comunicarnos
+con agentes en otra plataforma.
+
+Se puede ver la relación entre los agentes y la plataforma en la figura
+\ref{fig:comunicacion}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=6cm]{comunicacionAgentes.eps}
+	\caption{Relación entre los agentes y la plataforma}
+	\label{fig:comunicacion}
+\end{figure}
+
+
+\subsection{Estructura de los agentes}
+En \textbf{JADE} los agentes descienden de la clase Agent. Para la ejecución de
+sus tareas, los agentes implementan \emph{Comportamientos} (figura
+\ref{fig:esquemaAgente} ), que son ejecutados por la plataforma \textbf{JADE}.
+Así, el control principal lo posee más bien la plataforma, que ejecuta los
+agentes según sus necesidades. 
+
+\begin{figure}
+	\centering
+	\includegraphics[width=6cm]{estructuraAgente.eps}
+	\caption{Estructura de un agente en JADE}
+	\label{fig:esquemaAgente}
+\end{figure}
+
+
+\section{Diseño del programa}
+\subsection{Agentes \emph{Ping}}
+Como hemos comentado al principio, los agentes \emph{ping} son los encargados
+de medir el rendimiento del sistema enviando y recibiendo los mensajes ping y
+pong. Sin embargo, no comienzan sus
+medidas hasta que todos ellos estén listos. Para ello los agentes comparten una
+clase, \emph{Contador}, que permite su sincronización. Así, cuando un agente
+está listo para realizar sus medidas, incrementa este contador y comienzan a
+enviar y recibir los mensajes pong. Cada cierto número de envíos, comprueban si
+el Contador ha llegado al tope, esto es, al número total de agentes que tiene
+que haber. Si este es el caso, entonces es cuando comienza la medida. Una vez
+que ha finalizado, y para evitar que la máquina quede descargarda y desvirtuar
+así la medida, cada agente decrementa el contador y sigue enviando y recibiendo
+mensajes sin medirlos, y comprobando de vez en cuando si el contador ha llegado
+a cero. Este caso ocurrirá cuando todos los agentes hayan decrementado
+respectivamente una vez el contador, esto es, cuando hayan finalizado sus
+medidas. En este momento es cuando el programa finalizará. Este proceso se
+encuentra esquematizado en las figuras \ref{fig:actividadPing} y
+\ref{fig:estadoEnvio}. Nótese que en esta última las fases de \texttt{Iniciar
+medida} y \texttt{Finalizar medida} sólo tienen sentido cuando se está midiendo
+los tiempos.
+
+Como vemos, existen claramente tres fases en los agentes: esperar a que todos
+los agentes estén listos, realizar las medidas, y esperar a que todos los
+agentes hayan finalizado sus medidas. Puesto que las tareas de los agentes se
+definen como Comportamientos, hemos empleado el patrón de diseño
+Estado\cite{designPatterns} para crear tres comportamientos:
+PingStartingBehaviour, PingMeasuringBehaviour y PingEndingBehaviour. Aunque en
+\textbf{JADE} se puede indicar que un comportamiento está formado por tres
+subcomportamientos que se ejecutan secuencialmente, la forma que tiene de
+ejecutarlos nos ha llevado a implementar nosotros mismos esta secuencialidad.
+Así, cuando el estado PingStartingBehaviour detecta que todos los agentes están
+listos, se sustituye a si mismo por el siguiente comportamiento,
+PingMeasuringBehaviour, el cual continua su ejecución. Este finalmente hace lo
+mismo con el último comportamiento, PingEndingBehaviour.
+
+
+\begin{figure}
+	\centering
+	\includegraphics[width=6cm]{estadoEnvios.eps}
+	\caption{Fases de un agente \emph{ping}}
+	\label{fig:actividadPing}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=6cm]{estadoPing.eps}
+	\caption{Fases en el envío de un mensaje}
+	\label{fig:estadoEnvio}
+\end{figure}
+
+
+\subsection{Agentes \emph{Pong}}
+Estos agentes son más sencillos de de diseñar. Su único objetivo es permanecer
+a la escucha de mensajes, y cuando se reciba uno se conteste al agente emisor.
+Se puede ver la actividad de estos agentes en la figura \ref{fig:estadoPong}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=6cm]{estadoPong.eps}
+	\caption{Actividad de un agente \emph{pong}}
+	\label{fig:estadoPong}
+\end{figure}
+
+
+\subsection{Funcionamiento global}
+El programa está formado por tres paquetes: \emph{pingpong.jade.ping}, que
+contiene las clases que forman al agente \emph{ping},
+\emph{pingpong.jade.pong}, que contiene las clases que forman al agente
+\emph{pong}, y \emph{pingpong.jade}, que contiene otra serie de clases útiles
+(ver figura \ref{fig:paquetes}).
+
+\begin{figure}
+	\centering
+	\includegraphics[width=6cm]{diagramaPaquetes.eps}
+% diagramaPaquetes.eps: 300dpi, width=4.71cm, height=3.15cm, bb=36 446 592 818
+	\caption{Paquetes que forman el proyecto}
+	\label{fig:paquetes}
+\end{figure}
+
+Cada agente \emph{ping} recibe un identificador numérico, que va desde 1 hasta
+el número total de agentes \emph{ping} que se creen. De igual forma se hace con
+los agentes \emph{pong}, de forma que el agente \emph{ping i} sólo se comunicará
+con el agente \emph{pong i} correspondiente. Así, primero se crean los agentes
+\emph{pong} y posteriormente los agentes \emph{ping}.
+
+A la hora de hacer las medidas, hemos posibilitado que o bien todos los agentes
+residan dentro de la misma máquina virtual, como que estén en máquinas
+separadas: la plataforma en una máquina virtual, todos los agentes \emph{ping}
+en otra y todos los agentes
+\emph{pong} en otra. Por ello se han creado tres clases nuevas: \emph{Cliente},
+que lanza tantos agentes \emph{ping} como se indique, \emph{Servidor}, que lanza
+tantos agentes \emph{pong} como se indique, y \emph{ClienteyServidor}, que lanza
+tantas parejas \emph{ping} y \emph{pong} como se indique dentro de la misma
+máquina virtual. Además, también hemos aportado la clase \emph{Ans}, que
+constituye el agente raíz de la jerarquía, y que se puede invocar desde la línea
+de comandos (si separamos en distintas máquinas virtuales los agentes) o desde
+la propia clse \emph{ClienteyServidor} si todo va a ejecutarse dentro de la
+misma máquina virtual. Se puede ver en la figura \ref{fig:clases}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=6cm]{diagramaClases.eps}
+% diagramaClases.eps: 300dpi, width=6.66cm, height=3.34cm, bb=36 424 823 818
+	\caption{Diagrama de clases del proyecto}
+	\label{fig:clases}
+\end{figure}
+
+Independientemente de si se ejecutan las pruebas en una o en más máquinas
+virtuales, el proceso siempre es el mismo: lanzar primero los agentes
+\emph{pong}, luego los agentes \emph{ping} y realizar las medidas, tal y como se
+ve en la figura \ref{fig:actividad}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=6cm]{diagramaActividad.eps}
+% diagramaActividad.eps: 300dpi, width=1.74cm, height=3.05cm, bb=36 458 242 818
+	\caption{Esquema de funcionamiento}
+	\label{fig:actividad}
+\end{figure}
+
+En la figura \ref{fig:secuencia} podemos ver una secuencia de funcionamiento de
+un agente \emph{ping} en conjunción con un agente \emph{pong}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=12cm]{secuenciaPing.eps}
+% secuenciaPing.eps: 300dpi, width=7.33cm, height=7.70cm, bb=36 -92 902 818
+	\caption{Funcionamiento de un agente \emph{ping}}
+	\label{fig:secuencia}
+\end{figure}
+
+
+\section{Carga de la máquina}
+En la sección anterior hemos descrito los agentes que hemos empleado para medir
+el rendimiento de la plataforma \textbf{JADE}. En la descripción hemos
+indicado que los agentes \emph{ping} envían un mensaje y quedan esperando la
+respuesta; de igual forma los agentes \emph{pong} esperan un mensaje y
+contestan con una respuesta. En ambos casos el proceso se repite continuamente.
+
+En un sistema real, los agentes no quedan simplemente esperando por la
+respuesta a un mensaje, ni la respuesta es un simple mensaje, sino que mientras
+esperan realizan alguna tarea, y la respuesta suele ser fruto de alguna
+operación que se realiza.
+
+Por ello se ha creado paralelamente a las clases \emph{PingAgent} y
+\emph{PongAgent} (que se corresponde con los agentes mencionados antes) las
+clases \emph{PingAgentLoad} y \emph{PongAgentLoad}. La diferencia entre los
+agentes \emph{PingAgent} y \emph{PingAgentLoad} es que éste último ejecuta una
+tarea entre el envío del mensaje y la espera por una respuesta (ver figura
+\ref{fig:pingLoad}), mientras que la diferencia entre los agentes
+\emph{PongAgent} y \emph{PongAgentLoad} es que éste último calcula la respuesta
+en función de una tarea (ver figura \ref{fig:pongLoad}). En ambos casos se ha
+aportado una clase denominada \emph{FullLoad} con un método que carga la máquina
+durante el tiempo estipulado (en nuestro caso durante 1 segundo).
+
+De nuevo, puesto que empleamos comportamientos, hemos creado los
+comportamientos \emph{PingMeasuringBehaviourLoad},
+\emph{PingStartingBehaviourLoad} y \emph{PingEndingBehaviourLoad}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=6cm]{estadoEnvioLoad.eps}
+	\caption{Tarea del agente \emph{PingAgentLoad}}
+	\label{fig:pingLoad}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=6cm]{estadoPongLoad.eps}
+	\caption{Tarea del agente \emph{PongAgentLoad}}
+	\label{fig:pongLoad}
+\end{figure}
+
+De igual forma, para poder ejecutar estos nuevos agentes se han creado, a
+semejanza de antes, las clases \emph{ClienteLoad}, \emph{ServidorLoad} y
+\emph{ClienteyServidorLoad}.
+
+
+% Bibliography page
+\bibliographystyle{plain} 
+\bibliography{informe}
+
+\end{document}          

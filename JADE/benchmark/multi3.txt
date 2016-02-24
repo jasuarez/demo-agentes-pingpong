@@ -1,0 +1,13 @@
+##############################################################
+## java -server -Xmx256m jade.Boot -container cli:pingpong.jade.Cliente(3)  
+##                                                            
+## Por jota (lun dic 20 21:42:41 CET 2004)                                    
+##############################################################
+
+    This is JADE 3.2 - 2004/07/26 13:41:05
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.cselt.it/
+
+Agent container Container-1@JADE-IMTP://shoham is ready.
+Todos los agentes iniciados
+0-0-

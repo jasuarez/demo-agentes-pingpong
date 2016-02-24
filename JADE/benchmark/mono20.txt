@@ -1,0 +1,95 @@
+##############################################################
+## java -server -Xmx256m jade.Boot -container cliserv:pingpong.jade.ClienteyServidor(20)  
+##                                                            
+## Por jota (jue dic 16 12:50:46 CET 2004)                                    
+##############################################################
+
+    This is JADE 3.2 - 2004/07/26 13:41:05
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.cselt.it/
+
+Agent container Container-1@JADE-IMTP://shoham is ready.
+19|
+Todos los agentes iniciados
+16-PING2> Iniciando la medida
+PING4> Iniciando la medida
+PING19> Iniciando la medida
+PING17> Iniciando la medida
+PING16> Iniciando la medida
+PING6> Iniciando la medida
+PING3> Iniciando la medida
+PING18> Iniciando la medida
+PING8> Iniciando la medida
+PING14> Iniciando la medida
+PING20> Iniciando la medida
+PING11> Iniciando la medida
+PING9> Iniciando la medida
+PING12> Iniciando la medida
+PING7> Iniciando la medida
+PING5> Iniciando la medida
+PING15> Iniciando la medida
+PING1> Iniciando la medida
+PING10> Iniciando la medida
+PING13> Iniciando la medida
+PING4> Fin de la medida
+
+@PING4,13
+PING2> Fin de la medida
+
+@PING2,13
+PING16> Fin de la medida
+
+@PING16,13
+PING8> Fin de la medida
+
+@PING8,13
+PING9> Fin de la medida
+
+@PING9,13
+PING5> Fin de la medida
+
+@PING5,13
+PING12> Fin de la medida
+
+@PING12,13
+PING1> Fin de la medida
+
+@PING1,13
+PING11> Fin de la medida
+
+@PING11,13
+PING10> Fin de la medida
+
+@PING10,13
+PING15> Fin de la medida
+
+@PING15,13
+PING6> Fin de la medida
+
+@PING6,13
+PING19> Fin de la medida
+
+@PING19,14
+PING14> Fin de la medida
+
+@PING14,13
+PING13> Fin de la medida
+
+@PING13,13
+PING18> Fin de la medida
+
+@PING18,14
+PING20> Fin de la medida
+
+@PING20,14
+PING7> Fin de la medida
+
+@PING7,14
+PING3> Fin de la medida
+
+@PING3,15
+PING17> Fin de la medida
+
+@PING17,15
+0
+Fin de las pruebas
