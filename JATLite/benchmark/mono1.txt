@@ -1,0 +1,87 @@
+##############################################################
+## java -server -Xmx256m pingpong.jatlite.ClienteyServidor 1 
+##                                                            
+## Por jota (jue dic 16 12:14:27 CET 2004)                                    
+##############################################################
+
+Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as pong1
+(reconnect-agent :host null :port 5501 :sender pong1 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+1|Initialization success
+Start to register
+Register accepted
+Before
+Start to connect as ping1
+(reconnect-agent :host null :port 5601 :sender ping1 :receiver Enrutador :password jhc)
+Connection established
+Enrutador started
+after
+Client Enrutador running
+Sending message
+Sending success
+Todos los agentes iniciados
+1-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+1-PING1> Inicio de la medida
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+1-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+1-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+1-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+1-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+1-Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+1-PING1> Fin de la medida
+
+@PING1,3009
+Sending message
+Sending success
+Sending message
+Sending success
+Sending message
+Sending success
+0
+Fin de las pruebas

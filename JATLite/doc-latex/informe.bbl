@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{kqml}
+Tim Finin, Jay Weber, Gio Wiederhold, Mike Genesereth, Don McKay, Rich
+  Fritzson, Stu Shapiro, Richard Pelavin, and Jim McGuire.
+\newblock {Specification of the {KQML} Agent-Communication Language -- plus
+  example agent policies and architectures}, 1993.
+
+\bibitem{designPatterns}
+E.~Gamma, R.~Helm, R.~Johnson, and J.~Vlissides.
+\newblock {\em Design Patterns: Elements of Reusable Object-Oriented Software}.
+\newblock Addison-Wesley, 1995.
+
+\bibitem{jatlite}
+Heecheol Jeon, Charles Petrie, and Mark~R. Cutkosky.
+\newblock {JATLite}: A java agent infrastructure with message routing.
+\newblock {\em IEEE Internet Computing}, 4(2):87--96, 2000.
+
+\end{thebibliography}
