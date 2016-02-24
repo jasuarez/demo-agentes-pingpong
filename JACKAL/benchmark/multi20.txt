@@ -1,0 +1,53 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.Cliente 20           
+##                                                            
+## Por jota (mié dic 22 18:32:49 CET 2004)                                    
+##############################################################
+
+Todos los agentes iniciados
+0-Registering ping15.local with ans
+Registering ping8.local with ans
+Registering ping13.local with ans
+Registering ping10.local with ans
+Registering ping2.local with ans
+Registering ping18.local with ans
+Registering ping6.local with ans
+Registering ping1.local with ans
+Registering ping9.local with ans
+Registering ping11.local with ans
+Registering ping20.local with ans
+Registering ping4.local with ans
+Registering ping14.local with ans
+Registering ping7.local with ans
+Registering ping19.local with ans
+Registering ping12.local with ans
+Registering ping16.local with ans
+0-Registering ping17.local with ans
+Registering ping5.local with ans
+Registering ping3.local with ans
+16-19-20-PING8> Inicio de la medida
+PING11> Inicio de la medida
+20-PING18> Inicio de la medida
+PING14> Inicio de la medida
+PING7> Inicio de la medida
+PING12> Inicio de la medida
+20-PING9> Inicio de la medida
+20-PING2> Inicio de la medida
+PING20> Inicio de la medida
+PING19> Inicio de la medida
+20-PING12> Fin de la medida
+
+@PING12,1388
+PING20> Fin de la medida
+
+@PING20,551
+PING2> Fin de la medida
+
+@PING2,855
+PING9> Fin de la medida
+
+@PING9,1236
+16-PING19> Fin de la medida
+
+@PING19,738
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-

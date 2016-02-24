@@ -1,0 +1,524 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.ClienteyServidorLoad 100  
+##                                                            
+## Por jota (jue dic 16 10:27:23 CET 2004)                                    
+##############################################################
+
+Registering pong96.local with ans
+Registering pong65.local with ans
+Registering pong61.local with ans
+Registering pong58.local with ans
+Registering pong100.local with ans
+Registering pong88.local with ans
+Registering pong99.local with ans
+Registering pong83.local with ans
+Registering pong68.local with ans
+Registering pong60.local with ans
+Registering pong54.local with ans
+Registering pong63.local with ans
+Registering pong67.local with ans
+Registering pong81.local with ans
+Registering pong84.local with ans
+Registering pong98.local with ans
+Registering pong76.local with ans
+Registering pong71.local with ans
+Registering pong93.local with ans
+Registering pong73.local with ans
+Registering pong69.local with ans
+Registering pong56.local with ans
+Registering pong59.local with ans
+Registering pong79.local with ans
+Registering pong82.local with ans
+Registering pong72.local with ans
+Registering pong89.local with ans
+Registering pong77.local with ans
+Registering pong66.local with ans
+Registering pong97.local with ans
+Registering pong70.local with ans
+Registering pong80.local with ans
+Registering pong64.local with ans
+Registering pong95.local with ans
+Registering pong62.local with ans
+Registering pong75.local with ans
+Registering pong86.local with ans
+Registering pong90.local with ans
+Registering pong94.local with ans
+Registering pong91.local with ans
+Registering pong55.local with ans
+Registering pong87.local with ans
+Registering pong52.local with ans
+Registering pong51.local with ans
+Registering pong74.local with ans
+Registering pong92.local with ans
+Registering pong78.local with ans
+Registering pong45.local with ans
+Registering pong53.local with ans
+Registering pong57.local with ans
+Registering pong49.local with ans
+Registering pong38.local with ans
+Registering pong85.local with ans
+Registering pong41.local with ans
+Registering pong46.local with ans
+Registering pong43.local with ans
+Registering pong47.local with ans
+Registering pong32.local with ans
+Registering pong40.local with ans
+Registering pong36.local with ans
+Registering pong37.local with ans
+Registering pong50.local with ans
+Registering pong39.local with ans
+Registering pong35.local with ans
+Registering pong30.local with ans
+Registering pong31.local with ans
+Registering pong42.local with ans
+Registering pong34.local with ans
+Registering pong27.local with ans
+Registering pong44.local with ans
+50|Registering pong33.local with ans
+Registering pong48.local with ans
+Registering pong28.local with ans
+Registering pong29.local with ans
+Registering pong25.local with ans
+Registering pong26.local with ans
+Registering pong10.local with ans
+57|Registering pong21.local with ans
+Registering pong24.local with ans
+Registering pong3.local with ans
+Registering pong12.local with ans
+Registering pong9.local with ans
+Registering pong18.local with ans
+Registering pong15.local with ans
+Registering pong17.local with ans
+74|Registering pong14.local with ans
+Registering pong16.local with ans
+Registering pong13.local with ans
+Registering pong8.local with ans
+Registering pong11.local with ans
+Registering pong22.local with ans
+Registering pong4.local with ans
+Registering pong20.local with ans
+Registering pong7.local with ans
+Registering pong19.local with ans
+Registering pong23.local with ans
+Registering pong5.local with ans
+Registering pong1.local with ans
+Registering pong2.local with ans
+80|Registering pong6.local with ans
+93|Registering ping67.local with ans
+Registering ping97.local with ans
+Registering ping78.local with ans
+Registering ping96.local with ans
+Registering ping81.local with ans
+Registering ping83.local with ans
+Registering ping90.local with ans
+Registering ping100.local with ans
+Registering ping79.local with ans
+Registering ping60.local with ans
+Registering ping70.local with ans
+Registering ping95.local with ans
+Registering ping91.local with ans
+Registering ping50.local with ans
+Registering ping86.local with ans
+Registering ping72.local with ans
+Registering ping64.local with ans
+Registering ping49.local with ans
+Registering ping53.local with ans
+Registering ping85.local with ans
+Registering ping75.local with ans
+Registering ping74.local with ans
+Registering ping80.local with ans
+Registering ping52.local with ans
+Registering ping84.local with ans
+Registering ping55.local with ans
+Registering ping51.local with ans
+Registering ping68.local with ans
+Registering ping87.local with ans
+Registering ping98.local with ans
+Registering ping89.local with ans
+Registering ping57.local with ans
+Registering ping71.local with ans
+Registering ping63.local with ans
+Registering ping73.local with ans
+Registering ping61.local with ans
+Registering ping76.local with ans
+Registering ping88.local with ans
+Registering ping99.local with ans
+Registering ping93.local with ans
+Registering ping46.local with ans
+Registering ping66.local with ans
+Registering ping65.local with ans
+Registering ping54.local with ans
+Registering ping92.local with ans
+Registering ping58.local with ans
+Registering ping77.local with ans
+Registering ping56.local with ans
+Registering ping62.local with ans
+Registering ping48.local with ans
+Registering ping44.local with ans
+Registering ping94.local with ans
+Registering ping69.local with ans
+Registering ping59.local with ans
+Registering ping29.local with ans
+Todos los agentes iniciados
+5-Registering ping45.local with ans
+Registering ping47.local with ans
+Registering ping43.local with ans
+Registering ping42.local with ans
+8-Registering ping82.local with ans
+Registering ping36.local with ans
+Registering ping39.local with ans
+Registering ping40.local with ans
+21-Registering ping26.local with ans
+Registering ping41.local with ans
+Registering ping19.local with ans
+Registering ping34.local with ans
+30-Registering ping11.local with ans
+Registering ping1.local with ans
+Registering ping31.local with ans
+Registering ping35.local with ans
+36-Registering ping4.local with ans
+Registering ping27.local with ans
+Registering ping25.local with ans
+38-38-Registering ping24.local with ans
+48-Registering ping38.local with ans
+Registering ping33.local with ans
+Registering ping14.local with ans
+Registering ping9.local with ans
+Registering ping13.local with ans
+53-Registering ping32.local with ans
+Registering ping15.local with ans
+Registering ping30.local with ans
+Registering ping37.local with ans
+Registering ping7.local with ans
+56-Registering ping16.local with ans
+58-Registering ping21.local with ans
+Registering ping3.local with ans
+Registering ping28.local with ans
+63-Registering ping17.local with ans
+Registering ping12.local with ans
+66-Registering ping6.local with ans
+70-Registering ping20.local with ans
+Registering ping10.local with ans
+Registering ping8.local with ans
+71-Registering ping18.local with ans
+71-Registering ping2.local with ans
+Registering ping22.local with ans
+75-Registering ping23.local with ans
+80-84-87-Registering ping5.local with ans
+88-88-90-90-92-96-98-98-98-98-98-PING75> El valor es -5552
+99-99-99-99-99-PING83> El valor es 131690
+PING35> El valor es 49536
+99-PING47> El valor es 62283
+99-PING16> El valor es 31635
+99-PING21> El valor es -83702
+99-PING10> El valor es 68360
+PING36> El valor es -22830
+PING7> El valor es 276167
+PING12> El valor es 326725
+99-PING21> El valor es -31276
+PING32> El valor es 97336
+PING29> El valor es -35111
+PING25> El valor es 76894
+99-99-99-PING18> El valor es 176561
+PING2> El valor es 17717
+PING23> El valor es 151586
+PING5> El valor es -44573
+99-PING20> El valor es 15603
+PING18> El valor es 125231
+PING2> El valor es 135284
+PING23> El valor es 83891
+PING23> El valor es 50768
+PING18> El valor es 193700
+PING20> El valor es -14310
+99-PING2> El valor es -29245
+PING5> El valor es 73261
+PING18> El valor es 217002
+PING2> El valor es 63221
+PING20> El valor es 4577
+PING5> El valor es 103865
+PING18> El valor es 5894
+99-PING23> El valor es -35987
+PING2> El valor es -63347
+PING5> El valor es -43879
+PING18> El valor es 263370
+PING20> El valor es -62690
+99-PING23> El valor es -13271
+PING18> El valor es -107641
+PING5> El valor es -7531
+PING2> El valor es 83354
+PING20> El valor es 135288
+PING23> El valor es 218104
+PING18> El valor es 236436
+99-PING2> El valor es 108581
+PING20> El valor es 70233
+PING5> El valor es -151054
+PING23> El valor es 361317
+PING18> El valor es 115292
+PING2> El valor es -61060
+99-PING23> El valor es 56235
+PING20> El valor es 63924
+PING5> El valor es 75113
+PING2> El valor es -178476
+PING18> El valor es 50149
+PING20> El valor es -141169
+PING23> El valor es 121249
+99-PING5> El valor es 23269
+PING18> El valor es 171628
+PING2> El valor es 328119
+PING23> El valor es -14027
+PING5> El valor es 206131
+PING20> El valor es 25543
+99-PING18> El valor es 98561
+PING2> El valor es -32456
+PING5> El valor es -34618
+PING20> El valor es 179458
+PING23> El valor es -6240
+PING2> El valor es -65246
+PING18> El valor es 153948
+99-PING20> El valor es 239602
+PING5> El valor es 146819
+PING23> El valor es 3352
+PING18> El valor es 87259
+PING2> El valor es 183769
+PING5> El valor es 34317
+PING20> El valor es 63307
+99-PING23> El valor es -19310
+PING2> El valor es 47720
+PING20> El valor es 171904
+PING18> El valor es -3756
+PING5> El valor es -26438
+99-PING2> El valor es 60184
+PING23> El valor es -29464
+PING20> El valor es 146363
+PING18> El valor es 42000
+PING5> El valor es 37470
+99-PING2> El valor es 135838
+PING23> El valor es 77885
+PING18> El valor es 42964
+PING20> El valor es -23826
+PING5> El valor es 321703
+PING23> El valor es 20397
+PING2> El valor es 69200
+99-PING18> El valor es 148662
+PING5> El valor es 96064
+PING20> El valor es 40144
+PING23> El valor es -34548
+PING2> El valor es 172276
+PING5> El valor es 124441
+99-PING18> El valor es 120905
+PING20> El valor es -71206
+PING23> El valor es 155524
+PING2> El valor es 75435
+PING5> El valor es 233734
+PING18> El valor es 201295
+99-PING23> El valor es 77800
+PING20> El valor es -52591
+PING2> El valor es 21058
+PING18> El valor es 259648
+PING5> El valor es -150809
+99-PING23> El valor es -21067
+PING20> El valor es -118341
+PING18> El valor es -68209
+PING5> El valor es 203687
+PING2> El valor es 90384
+PING23> El valor es 3295
+99-PING5> El valor es -73702
+PING18> El valor es 72619
+PING2> El valor es 139605
+PING20> El valor es -10680
+PING23> El valor es 86525
+PING18> El valor es 168951
+PING5> El valor es -160312
+PING2> El valor es 297615
+99-PING20> El valor es -75177
+PING23> El valor es 196284
+PING5> El valor es 77235
+PING18> El valor es -37391
+PING20> El valor es -54716
+PING2> El valor es 40673
+99-PING23> El valor es 118009
+PING18> El valor es 49062
+PING20> El valor es -70284
+PING5> El valor es 13859
+PING2> El valor es 207524
+99-PING23> El valor es -1682
+PING20> El valor es 82915
+PING5> El valor es -46876
+PING18> El valor es -132964
+PING2> El valor es 139260
+99-PING23> El valor es 6445
+PING20> El valor es 146615
+PING2> El valor es 80249
+PING18> El valor es -304590
+PING23> El valor es -29659
+PING5> El valor es 174601
+99-PING20> El valor es 60594
+PING18> El valor es 77525
+PING2> El valor es 161172
+PING23> El valor es 90604
+PING20> El valor es 210146
+PING18> El valor es -47792
+PING2> El valor es 42632
+PING5> El valor es 185004
+99-PING23> El valor es -1081
+PING20> El valor es 204942
+PING2> El valor es 320670
+PING5> El valor es -149586
+99-PING18> El valor es 161677
+PING23> El valor es 61942
+PING5> El valor es 103656
+PING20> El valor es -82105
+PING5> El valor es 316806
+99-PING2> El valor es 121322
+PING23> El valor es 67333
+PING18> El valor es 15992
+PING2> El valor es 48419
+PING20> El valor es 58232
+PING5> El valor es 271559
+PING18> El valor es 12322
+PING23> El valor es 16369
+99-PING2> El valor es 157788
+PING20> El valor es 12410
+PING5> El valor es 28271
+PING23> El valor es 60728
+PING18> El valor es 102673
+PING2> El valor es 133471
+99-PING5> El valor es 24446
+PING20> El valor es 214708
+99-PING18> El valor es 131035
+PING23> El valor es 54478
+PING5> El valor es 10377
+PING2> El valor es 87472
+PING20> El valor es -14115
+PING5> El valor es 16925
+99-PING18> El valor es 30189
+PING23> El valor es 67550
+PING2> El valor es 112111
+PING20> El valor es 297
+PING5> El valor es -85090
+99-PING18> El valor es 242639
+PING2> El valor es 214256
+PING5> El valor es -33060
+PING20> El valor es 7042
+PING23> El valor es 84307
+99-PING18> El valor es -42714
+PING20> El valor es 250302
+PING2> El valor es 150510
+PING18> El valor es 31298
+99-PING5> El valor es 124603
+PING2> El valor es 926
+PING20> El valor es 105327
+PING18> El valor es 207196
+PING2> El valor es -41446
+PING5> El valor es 104885
+PING20> El valor es 104885
+99-PING18> El valor es 127807
+PING5> El valor es 98982
+PING20> El valor es 179736
+PING2> El valor es 60067
+99-PING18> El valor es 142482
+PING5> El valor es 25156
+PING20> El valor es -18768
+PING18> El valor es 142208
+PING5> El valor es 132491
+99-PING2> El valor es -4210
+PING5> El valor es 58421
+PING20> El valor es 265898
+99-PING2> El valor es 6881
+PING18> El valor es 127675
+PING5> El valor es 29344
+PING20> El valor es 4814
+99-PING2> El valor es 145936
+PING18> El valor es -35523
+PING20> El valor es -23544
+99-PING5> El valor es 147507
+PING2> El valor es 76161
+PING18> El valor es 155311
+PING20> El valor es 76355
+99-PING5> El valor es 11235
+PING2> El valor es 179710
+PING18> El valor es 214601
+PING20> El valor es 102057
+PING18> El valor es 78642
+PING5> El valor es 72889
+PING2> El valor es 167180
+99-PING20> El valor es -2215
+PING18> El valor es -100956
+PING2> El valor es 94876
+PING5> El valor es 111772
+PING20> El valor es 30416
+99-PING18> El valor es 82319
+PING2> El valor es 106168
+PING20> El valor es 139804
+99-PING5> El valor es 40501
+PING18> El valor es -6372
+PING2> El valor es 74374
+PING20> El valor es 185043
+PING18> El valor es -210442
+PING5> El valor es 82506
+99-PING2> El valor es 78308
+PING20> El valor es 147900
+PING18> El valor es 38490
+PING5> El valor es 265613
+PING2> El valor es -8756
+99-PING2> El valor es 97876
+PING20> El valor es 131401
+PING5> El valor es 5272
+PING18> El valor es -26386
+PING2> El valor es -41559
+99-PING20> El valor es 57834
+PING5> El valor es -32342
+PING18> El valor es 221214
+PING2> El valor es 95938
+PING18> El valor es 78515
+99-PING2> El valor es 203043
+PING5> El valor es -10138
+PING20> El valor es -35142
+PING18> El valor es -41415
+PING2> El valor es 9975
+PING20> El valor es 36804
+99-PING18> El valor es 16785
+PING5> El valor es 170556
+PING2> El valor es 130573
+PING20> El valor es -5800
+PING5> El valor es 198854
+PING18> El valor es 113449
+PING2> El valor es 97102
+99-PING5> El valor es -58318
+PING20> El valor es 48501
+PING2> El valor es 105488
+PING5> El valor es 40171
+PING18> El valor es 217184
+PING2> El valor es 138228
+PING20> El valor es 142154
+99-PING5> El valor es -939
+PING18> El valor es 163482
+PING2> El valor es 49959
+PING20> El valor es -29976
+PING5> El valor es 68934
+PING20> El valor es 164624
+PING18> El valor es 83311
+PING2> El valor es 73821
+99-PING5> El valor es 70889
+PING20> El valor es 66360
+PING18> El valor es 39388
+PING2> El valor es 119437
+PING20> El valor es 116974
+PING5> El valor es 142148
+99-PING18> El valor es 136554
+PING2> El valor es 311622
+PING18> El valor es -36941
+PING5> El valor es 23555
+PING20> El valor es 113492
+99-PING2> El valor es 95024
+PING20> El valor es 127200
+PING18> El valor es 40870
+99-PING5> El valor es 103136
+PING2> El valor es 92696
+PING18> El valor es 99856
+PING5> El valor es 129309
+99-PING2> El valor es 173383
+PING20> El valor es 125021
+PING18> El valor es 28984
+PING2> El valor es 99214
+PING5> El valor es 53509

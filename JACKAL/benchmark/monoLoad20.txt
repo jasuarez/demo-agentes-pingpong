@@ -1,0 +1,483 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.ClienteyServidorLoad 20  
+##                                                            
+## Por jota (jue dic 16 10:09:47 CET 2004)                                    
+##############################################################
+
+0|Registering pong6.local with ans
+Registering pong18.local with ans
+Registering pong11.local with ans
+Registering pong7.local with ans
+Registering pong8.local with ans
+Registering pong5.local with ans
+Registering pong1.local with ans
+Registering pong3.local with ans
+Registering pong16.local with ans
+Registering pong2.local with ans
+Registering pong20.local with ans
+Registering pong19.local with ans
+Registering pong14.local with ans
+Registering pong10.local with ans
+Registering pong4.local with ans
+Registering pong12.local with ans
+Registering pong9.local with ans
+Registering pong17.local with ans
+0|Registering pong13.local with ans
+Registering pong15.local with ans
+10|Todos los agentes iniciados
+0-Registering ping17.local with ans
+Registering ping1.local with ans
+Registering ping9.local with ans
+Registering ping18.local with ans
+Registering ping13.local with ans
+Registering ping8.local with ans
+Registering ping12.local with ans
+Registering ping5.local with ans
+Registering ping3.local with ans
+Registering ping10.local with ans
+Registering ping4.local with ans
+Registering ping19.local with ans
+Registering ping15.local with ans
+Registering ping20.local with ans
+Registering ping16.local with ans
+Registering ping2.local with ans
+Registering ping6.local with ans
+Registering ping7.local with ans
+Registering ping14.local with ans
+Registering ping11.local with ans
+4-12-19-PING17> El valor es 157939
+20-20-PING5> El valor es 67738
+PING1> El valor es -19750
+PING8> El valor es 87487
+PING17> El valor es 74583
+PING17> Inicio de la medida
+20-PING20> El valor es -30030
+PING2> El valor es -55847
+PING19> El valor es -18863
+PING12> El valor es -9613
+PING13> El valor es 83935
+20-PING16> El valor es 208764
+PING7> El valor es 113075
+20-PING18> El valor es -157310
+20-PING4> El valor es 14688
+PING6> El valor es 232975
+20-PING15> El valor es 31954
+PING10> El valor es -54733
+PING14> El valor es -40266
+PING6> El valor es 56880
+PING6> Inicio de la medida
+PING4> El valor es -91740
+PING4> Inicio de la medida
+20-PING14> El valor es 157750
+PING10> El valor es 148971
+PING10> Inicio de la medida
+PING14> Inicio de la medida
+PING15> El valor es 256958
+PING15> Inicio de la medida
+PING6> El valor es 72315
+PING4> El valor es -131575
+20-PING14> El valor es 63385
+PING15> El valor es 53974
+PING6> El valor es -57442
+PING10> El valor es 310531
+PING4> El valor es 167055
+PING14> El valor es 62634
+20-PING15> El valor es 93102
+PING4> El valor es 7761
+PING10> El valor es -93922
+PING14> El valor es 57170
+PING6> El valor es 39260
+PING15> El valor es -20781
+PING4> El valor es 110388
+PING14> El valor es 61175
+20-PING10> El valor es 147558
+PING15> El valor es -135778
+PING6> El valor es 97663
+PING4> El valor es 171777
+PING10> El valor es 268381
+PING14> El valor es 124312
+PING6> El valor es 107915
+20-PING15> El valor es -126500
+PING14> El valor es -9346
+PING4> El valor es -13126
+PING10> El valor es 168647
+PING6> El valor es 11550
+PING15> El valor es 159182
+PING14> El valor es 109990
+20-PING10> El valor es 121770
+PING4> El valor es 198022
+PING6> El valor es 113769
+PING14> El valor es 51678
+PING15> El valor es 7020
+PING6> El valor es -72061
+PING4> El valor es 47345
+20-PING14> El valor es -6827
+PING15> El valor es 157218
+PING10> El valor es 19261
+PING6> El valor es 37763
+PING4> El valor es 78762
+PING15> El valor es 82822
+PING10> El valor es 171261
+PING4> El valor es 360264
+PING4> Fin de la medida
+
+@PING4,3524
+19-PING14> El valor es 114183
+PING14> Fin de la medida
+
+@PING14,3401
+PING10> El valor es -79350
+PING6> El valor es -12748
+PING15> El valor es 310926
+PING4> El valor es 223106
+PING6> Fin de la medida
+
+@PING6,3848
+PING15> Fin de la medida
+
+@PING15,3436
+16-PING6> El valor es 223444
+PING14> El valor es 135676
+PING15> El valor es -890
+PING4> El valor es -12301
+PING6> El valor es 426933
+PING10> El valor es 42688
+PING10> Fin de la medida
+
+@PING10,4269
+PING14> El valor es 18477
+PING4> El valor es 88721
+15-PING15> El valor es 23203
+PING10> El valor es -34174
+PING6> El valor es 218233
+PING14> El valor es 56150
+PING4> El valor es 26639
+PING10> El valor es 23366
+PING14> El valor es 37164
+15-PING15> El valor es -248349
+PING6> El valor es -85389
+PING10> El valor es 1769
+PING4> El valor es 58645
+PING14> El valor es -27837
+PING15> El valor es 27758
+15-PING4> El valor es 49587
+PING6> El valor es 10377
+PING14> El valor es -27782
+PING10> El valor es 37711
+PING15> El valor es 13475
+PING4> El valor es 121645
+PING6> El valor es 113800
+PING14> El valor es 64474
+15-PING10> El valor es 40064
+PING15> El valor es 98931
+PING6> El valor es 50454
+PING14> El valor es 154718
+PING4> El valor es -5626
+15-PING15> El valor es 46196
+PING14> El valor es 188579
+PING10> El valor es 58393
+PING6> El valor es 195369
+PING15> El valor es 158064
+PING4> El valor es 107308
+PING10> El valor es -24774
+PING6> El valor es -83005
+PING15> El valor es 85885
+15-PING14> El valor es 32862
+PING4> El valor es 101379
+PING10> El valor es -92126
+PING14> El valor es -88943
+PING15> El valor es -104801
+PING6> El valor es 95925
+PING10> El valor es 353764
+15-PING4> El valor es 74050
+PING6> El valor es -31085
+PING14> El valor es 79696
+PING15> El valor es 177588
+PING10> El valor es 29411
+PING4> El valor es -20844
+PING6> El valor es -8600
+15-PING15> El valor es 73341
+PING14> El valor es 196870
+PING10> El valor es 101837
+PING4> El valor es 7002
+PING14> El valor es 75046
+15-PING6> El valor es 31022
+PING10> El valor es 120948
+PING4> El valor es 175875
+PING15> El valor es 76069
+15-PING10> El valor es 52911
+PING14> El valor es 28879
+PING6> El valor es 80227
+PING4> El valor es 87798
+PING15> El valor es 225812
+PING14> El valor es 116673
+15-PING6> El valor es 79820
+PING10> El valor es 55559
+PING4> El valor es 115035
+PING10> El valor es 223345
+PING14> El valor es -34482
+15-PING6> El valor es -29044
+PING15> El valor es -662
+PING4> El valor es 190240
+PING6> El valor es -76014
+PING14> El valor es -15796
+PING10> El valor es 225445
+PING15> El valor es 122854
+15-PING4> El valor es 86127
+PING10> El valor es -45210
+PING14> El valor es 111534
+PING15> El valor es 126455
+15-PING6> El valor es -14982
+PING4> El valor es 107588
+PING15> El valor es 234277
+PING14> El valor es 131938
+PING6> El valor es 89954
+15-PING10> El valor es -6701
+PING4> El valor es 156552
+PING15> El valor es 42085
+PING6> El valor es -18356
+PING14> El valor es 158015
+PING10> El valor es -39191
+PING15> El valor es 108054
+15-PING4> El valor es 128592
+PING14> El valor es 159140
+PING15> El valor es 198518
+PING10> El valor es -64720
+PING6> El valor es -65221
+15-PING14> El valor es 10155
+PING4> El valor es 74713
+PING15> El valor es 147828
+PING6> El valor es 128941
+15-PING10> El valor es 43000
+PING15> El valor es 90997
+PING4> El valor es -25937
+PING14> El valor es 152898
+15-PING6> El valor es 237711
+PING4> El valor es 87077
+PING15> El valor es -44839
+PING10> El valor es 64231
+PING14> El valor es 118960
+15-PING4> El valor es -7458
+PING14> El valor es 212136
+15-PING6> El valor es 103876
+PING10> El valor es 230732
+PING15> El valor es 197999
+PING4> El valor es 122362
+PING10> El valor es 106386
+15-PING14> El valor es 152708
+PING15> El valor es 191958
+PING6> El valor es 74735
+PING14> El valor es 45886
+PING4> El valor es 85486
+PING10> El valor es 164013
+PING15> El valor es 116591
+15-PING14> El valor es 17701
+PING6> El valor es 168181
+PING15> El valor es 72434
+PING10> El valor es 116568
+15-PING4> El valor es 350539
+PING14> El valor es 70832
+PING6> El valor es 90944
+PING15> El valor es 152960
+PING14> El valor es 91394
+PING6> El valor es 197036
+PING15> El valor es 128218
+PING10> El valor es 188152
+15-PING4> El valor es -4555
+PING15> El valor es 124954
+PING4> El valor es 82235
+15-PING6> El valor es 60844
+PING10> El valor es 126205
+PING14> El valor es 173910
+PING10> El valor es 81428
+PING15> El valor es 82305
+PING6> El valor es 187300
+PING4> El valor es 72503
+15-PING6> El valor es 114477
+PING10> El valor es 23677
+PING15> El valor es 201626
+PING4> El valor es 134694
+PING14> El valor es 227118
+15-PING6> El valor es 10757
+PING10> El valor es 38582
+PING15> El valor es 270517
+PING4> El valor es 175975
+PING14> El valor es 265201
+15-PING6> El valor es 5270
+PING10> El valor es 226434
+PING14> El valor es 80335
+PING4> El valor es 244352
+PING15> El valor es 48631
+15-PING6> El valor es 67093
+PING14> El valor es 272980
+PING15> El valor es 87678
+PING10> El valor es 156928
+PING4> El valor es 183766
+PING14> El valor es 105768
+PING6> El valor es 185246
+15-PING15> El valor es 71113
+PING4> El valor es 233966
+PING10> El valor es 98058
+PING14> El valor es 72081
+15-PING6> El valor es 123781
+PING4> El valor es 63028
+PING15> El valor es 95421
+PING10> El valor es 188883
+15-PING6> El valor es -24036
+PING15> El valor es 225691
+PING14> El valor es 213269
+PING4> El valor es 70215
+15-PING10> El valor es 65375
+PING15> El valor es 132121
+15-PING14> El valor es 75166
+PING15> El valor es 134016
+PING14> El valor es 244144
+PING10> El valor es 21831
+15-PING15> El valor es 242464
+PING10> El valor es 57553
+PING14> El valor es 187300
+PING15> El valor es 156244
+15-PING10> El valor es -212281
+PING15> El valor es 146330
+PING14> El valor es 266712
+PING15> El valor es 168835
+15-PING10> El valor es -35760
+PING14> El valor es 39545
+PING15> El valor es 126235
+PING10> El valor es 150985
+PING14> El valor es 85342
+PING15> El valor es 195928
+15-PING15> El valor es 115021
+PING14> El valor es -44246
+PING10> El valor es 16161
+PING15> El valor es 188997
+PING14> El valor es 224135
+15-PING10> El valor es 248637
+PING15> El valor es 161852
+PING14> El valor es 88438
+PING10> El valor es 83371
+PING15> El valor es 127105
+15-PING15> El valor es 255062
+PING14> El valor es 187134
+PING10> El valor es 164780
+PING10> El valor es 128297
+PING15> El valor es 53447
+PING14> El valor es 234068
+15-PING15> El valor es 62304
+PING14> El valor es -9079
+PING10> El valor es 106350
+PING15> El valor es 180987
+15-PING10> El valor es 274992
+PING14> El valor es 176673
+PING15> El valor es 144835
+PING15> El valor es 129644
+PING10> El valor es 64437
+15-PING15> El valor es 89870
+PING14> El valor es 270927
+PING10> El valor es 142675
+PING15> El valor es 6751
+15-PING10> El valor es -6374
+PING14> El valor es 176915
+PING15> El valor es 229013
+PING15> El valor es 81993
+15-PING14> El valor es 78279
+PING10> El valor es 252732
+PING15> El valor es 178365
+PING14> El valor es 105027
+PING10> El valor es 123567
+15-PING15> El valor es 79878
+PING10> El valor es 105822
+PING10> El valor es 274784
+PING15> El valor es -25369
+PING14> El valor es 68136
+15-PING10> El valor es 140637
+PING15> El valor es 208334
+PING14> El valor es 82559
+PING10> El valor es 141409
+PING15> El valor es 173928
+15-PING14> El valor es 146771
+PING10> El valor es 141808
+PING15> El valor es 225740
+PING10> El valor es 181284
+15-PING15> El valor es 237901
+PING10> El valor es 201620
+PING14> El valor es 148028
+PING15> El valor es 52284
+PING14> El valor es 157471
+PING10> El valor es 123239
+15-PING15> El valor es 151012
+PING10> El valor es 92543
+PING14> El valor es 160540
+PING15> El valor es 157977
+15-PING10> El valor es 224255
+PING14> El valor es 73426
+PING15> El valor es 48431
+PING14> El valor es 78505
+PING15> El valor es 44573
+15-PING10> El valor es 108114
+PING15> El valor es 231108
+PING14> El valor es 40076
+PING10> El valor es 162255
+PING10> El valor es 214494
+15-PING14> El valor es -1107
+PING15> El valor es 122833
+PING10> El valor es 167149
+PING15> El valor es 104570
+PING10> El valor es 273214
+15-PING15> El valor es 220545
+PING10> El valor es 191445
+PING14> El valor es 181733
+PING15> El valor es 75121
+PING10> El valor es 109312
+15-PING10> El valor es 222131
+PING14> El valor es 187084
+PING15> El valor es 214446
+PING10> El valor es 156578
+15-PING15> El valor es 204908
+PING14> El valor es 86395
+PING10> El valor es 127529
+PING14> El valor es 221924
+PING15> El valor es 126234
+15-PING10> El valor es 163117
+PING10> El valor es 157954
+PING14> El valor es 54888
+PING15> El valor es 288709
+15-PING10> El valor es 148166
+PING14> El valor es 153594
+PING15> El valor es 104992
+PING10> El valor es 231807
+15-PING15> El valor es 281961
+PING14> El valor es 48183
+PING10> El valor es 139579
+PING10> El valor es -11877
+PING15> El valor es 40497
+15-PING10> El valor es 212445
+PING14> El valor es 155427
+PING15> El valor es 144632
+PING10> El valor es 289707
+PING15> El valor es 254038
+PING14> El valor es 15743
+15-PING10> El valor es 83564
+PING15> El valor es 176647
+PING10> El valor es 222327
+15-PING15> El valor es 162757
+PING14> El valor es 184162
+PING15> El valor es 205742
+PING10> El valor es 147559
+PING14> El valor es 161847
+PING15> El valor es 138352
+15-PING14> El valor es 236592
+PING10> El valor es 67591
+PING15> El valor es 73150
+PING10> El valor es 206040
+15-PING15> El valor es 186851
+PING14> El valor es 53225
+PING15> El valor es 105487
+PING10> El valor es 165637
+15-PING15> El valor es 84886
+PING10> El valor es 102551
+PING15> El valor es 108883
+PING10> El valor es 154693
+PING14> El valor es 232554
+PING15> El valor es 195523
+15-

@@ -1,0 +1,54 @@
+(config
+  (debug
+    (print
+      (swb false)
+      (dir false)
+      (log false)
+      (con false)
+      (cnt false)
+      (cnv false)
+      (msh false)
+      (dis false)
+      (nms false)
+      (mat false)
+      (int false)
+      (msg false)
+      (ars false)
+      (rom false)
+      (tcp false)
+      (vmd false)
+      (vml false)
+      (console false)))
+  (runtime
+    (path
+      (bypass_conversations false)
+      (bypass_distributor false))
+    (network
+      (machine_name "shoham")
+      (tcpip_domain_name "dc.fi.udc.es")
+      (protocols
+        (_1 (name "J3.TcpipService") 
+            (param (config (preferred_port "5500")))
+            (fasttrack true))
+        (_2 (name "J3.Tcpip2Service") 
+            (param (config (preferred_port "5501"))) 
+            (fasttrack true)))
+      (preferred_protocol tcpip2)
+      (vmd_enabled false)
+      (preferred_subdomain ans)
+      (agents
+	(_1 (name ans) (protocol tcpip2) 
+            (address "shoham.dc.fi.udc.es:5501"))))
+    (rom_enabled true) 
+    (ans_enabled true) 
+    (conversations
+      "file:///home/jota/SOFT/KQML/JACKAL/conversations/c.kqml-ask-if"
+      "file:///home/jota/SOFT/KQML/JACKAL/conversations/c.kqml-ask-one"
+      "file:///home/jota/SOFT/KQML/JACKAL/conversations/c.kqml-ask-all"
+      "file:///home/jota/SOFT/KQML/JACKAL/conversations/c.kqml-recommend-one"
+      "file:///home/jota/SOFT/KQML/JACKAL/conversations/c.kqml-recommend-all"
+      "file:///home/jota/SOFT/KQML/JACKAL/conversations/c.kqml-tell"
+      "file:///home/jota/SOFT/KQML/JACKAL/conversations/c.kqml-register"
+      "file:///home/jota/SOFT/KQML/JACKAL/conversations/c.kqml-unregister"
+      "file:///home/jota/SOFT/KQML/JACKAL/conversations/c.kqml-advertise"
+      "file:///home/jota/SOFT/KQML/JACKAL/conversations/c.kqml-subscribe" )))

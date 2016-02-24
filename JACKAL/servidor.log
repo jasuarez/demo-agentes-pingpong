@@ -1,0 +1,17 @@
+##############################################################
+## java -server -Xmx256m pingpong.jackal.Servidor 10          
+##                                                            
+## Por jota (mié dic 22 19:07:52 CET 2004)                                    
+##############################################################
+
+0|Registering pong5.local with ans
+Registering pong1.local with ans
+Registering pong4.local with ans
+Registering pong3.local with ans
+0|Registering pong7.local with ans
+Registering pong8.local with ans
+Registering pong9.local with ans
+Registering pong10.local with ans
+Registering pong6.local with ans
+Registering pong2.local with ans
+2|Todos los agentes iniciados
