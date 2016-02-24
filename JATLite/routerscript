@@ -1,0 +1,22 @@
+# Router Name. The address file should have the Router address with the Router name.
+Enrutador
+# Address file(include Router, RotuerRegistrar, and other) path
+/home/jota/eclipse/pingpong-JATLite/AddressFile
+# Incoming mail box directory. should ended with '/'
+/home/jota/eclipse/pingpong-JATLite/incoming/
+# password file path.  
+/home/jota/eclipse/pingpong-JATLite/PasswordPingPong
+# registry file path. 
+/home/jota/eclipse/pingpong-JATLite/RegistryPingPong
+# Maxiumum duration time for the Router Receiver Thread. 
+300
+# Maximum trial time for reconnecting to the stand alone off line agent
+5
+# Reconnection trial time period in minutes( here, 1 hr)
+60
+# Maximum trial time to send reserved message
+5
+# Sending reserved message time period
+60
+# Router agent action sleep time in milliseconds
+5000

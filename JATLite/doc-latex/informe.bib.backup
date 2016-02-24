@@ -1,0 +1,30 @@
+@misc{kqml,
+author = "Tim Finin and Jay Weber and Gio Wiederhold and Mike Genesereth and
+Don McKay and Rich Fritzson and Stu Shapiro and Richard Pelavin and Jim
+McGuire",
+title = "{Specification of the {KQML} Agent-Communication Language --
+plus example agent policies and architectures}",
+year = "1993",
+url = "citeseer.ist.psu.edu/finin94specification.html"
+}
+
+@article{jatlite,
+ author = {Heecheol Jeon and Charles Petrie and Mark R. Cutkosky},
+ title = {JATLite: A Java Agent Infrastructure with Message Routing},
+ journal = {IEEE Internet Computing},
+ volume = {4},
+ number = {2},
+ year = {2000},
+ issn = {1089-7801},
+ pages = {87--96},
+ doi = {http://dx.doi.org/10.1109/4236.832951},
+ publisher = {IEEE Educational Activities Department},
+ }
+
+@book{designPatterns,
+author = {E. Gamma and R. Helm and R. Johnson and J. Vlissides},
+title = {Design Patterns: Elements of Reusable Object-Oriented Software},
+publisher = {Addison-Wesley},
+year = 1995,
+keywords = {Patterns} 
+}
